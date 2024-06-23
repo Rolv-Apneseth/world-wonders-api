@@ -1,0 +1,1187 @@
+[
+  {
+    "name": "Great Pyramid of Giza",
+    "location": "Giza, Egypt",
+    "build_year": -2560,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "britannica": "https://www.britannica.com/place/Great-Pyramid-of-Giza",
+      "google_maps": "https://www.google.com/maps/place/The+Great+Pyramid+of+Giza/@29.9791705,31.1342046,17z/data=!3m1!4b1!4m6!3m5!1s0x14584587ac8f291b:0x810c2f3fa2a52424!8m2!3d29.9791705!4d31.1342046!16zL20vMDM2bWs",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294202-d308887-Reviews-Great_Pyramid_of_Cheops_Khufu-Giza_Giza_Governorate.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+        "https://cdn.britannica.com/75/178475-050-E9212E3D/Pyramid-of-Khufu-Giza-Egypt.jpg",
+        "https://cdn.britannica.com/06/122506-050-C8E03A8A/Pyramid-of-Khafre-Giza-Egypt.jpg",
+        "https://cdn.britannica.com/87/194387-050-CC38D282/Cross-section-interior-Great-Pyramid-of-Khufu.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Stonehenge",
+    "location": "Salisbury, England",
+    "build_year": -2400,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Stonehenge",
+      "britannica": "https://www.britannica.com/place/Stonehenge",
+      "google_maps": "https://www.google.com/maps/place/Stonehenge/@51.1789754,-1.8291006,16.67z/data=!4m6!3m5!1s0x4873e63b850af611:0x979170e2bcd3d2dd!8m2!3d51.178882!4d-1.826215!16zL20vMDZ3Zmc?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186414-d188527-Reviews-Stonehenge-Salisbury_Wiltshire_England.html",
+      "images": [
+        "https://cdn.britannica.com/01/153601-050-CC20C4EB/Stonehenge-Salisbury-Plain-England-Wiltshire.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg",
+        "https://cdn.britannica.com/67/123467-050-E8AB40DD/Stonehenge-example-post-and-lintel-construction.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/67/Stonehenge_render.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Newgrange",
+    "location": "Drogheda, Ireland",
+    "build_year": -3200,
+    "time_period": "Prehistoric",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Newgrange",
+      "britannica": "https://www.britannica.com/place/Newgrange",
+      "google_maps": "https://www.google.com/maps/place/Newgrange/@53.694715,-6.478072,17z/data=!3m1!4b1!4m6!3m5!1s0x48673862a2daed2f:0xcc850ffdbed08c17!8m2!3d53.6947119!4d-6.4754917!16zL20vMDFicXp5?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g804266-d10326114-Reviews-Newgrange-Donore_County_Meath.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0f/Irelands_history.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Newgrange%2C_Meath.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7c/5b/2d/the-burial-mound.jpg?w=1200&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/Wakeman_Newgrange_tumulus_chamber_cross_section.png"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Lighthouse of Alexandria",
+    "location": "Alexandria, Egypt",
+    "build_year": -280,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
+      "britannica": "https://www.britannica.com/place/lighthouse-of-Alexandria",
+      "google_maps": "https://www.google.com/maps/place/Lighthouse+of+Alexandria/@34.4561224,-65.4230684,4z/data=!4m10!1m2!2m1!1sLighthouse+of+Alexandria!3m6!1s0x14f5c59b6eccdc31:0x39a6e16955846edf!8m2!3d31.214191!4d29.8913121!15sChhMaWdodGhvdXNlIG9mIEFsZXhhbmRyaWGSARNoaXN0b3JpY2FsX2xhbmRtYXJr4AEA!16s%2Fg%2F11t8d9z365?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g295398-d6475508-Reviews-Lighthouse_of_Alexandria-Alexandria_Alexandria_Governorate.html",
+      "images": [
+        "https://cdn.britannica.com/07/172307-050-4D3BA855/Pharos-Alexandria.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/Lighthouse_-_Thiersch.png",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/84/03/f8/caption.jpg?w=1200&h=-1&s=1"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Hanging Gardens of Babylon",
+    "location": "Mahawii, Iraq",
+    "build_year": 600,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon",
+      "britannica": "https://www.britannica.com/place/Remains+of+the+Hanging+Gardens+of+Babylon/@32.5440146,44.4178854,17z/data=!3m1!4b1!4m6!3m5!1s0x1558fdd71dd08931:0x6fe5866e28155e9a!8m2!3d32.5440101!4d44.4204657!16zL20vMGhtOGc?entry=ttu",
+      "google_maps": null,
+      "trip_advisor": null,
+      "images": [
+        "https://cdn.britannica.com/39/1139-050-71C43AEE/re-creation-artist-Hanging-Gardens-of-Babylon-world.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hanging_Gardens_of_Babylon.jpg",
+        "https://cdn.britannica.com/55/168955-050-C3BD4CDD/Hanging-Gardens-of-Babylon-reconstruction.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Hagia Sophia",
+    "location": "Istanbul, Turkey",
+    "build_year": 537,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "britannica": "https://www.britannica.com/place/Hagia-Sophia",
+      "google_maps": "https://www.google.com/maps/place/Hagia+Sophia+Grand+Mosque/@41.0085869,28.9752987,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9be92011c27:0x236e6f6f37444fae!8m2!3d41.008583!4d28.980175!16zL20vMGJyNXE?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g293974-d294497-Reviews-Hagia_Sophia_Mosque-Istanbul.html",
+      "images": [
+        "https://cdn.britannica.com/03/189803-050-871B95C4/Hagia-Sophia-Istanbul.jpg",
+        "https://cdn.britannica.com/58/93158-050-7719EB2B/view-Blue-Mosque-Istanbul-Hagia-Sophia.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/7f/77/72/caption.jpg?w=1200&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hagia_Sophia%2C_Constantinople%2C_Turkey%2C_ca._1897.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Colossus of Rhodes",
+    "location": "Rhodes, Greece",
+    "build_year": -353,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
+      "britannica": "https://www.britannica.com/place/Colossus-of-Rhodes",
+      "google_maps": "https://www.google.com/maps/place/Colossus+of+Rhodes/@36.4510475,28.2232986,17z/data=!3m1!4b1!4m6!3m5!1s0x1495619a72df1397:0xe0e598a70e6bd9c6!8m2!3d36.4510432!4d28.2258789!16s%2Fg%2F11fl5qn36d?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g635613-d199078-Reviews-Colossus_of_Rhodes-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html",
+      "images": [
+        "https://cdn.britannica.com/81/39481-050-48B24E02/conception-Artist-Chares-of-Lindos-Colossus-Rhodes-1875.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rhodes0211.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mandraki_colosseus_harbour_rhodes.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Statue of Zeus at Olympia",
+    "location": "Olympia, Greece",
+    "build_year": -466,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia",
+      "britannica": "https://www.britannica.com/place/Statue-of-Zeus",
+      "google_maps": "https://www.google.com/maps/place/Statue+of+Zeus+at+Olympia/@37.6446189,21.6233446,17z/data=!3m1!4b1!4m6!3m5!1s0x136093d9fcbe23df:0xc04fa5eb15ec28a7!8m2!3d37.6446147!4d21.6259249!16s%2Fg%2F11s37fgvhf?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189487-d24187996-Reviews-Statue_Of_Zeus_At_Olympia-Olympia_Elis_Region_West_Greece.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg",
+        "https://cdn.britannica.com/68/168968-050-B7EB85D5/Statue-Zeus-Olympia.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/14/0d/2d/statue-of-zeus-at-olympia.jpg?w=1100&h=-1&s=1"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Temple of Artemis at Ephesus",
+    "location": "Selƈuk, Turkey",
+    "build_year": -550,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Temple_of_Artemis",
+      "britannica": "https://www.britannica.com/place/Temple-of-Artemis-temple-Ephesus-Turkey",
+      "google_maps": "https://www.google.com/maps/place/The+Temple+of+Artemis/@37.95203,27.3722712,15.67z/data=!4m6!3m5!1s0x14b94d56fca57281:0xfaa6e359607f4524!8m2!3d37.9495785!4d27.3639125!16zL20vMGo0dl8?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g293976-d318896-Reviews-The_Temple_of_Artemis-Selcuk_Izmir_Province_Turkish_Aegean_Coast.html",
+      "images": [
+        "https://cdn.britannica.com/51/168951-050-FF56AB5F/Temple-of-Artemis-Ephesus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Miniaturk_009.jpg",
+        "https://cdn.britannica.com/13/127013-050-ECD27F0E/Site-Temple-of-Artemis-Turkey-Ephesus.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Golden Gate Bridge",
+    "location": "San Francisco, USA",
+    "build_year": 1933,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+      "britannica": "https://www.britannica.com/place/Golden-Gate-Bridge",
+      "google_maps": "https://www.google.com/maps/place/Golden+Gate+Bridge/@37.8199109,-122.4785598,17z/data=!3m1!4b1!4m6!3m5!1s0x808586deffffffc3:0xcded139783705509!8m2!3d37.8199109!4d-122.4785598!16zL20vMDM1cDM?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60713-d104675-Reviews-Golden_Gate_Bridge-San_Francisco_California.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+        "https://cdn.britannica.com/76/94476-050-12BB1BA2/Golden-Gate-Bridge-San-Francisco.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Below_Golden_Gate_Bridge.jpeg",
+        "https://cdn.britannica.com/75/164175-050-EB8FA18B/Building-towers-Golden-Gate-Bridge-construction-1934.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "CN Tower",
+    "location": "Toronto, Canada.",
+    "build_year": 1973,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/CN_Tower",
+      "britannica": "https://www.britannica.com/place/CN-Tower",
+      "google_maps": "https://www.google.com/maps/place/CN+Tower/@43.6425701,-79.3896371,17z/data=!3m2!4b1!5s0x882b34d819a55ff7:0xad7cf7bcaf4e239b!4m6!3m5!1s0x882b34d68bf33a9b:0x15edd8c4de1c7581!8m2!3d43.6425662!4d-79.3870568!16zL20vMDF0d3M?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g155019-d155483-Reviews-CN_Tower-Toronto_Ontario.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/Toronto_-_ON_-_CN_Tower_bei_Nacht2.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7a/7f/df/photo1jpg.jpg?w=1200&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/CN_Tower_under_construction.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Channel Tunnel",
+    "location": "English Channel",
+    "build_year": 1991,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Channel_Tunnel",
+      "britannica": "https://www.britannica.com/place/Channel-Tunnel",
+      "google_maps": null,
+      "trip_advisor": null,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg",
+        "https://cdn.britannica.com/60/200560-050-5483EA30/train-Channel-Tunnel-Folkestone-England.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/A_d%C3%A9li_pajzs_a_keresztez%C5%91kamr%C3%A1ban.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/59/Channel_Tunnel_geological_profile_1.svg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Delta Works",
+    "location": "The Netherlands",
+    "build_year": 1986,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Delta_Works",
+      "britannica": "https://www.britannica.com/place/Delta-Works",
+      "google_maps": null,
+      "trip_advisor": null,
+      "images": [
+        "https://www.touristsecrets.com/wp-content/uploads/2023/09/netherlands-delta-works-wonder-of-the-modern-world-guide-1694277268.jpg",
+        "https://cdn.britannica.com/71/149771-050-78501528/Oosterscheldedam-Eastern-Schelde-Netherlands.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/1-Stormvloedkering_Hollandse_IJssel-Algerabrug--DSC_0179.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Panama Canal",
+    "location": "Panama",
+    "build_year": 1914,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Panama_Canal",
+      "britannica": "https://www.britannica.com/place/Panama-Canal",
+      "google_maps": "https://www.google.com/maps/place/Panama+Canal/@9.1440091,-80.040663,11z/data=!3m1!4b1!4m6!3m5!1s0x8fab5f4b31cd492d:0xd9dd11e7a14a0960!8m2!3d9.1223491!4d-79.7311627!16zL20vMDY2cmw?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294480-d299921-Reviews-Panama_Canal-Panama_City_Panama_Province.html",
+      "images": [
+        "https://cdn.britannica.com/81/13081-050-9C3E9E28/Passenger-cruise-ship-Panama-Canal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/New_Panama_Canal.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9c/1d/fc/transito-por-la-8-maravilla.jpg?w=800&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f3/Missouri_panama_canal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/SS_Ancon_entering_west_chamber_cph.3b17471u.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panama_Canal_Map_EN.png/288px-Panama_Canal_Map_EN.png"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Empire State Building",
+    "location": "New York, USA",
+    "build_year": 1930,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Empire_State_Building",
+      "britannica": "https://www.britannica.com/place/Empire-State-Building",
+      "google_maps": "https://www.google.com/maps/place/Empire+State+Building/@40.7484405,-73.9856644,16z/data=!3m1!4b1!4m6!3m5!1s0x89c259a9b3117469:0xd134e199a405a163!8m2!3d40.7484405!4d-73.9856644!16zL20vMDJuZF8?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60763-d104365-Reviews-Empire_State_Building-New_York_City_New_York.html",
+      "images": [
+        "https://cdn.britannica.com/73/114973-050-2DC46083/Midtown-Manhattan-Empire-State-Building-New-York.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/EmpireStateBuilding20205thAvenueEntrance.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/NARA_Empire_State_Building.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/46/Zeppelin_bij_Empire_State_Building_in_aanbouw_-_Zeppelin_near_the_Empire_State_Building_under_construction_%286943970242%29.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Itaipu Dam",
+    "location": "Ciudad del Este, Paraguay",
+    "build_year": 1982,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Itaipu_Dam",
+      "britannica": "https://www.britannica.com/place/Itaipu-Dam",
+      "google_maps": "https://www.google.com/maps/place/PRESA+DE+ITAIPU,+100524,+Paraguay/@-25.4073348,-54.5935624,15.67z/data=!4m6!3m5!1s0x94f69cb919f7f28b:0x48c1e74cf3a5146d!8m2!3d-25.4072386!4d-54.5947552!16zL20vMGo4bDU?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g303444-d318113-Reviews-Itaipu_Dam-Foz_do_Iguacu_State_of_Parana.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/Itaipu_geral.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/18/6b/79/photo0jpg.jpg?w=1200&h=-1&s=1",
+        "https://cdn.britannica.com/58/1758-050-F33B1845/Itaipu-Dam-Upper-Parana-River-Paraguay-Ciudad.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Itaipu_3285.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Great Library of Alexandria",
+    "location": "Alexandria, Egypt",
+    "build_year": -246,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "britannica": "https://www.britannica.com/place/Library-of-Alexandria",
+      "google_maps": "https://www.google.com/maps/place/Alexandria+Bibliotheca/@31.2087701,29.9050013,17z/data=!4m6!3m5!1s0x14f5c38a0562fe85:0xa34cc632ec23e7!8m2!3d31.2089032!4d29.9091587!16zL20vMDF4NjNz?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g295398-d459934-Reviews-Bibliotheca_Alexandrina-Alexandria_Alexandria_Governorate.html",
+      "images": [
+        "https://cdn.britannica.com/51/124251-050-0CD79A27/Illustration-Library-of-Alexandria-Egypt.jpg",
+        "https://api.time.com/wp-content/uploads/2020/11/alexandria.jpg?quality=85&w=2400",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/53/ba/21/photo2jpg.jpg?w=1100&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/7/70/CW_BibliotechaAlexandrina_Inside.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Great Wall of China",
+    "location": "China",
+    "build_year": -700,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+      "britannica": "https://www.britannica.com/place/Great-Wall-of-China",
+      "google_maps": "https://www.google.com/maps/place/Great+Wall+of+China/@40.4319118,116.5677946,17z/data=!3m1!4b1!4m6!3m5!1s0x35f121d7687f2ccf:0xd040259b950522df!8m2!3d40.4319077!4d116.5703749!16zL20vMGQyZHEw?entry=ttu",
+      "trip_advisor": null,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+        "https://cdn.britannica.com/59/122459-050-8F097C3E/Section-Shanhaiguan-portion-border-Great-Wall-of.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Greatwall_large.jpg",
+        "https://cdn.britannica.com/05/19805-050-1B7FC648/Great-Wall-of-China-Asia-World-Heritage-1987.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Colosseum",
+    "location": "Rome, Italy",
+    "build_year": 80,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Colosseum",
+      "britannica": "https://www.britannica.com/place/Colosseum",
+      "google_maps": "https://www.google.com/maps/place/Colosseum/@41.8902102,12.4922309,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b6532013ad:0x28f1c82e908503c4!8m2!3d41.8902102!4d12.4922309!16zL20vMGQ1cXg?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187791-d192285-Reviews-Colosseum-Rome_Lazio.html",
+      "images": [
+        "https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f0/6b/18/gita-fuori-porta-avevo.jpg?w=1100&h=-1&s=1",
+        "https://cdn.britannica.com/03/98303-050-C8036C9D/Interior-Colosseum-Rome.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/Frith%2C_Francis_%281822-1898%29_-_Roma_-_Interno_del_Colosseo.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Chichen Itza",
+    "location": "Yucatán, Mexico",
+    "build_year": 600,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Chichen_Itza",
+      "britannica": "https://www.britannica.com/place/Chichen-Itza",
+      "google_maps": "https://www.google.com/maps/place/97751+Chichén-Itzá,+Yucatan,+Mexico/@20.6787866,-88.5710572,17z/data=!3m1!4b1!4m6!3m5!1s0x8f5138b9a098f833:0xf70a67530750d45!8m2!3d20.6791438!4d-88.5683091!16s%2Fg%2F11c5m40nz9?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g150808-d153407-Reviews-Chichen_Itza-Chichen_Itza_Yucatan_Peninsula.html",
+      "images": [
+        "https://cdn.britannica.com/60/92960-050-327CF926/pyramid-Mayan-Chichen-Itza-Mex.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg",
+        "https://cdn.britannica.com/23/178123-050-221FE172/structures-one-Casa-de-las-Monjas-Yucatan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Castillo_Maler.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Leaning Tower of Pisa",
+    "location": "Pisa, Italy",
+    "build_year": 1173,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+      "britannica": "https://www.britannica.com/place/Leaning-Tower-of-Pisa",
+      "google_maps": "https://www.google.com/maps/place/Tower+of+Pisa/@43.7229558,10.3940167,17z/data=!3m1!4b1!4m6!3m5!1s0x12d591a6c44e88cd:0x32eca9b1d554fc03!8m2!3d43.722952!4d10.396597!16zL20vMGNuNDY?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187899-d195452-Reviews-Leaning_Tower_of_Pisa-Pisa_Province_of_Pisa_Tuscany.html",
+      "images": [
+        "https://cdn.britannica.com/88/80588-050-8D944BFE/Leaning-Tower-of-Pisa-Italy.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9d/Italy_-_Pisa_-_Cathedral_Square.jpg",
+        "https://cdn.britannica.com/02/152202-050-4D73E046/Leaning-Tower-of-Pisa-cathedral-Italy.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/53/28/1e/torre-e-cattedrale.jpg?w=1200&h=-1&s=1"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Porcelain Tower of Nanjing",
+    "location": "Nanjing, China",
+    "build_year": 1412,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Porcelain_Tower_of_Nanjing",
+      "britannica": null,
+      "google_maps": "https://www.google.com/maps/place/Porcelain+Tower+of+Nanjing/@32.009386,118.783343,17z/data=!4m6!3m5!1s0x35b58c13830e69c5:0xa25684f8371aef19!8m2!3d32.009386!4d118.783343!16zL20vMDRkYnZz?entry=ttu",
+      "trip_advisor": null,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/UB_Maastricht_-_Nieuhof_1665_-_Toren.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/Prototype_3D_Porcelain_Pagoda_of_Nanjing.png",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/2024Apr_-_Glass_Pagoda_of_Nanjing_-_img_03.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Machu Picchu",
+    "location": "Cuzco Region, Peru",
+    "build_year": 1450,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Machu_Picchu",
+      "britannica": "https://www.britannica.com/place/Machu-Picchu",
+      "google_maps": "https://www.google.com/maps/place/Historic+Sanctuary+of+Machu+Picchu/@-13.1631936,-72.5478424,17z/data=!3m1!4b1!4m6!3m5!1s0x916d9a5f89555555:0x3a10370ea4a01a27!8m2!3d-13.1631988!4d-72.5452621!16zL20vMGtyZnk?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294318-d668949-Reviews-Santuario_Historico_de_Machu_Picchu-Machu_Picchu_Sacred_Valley_Cusco_Region.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+        "https://cdn.britannica.com/27/95027-050-C0B1A761/view-Machu-Picchu-Peru.jpg",
+        "https://cdn.britannica.com/23/180723-050-DD87E669/terraces-dwellings-Peru-Machu-Picchu.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/86/Machupicchu_hb10.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Christ the Redeemer",
+    "location": "Rio de Janeiro, Brazil",
+    "build_year": 1931,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+      "britannica": "https://www.britannica.com/place/Christ-the-Redeemer",
+      "google_maps": "https://www.google.com/maps/place/Christ+the+Redeemer/@-22.951916,-43.2104872,17z/data=!3m1!4b1!4m6!3m5!1s0x997fd5984aa13f:0x9dc984d7019502de!8m2!3d-22.951916!4d-43.2104872!16zL20vMDNneXR3?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g303506-d554128-Reviews-Corcovado_Christ_the_Redeemer-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+        "https://cdn.britannica.com/54/150754-050-5B93A950/statue-Christ-the-Redeemer-Rio-de-Janeiro.jpg",
+        "https://cdn.britannica.com/97/94997-050-808F1EA7/statue-Christ-the-Redeemer-Mount-Corcovado-Rio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/Visita_de_estudantes_ao_Cristo_Redentor%2C_Acervo_do_Instituto_Moreira_Salles.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Petra",
+    "location": "Wadi Musa, Jordan",
+    "build_year": -312,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Petra",
+      "britannica": "https://www.britannica.com/place/Petra-ancient-city-Jordan",
+      "google_maps": "https://www.google.com/maps/place/Petra/@30.320645,35.4728339,15z/data=!4m15!1m8!3m7!1s0x15016930021ab6b1:0xe43a697bc3a3e0b9!2sWadi+Musa,+Jordan!3b1!8m2!3d30.3216354!4d35.4801251!16s%2Fm%2F03nx74h!3m5!1s0x15016ef1703b6071:0x199bf908679a2291!8m2!3d30.3284544!4d35.4443622!16zL20vMGM3enk?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g318895-d319461-Reviews-Petra-Petra_Wadi_Musa_Ma_an_Governorate.html",
+      "images": [
+        "https://cdn.britannica.com/24/153524-050-BA9D084B/Al-Dayr-Petra-Jordan.jpg",
+        "https://cdn.britannica.com/88/178488-050-C803F0AF/Tombs-Petra-Jordan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/44/Great_Temple_of_Petra_02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/Palace_Tomb%2C_Petra.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/Treasury_petra_crop.jpeg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Taj Mahal",
+    "location": "Agra, India",
+    "build_year": 1643,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "britannica": "https://www.britannica.com/place/Taj-Mahal",
+      "google_maps": "https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0421422,17z/data=!3m1!4b1!4m6!3m5!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422!16zL20vMGw4Y2I?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297683-d317329-Reviews-Taj_Mahal-Agra_Agra_District_Uttar_Pradesh.html",
+      "images": [
+        "https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg",
+        "https://cdn.britannica.com/36/178636-050-805D750A/mosque-sandstone-mausoleum-complex-Taj-Mahal-Uttar.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/Dome_Chhatris_Spires_-_Taj_Mahal_-_Agra_2014-05-14_3805.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/The_main_gateway_%28darwaza%29_to_the_Taj_Mahal.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Hoover Dam",
+    "location": "Nevada, USA",
+    "build_year": 1936,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hoover_Dam",
+      "britannica": "https://www.britannica.com/place/Hoover-Dam",
+      "google_maps": "https://www.google.com/maps/place/Hoover+Dam/@36.0122842,-114.7446764,15.33z/data=!4m6!3m5!1s0x80c92b497f82a14b:0x89d59d0bd29de37!8m2!3d36.0160655!4d-114.7377325!16zL20vMDNxNGs?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60881-d150546-Reviews-Hoover_Dam-Boulder_City_Nevada.html",
+      "images": [
+        "https://cdn.britannica.com/58/156458-050-68649A2F/Hoover-Dam-border-Colorado-River-Arizona-Nevada.jpg",
+        "https://cdn.britannica.com/51/145251-050-10535C50/Hoover-Dam-Colorado-River-side-Arizona-Nevada.jpg",
+        "https://cdn.britannica.com/50/145250-050-B6D9C130/Hoover-Dam-Lake-Mead-bypass-bridge-Colorado-2010.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ansel_Adams_-_National_Archives_79-AAB-01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/Damforms.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Potala Palace",
+    "location": "Lhasa, Tibet",
+    "build_year": 1645,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Potala_Palace",
+      "britannica": "https://www.britannica.com/place/Potala-Palace",
+      "google_maps": "https://www.google.com/maps/place/Potala+Palace/@29.6554988,91.1159989,17z/data=!3m1!4b1!4m6!3m5!1s0x3761317244846eab:0x4ae80d857ec10c19!8m2!3d29.6554942!4d91.1185792!16zL20vMDJkYnd3?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294223-d319162-Reviews-Potala_Palace-Lhasa_Tibet.html",
+      "images": [
+        "https://cdn.britannica.com/79/178679-050-9170BD2A/Potala-Palace-Lhasa-China-Tibet-Autonomous-Region.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Potala_-_panoramio_-_Matthew_Summerton_cropped.jpg",
+        "https://cdn.britannica.com/77/178677-050-F301153F/Potala-Palace-Lhasa-China-Tibet-Autonomous-Region.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Potala_Palace_%2823651397662%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Zhol_PIllar_in_1949.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Temple of Apollo at Delphi",
+    "location": "Delphi, Greece",
+    "build_year": -400,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Temple_of_Apollo_(Delphi)",
+      "britannica": "https://www.britannica.com/place/Delphic-oracle",
+      "google_maps": "https://www.google.com/maps/place/Temple+of+Apollo/@38.4822382,22.4986371,17z/data=!3m1!4b1!4m6!3m5!1s0x135f795df19312c5:0x8f8b1b0a7341450!8m2!3d38.482234!4d22.5012174!16s%2Fg%2F120phd2x?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189408-d199058-Reviews-Temple_of_Apollo-Delphi_Phocis_Region_Central_Greece.html",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/21/5e/a7/the-sanctuary-of-athena.jpg?w=1200&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Delphi_Temple_of_Apollo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/68/Temple_of_Apollo_at_Delphi_Panoramic.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/08/ab/ab/20160920-144147-largejpg.jpg?w=1200&h=-1&s=1",
+        "https://cdn.britannica.com/46/242246-050-98F0DF76/The-Oracle-painting-Camillo-Miola-Delphic-oracle-Pythia.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sanctuary_of_Delphi_-_Reconstruction_-_Temple_of_Apollo.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Parthenon",
+    "location": "Athens, Greece",
+    "build_year": -438,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Parthenon",
+      "britannica": "https://www.britannica.com/place/Parthenon",
+      "google_maps": "https://www.google.com/maps/place/Parthenon/@37.9715327,23.7241363,16z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd19ca39ee61:0x1b3fa079b878a218!8m2!3d37.9715285!4d23.7267166!16zL20vMDV4N2I?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189400-d198711-Reviews-Parthenon-Athens_Attica.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+        "https://cdn.britannica.com/53/150953-050-2E0836EB/Parthenon-Acropolis-Athens.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c7/Parthenon_XL.jpg",
+        "https://cdn.britannica.com/53/13653-004-397B28E3/Acropolis-Athens-half-Parthenon-left-Erechtheum-centre.jpg?s=1500x700&q=85"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Terracotta Army",
+    "location": "Xi'an, China",
+    "build_year": -210,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Terracotta_Army",
+      "britannica": "https://www.britannica.com/place/terra-cotta-army",
+      "google_maps": "https://www.google.com/maps/place/Emperor+Qinshihuang's+Mausoleum+Site+Museum/@34.3838861,109.2768806,16.67z/data=!4m6!3m5!1s0x3664a72d821403a3:0xc3e33e74e9e33fc7!8m2!3d34.3841153!4d109.2784918!16zL20vMDEzMXBx?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298557-d27099604-Terracotta_Army_Ticket-Xi_an_Shaanxi.html",
+      "images": [
+        "https://cdn.britannica.com/28/153528-050-250EA620/Xian-Terra-cotta-soldiers-tomb-Qin-China-Shaanxi.jpg",
+        "https://cdn.britannica.com/30/153530-050-9A8F7D46/Xian-soldiers-horses-tomb-Qin-emperor-Shihuangdi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/2015-09-22-081415_-_Terrakotta-Armee%2C_Grosse_Halle.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Terracotta_Army_Pit_1_-_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c8/2015-09-22-091227_-_Museum_der_Grabanlage_des_Qin_Shi_Huangdi.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Alhambra",
+    "location": "Granada, Spain",
+    "build_year": 1358,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Alhambra",
+      "britannica": "https://www.britannica.com/topic/Alhambra-fortress-Granada-Spain",
+      "google_maps": "https://www.google.com/maps/place/Alhambra/@37.1760783,-3.5881413,17z/data=!3m1!4b1!4m6!3m5!1s0xd71fcb7977fb93b:0x808dd1ef1221a27f!8m2!3d37.1760783!4d-3.5881413!16zL20vMDdoX2o?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187441-d191078-Reviews-The_Alhambra-Granada_Province_of_Granada_Andalucia.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+        "https://cdn.britannica.com/98/175498-050-97BD7DE6/Alhambra-Granada-Spain.jpg",
+        "https://cdn.britannica.com/24/178124-050-7941A7D1/Gardens-Partal-Palace-Torre-de-las-Damas.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Partal_Alto_DSCF7876.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b2/-Courtyard_of_the_Lions%2C_Alhambra%2C_Granada-_MET_DP366396.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Angkor Wat",
+    "location": "Angkor, Cambodia",
+    "build_year": 1150,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "britannica": "https://www.britannica.com/topic/Angkor-Wat",
+      "google_maps": "https://www.google.com/maps/place/Angkor+Wat/@13.4124745,103.8644054,17z/data=!3m1!4b1!4m6!3m5!1s0x3110168aea9a272d:0x3eaba81157b0418d!8m2!3d13.4124693!4d103.8669857!16zL20vMDE5eGZs?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297390-d317907-Reviews-Angkor_Wat-Siem_Reap_Siem_Reap_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg",
+        "https://cdn.britannica.com/56/122156-050-F5B469C8/overview-complex-Angkor-Wat-Cambodia.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/6f/a9/24/angkor-wat.jpg?w=1200&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/8/82/Angkor_Vat_%286931599619%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1b/De_drie_torens_van_den_tempel_van_Angkor-Wat.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Borobudur",
+    "location": "Java, Indonesia",
+    "build_year": 850,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Borobudur",
+      "britannica": "https://www.britannica.com/topic/Borobudur",
+      "google_maps": "https://www.google.com/maps/place/Borobudur+Temple/@-7.6078738,110.2037513,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a8cf009a7d697:0xdd34334744dc3cb!8m2!3d-7.6078738!4d110.2037513!16zL20vMDFoemNq?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g790291-d320054-Reviews-Borobudur_Temple-Borobudur_Magelang_Central_Java_Java.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/Pradaksina.jpg",
+        "https://cdn.britannica.com/90/177890-050-60506E86/monument-Borobudur-Buddhist-Java-Indonesia-levels-Shailendra-850-ce.jpg",
+        "https://cdn.britannica.com/67/178167-050-F4275F75/Pathway-one-terraces-Borobudur-Indonesia-Java.jpg",
+        "https://cdn.britannica.com/91/153391-050-C07E5BFF/Stupas-Borobudur-Java-Indonesia.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Terrace_on_the_temple_of_Borobudur_1913.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Great Mosque of Djenné",
+    "location": "Djenné, Mali",
+    "build_year": 1350,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
+      "britannica": "https://www.britannica.com/facts/Djenne",
+      "google_maps": "https://www.google.com/maps/place/Great+Mosque+of+Djenne/@13.9051742,-4.5579958,17z/data=!3m1!4b1!4m6!3m5!1s0xe384870ed97208b:0x929503daad9aba1e!8m2!3d13.905169!4d-4.5554155!16zL20vMDM0OGRo?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g480205-d325056-Reviews-Great_Mosque_Of_Djenne-Djenne_Mopti_Region.html",
+      "images": [
+        "https://cdn.britannica.com/17/153517-050-2342FED7/market-mosque-Mali-Djenne.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ef/24/25/djenne-mosque.jpg?w=900&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/72/d1/88/moschee-djenne.jpg?w=1200&h=-1&s=1",
+        "https://cdn.britannica.com/18/153518-050-9ACB5E27/Mosque-Djenne-Mali.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Djenne_Fortier_413_-_Ruines_de_l%27ancienne_Mosqu%C3%A9e.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Notre-Dame de Paris",
+    "location": "Paris, France",
+    "build_year": 1350,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+      "britannica": "https://www.britannica.com/topic/Notre-Dame-de-Paris",
+      "google_maps": "https://www.google.com/maps/place/Cath%C3%A9drale+Notre-Dame+de+Paris/@48.8529682,2.3499021,17z/data=!3m1!4b1!4m6!3m5!1s0x47e671e19ff53a01:0x36401da7abfa068d!8m2!3d48.8529682!4d2.3499021!16zL20vMGd0eGg?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187147-d188679-Reviews-Cathedrale_Notre_Dame_de_Paris-Paris_Ile_de_France.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg",
+        "https://cdn.britannica.com/85/83885-050-9CDCFEA9/Notre-Dame-de-Paris-France.jpg",
+        "https://cdn.britannica.com/54/42754-050-E9A92037/quality-choir-interior-nave-cathedral-Notre-Dame.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/ND_de_Paris_avant_1841.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Choeur_de_ND_de_Paris_1669.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Forbidden City",
+    "location": "Beijing, China",
+    "build_year": 1420,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Forbidden_City",
+      "britannica": "https://www.britannica.com/topic/Forbidden-City",
+      "google_maps": "https://www.google.com/maps/place/The+Palace+Museum/@39.9163447,116.3971546,17z/data=!3m1!4b1!4m6!3m5!1s0x35f052dd9bcd81ab:0xde43eaed9b106064!8m2!3d39.9163447!4d116.3971546!16s%2Fm%2F02y_3j6?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294212-d319086-Reviews-Forbidden_City_The_Palace_Museum-Beijing.html",
+      "images": [
+        "https://cdn.britannica.com/69/69-050-D30FED85/Forbidden-City-emperor-Ming-dynasty-Yonglo-Beijing.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/40/Forbidden_City_%2825737200388%29.jpg",
+        "https://cdn.britannica.com/85/94385-050-E583426F/Forbidden-City-Beijing.jpg",
+        "https://cdn.britannica.com/34/117734-050-2AA2A499/bronze-lion-Gate-of-Heavenly-Purity-Outer.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Vue_prise_en_ballon_du_Palais_Imp%C3%A9rial_%C3%A0_P%C3%A9kin.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Globe Theatre",
+    "location": "London, England",
+    "build_year": 1599,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Globe_Theatre",
+      "britannica": "https://www.britannica.com/topic/Globe-Theatre",
+      "google_maps": "https://www.google.com/maps/place/Shakespeare's+Globe/@51.5080793,-0.0997743,17z/data=!3m1!4b1!4m6!3m5!1s0x487604a905ae1621:0xe700778eb8b2878e!8m2!3d51.508076!4d-0.097194!16s%2Fm%2F0403l_t?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186338-d187726-Reviews-Shakespeare_s_Globe_Theatre-London_England.html",
+      "images": [
+        "https://cdn.britannica.com/28/138628-050-0C853838/Globe-Theatre-London.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Hodge%27s_conjectural_Globe_reconstruction.jpg",
+        "https://cdn.britannica.com/98/256598-050-6566DD90/aerial-view-Shakespeares-Globe.jpg",
+        "https://cdn.britannica.com/92/256592-050-11F01F83/stage-audience-Shakespeares-Globe.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Himeji Castle",
+    "location": "Himeji, Japan",
+    "build_year": 1400,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Himeji_Castle",
+      "britannica": "https://www.britannica.com/topic/White-Heron-Castle",
+      "google_maps": "https://www.google.com/maps/place/Himeji+Castle/@34.839449,134.6939047,17z/data=!3m1!4b1!4m6!3m5!1s0x3554e003a23324b3:0x7a4f8c2f6eba81b1!8m2!3d34.839449!4d134.6939047!16zL20vMDE4bmN4?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298191-d320231-Reviews-Himeji_Castle-Himeji_Hyogo_Prefecture_Kinki.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/Ch%C3%A2teau_de_Himeji01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/Himeji_Castle%2C_November_2016_-02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/Himeji_castle_in_may_2015.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/90/ac/f3/caption.jpg?w=1100&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Look_up_Ido_Kuruwa_in_Himeji_Castle.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Red Fort",
+    "location": "Delhi, India",
+    "build_year": 1648,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Red_Fort",
+      "britannica": "https://www.britannica.com/topic/Red-Fort",
+      "google_maps": "https://www.google.com/maps/place/Red+Fort/@28.6561639,77.23844,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!8m2!3d28.6561592!4d77.2410203!16zL20vMDVteXN2?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g304551-d319701-Reviews-Red_Fort-New_Delhi_National_Capital_Territory_of_Delhi.html",
+      "images": [
+        "https://cdn.britannica.com/20/189820-050-D650A54D/Red-Fort-Old-Delhi-India.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Delhi_fort.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Red_Fort_in_Delhi_03-2016_img1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/84/Diwan-e-Khas-2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ghulam_Ali_Khan_003b.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Sistine Chapel",
+    "location": "Vatican City",
+    "build_year": 1481,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Sistine_Chapel",
+      "britannica": "https://www.britannica.com/topic/Sistine-Chapel",
+      "google_maps": "https://www.google.com/maps/place/Sistine+Chapel/@41.9029508,12.4519032,17z/data=!3m1!4b1!4m6!3m5!1s0x132f6065c523afdb:0xab16c8877fb53e22!8m2!3d41.9029468!4d12.4544835!16zL20vMGtibHM?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187793-d190130-Reviews-Sistine_Chapel-Vatican_City_Lazio.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/82/Sistina-interno.jpg",
+        "https://cdn.britannica.com/81/138681-050-3E9961A5/Detail-ceiling-fresco-Michelangelo-Vatican-City-Sistine.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/58/Chapelle_sixtine_plafond.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Cappella_Sistina_-_2005.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Uffizi Gallery",
+    "location": "Florence, Italy",
+    "build_year": 1581,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Uffizi",
+      "britannica": "https://www.britannica.com/topic/Uffizi-Gallery",
+      "google_maps": "https://www.google.com/maps/place/Uffizi+Galleries/@43.7677894,11.2527305,17z/data=!3m1!4b1!4m6!3m5!1s0x132a54008dc59081:0xcddeb7c89bf0c4cd!8m2!3d43.7677856!4d11.2553108!16zL20vMGNmanA?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187895-d191153-Reviews-Gallerie_Degli_Uffizi-Florence_Tuscany.html",
+      "images": [
+        "https://cdn.britannica.com/69/194569-050-DBAD8934/Uffizi-Gallery-Florence.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/Uffizi_Gallery_-_Daughter_of_Niobe_bent_by_terror.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/05/Uffizi_Gallery_hallway.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/Statues_in_Niches_Outside_the_Uffizi_Gallery%2C_Florence.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Tribuna_uffizi.jpg",
+        "https://cdn.britannica.com/06/42206-050-0AA050F8/Uffizi-Palace-Court-Florence-Giorgio-Vasari-1560.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Big Ben",
+    "location": "London, England",
+    "build_year": 1859,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Big_Ben",
+      "britannica": "https://www.britannica.com/topic/Big-Ben-clock-London",
+      "google_maps": "https://www.google.com/maps/place/Big+Ben/@51.5007292,-0.1246254,17z/data=!3m1!4b1!4m6!3m5!1s0x487604c38c8cd1d9:0xb78f2474b9a45aa9!8m2!3d51.5007292!4d-0.1246254!16zL20vMDI2eWRj?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186338-d211709-Reviews-Big_Ben-London_England.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Elizabeth_Tower%2C_June_2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/Houses_of_Parliament_in_2022_%28cropped%29.jpg",
+        "https://cdn.britannica.com/89/187589-050-E8D5A657/Workers-Big-Ben-London.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Big_Ben_2001-06-27.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Brandenburg Gate",
+    "location": "Berlin, Germany",
+    "build_year": 1791,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+      "britannica": "https://www.britannica.com/topic/Brandenburg-Gate",
+      "google_maps": "https://www.google.com/maps/place/Brandenburg+Gate/@52.5162746,13.3777041,17z/data=!3m1!4b1!4m6!3m5!1s0x47a851c655f20989:0x26bbfb4e84674c63!8m2!3d52.5162746!4d13.3777041!16zL20vMDE0a2Y4?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187323-d190518-Reviews-Brandenburg_Gate-Berlin.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/View_of_Brandenburger_Tor_from_the_Reichstag_roof_terrace%2C_Berlin%2C_2017.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/00_2486_Quadriga_-_Brandenburger_Tor_%28Berlin%29.jpg",
+        "https://cdn.britannica.com/51/127851-050-D0670589/barrier-Brandenburg-Gate-Berlin-Wall-version-1961.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bundesarchiv_B_145_Bild-P054320%2C_Berlin%2C_Brandenburger_Tor_und_Pariser_Platz.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Louvre",
+    "location": "Paris, France",
+    "build_year": 1793,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Louvre",
+      "britannica": "https://www.britannica.com/topic/Louvre-Museum",
+      "google_maps": "https://www.google.com/maps/place/Louvre+Museum/@48.8606145,2.3327677,16z/data=!3m1!4b1!4m6!3m5!1s0x47e671d877937b0f:0xb975fcfa192f84d4!8m2!3d48.8606111!4d2.337644!16zL20vMDRnZHI?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187147-d188757-Reviews-Louvre_Museum-Paris_Ile_de_France.html",
+      "images": [
+        "https://cdn.britannica.com/02/121002-050-92DB902F/Louvre-Museum-pyramid-Paris-Pei-IM.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Salon_Carr%C3%A9_Ceiling.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/Salles_des_colonnes_du_Louvre%2C_vue_vers_l%27ouest.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Amor-Psyche-Canova-JBU02.JPG",
+        "https://cdn.britannica.com/28/13728-050-EA945FD3/Colonnade-Louvre-Museum-Paris-print.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Broadway Theatre",
+    "location": "New York, USA",
+    "build_year": 1850,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Broadway_theatre#/media/File:Broadway_theatres_1920.jpg",
+      "britannica": "https://www.britannica.com/topic/Broadway-street-and-district-New-York-City",
+      "google_maps": "https://www.google.com/maps/place/Broadway+Theatre/@40.7632524,-73.985719,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2585665784711:0x5bbfed74cc606bf6!8m2!3d40.7632484!4d-73.9831387!16zL20vMGJ6N2Jn?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60763-d143361-Reviews-Broadway-New_York_City_New_York.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Broadway_Theaters_45th_Street_Night.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/87/eb/86/photo3jpg.jpg?w=1200&h=-1&s=1",
+        "https://cdn.britannica.com/16/192716-050-7559ADC0/Hamilton-Lin-Manuel-Miranda-Rodgers-Theater-on-2016.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c4/Broadway_theatres_1920.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Eiffel Tower",
+    "location": "Paris, France",
+    "build_year": 1889,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+      "britannica": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France",
+      "google_maps": "https://www.google.com/maps/place/Eiffel+Tower/@48.8583701,2.2944813,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0!8m2!3d48.8583701!4d2.2944813!16zL20vMDJqODE?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187147-d188151-Reviews-Eiffel_Tower-Paris_Ile_de_France.html",
+      "images": [
+        "https://cdn.britannica.com/52/245552-050-3D7334F9/Eiffel-Tower-Paris.jpg",
+        "https://cdn.britannica.com/31/255531-050-B7E07090/eiffel-tower-paris-france-champ-de-mars-view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sous_la_Tour_Eiffel_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Construction_tour_eiffel4.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/Construction_tour_eiffel6.JPG",
+        "https://cdn.britannica.com/92/43692-050-45F1B99F/Eiffel-Tower-rooftops-Right-Bank-Centre-Beaubourg.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Kremlin",
+    "location": "Moscow, Russia",
+    "build_year": 1495,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Kremlin",
+      "britannica": "https://www.britannica.com/topic/The-Kremlin",
+      "google_maps": "https://www.google.com/maps/place/The+Moscow+Kremlin/@55.7509544,37.6175755,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a50b315e573:0xa886bf5a3d9b2e68!8m2!3d55.7509544!4d37.6175755!16zL20vMDIxbHJ5?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298515-d600733-Reviews-The_Kremlin-Nizhny_Novgorod_Nizhny_Novgorod_Oblast_Volga_District.html",
+      "images": [
+        "https://cdn.britannica.com/51/115451-050-3043FB8D/brick-walls-churches-government-Kremlin-buildings-palaces.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bc/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C%2C_%D0%B2%D0%B8%D0%B4_%D1%81_%D0%94%D0%BE%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B9.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/MoscowKremlin_AssumptionCathedral_S21.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow_Grand_Kremlin_Palace3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/23/%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg",
+        "https://cdn.britannica.com/02/177902-050-3CBA0481/hall-Facets-Palace-Moscow-Kremlin.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/75/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%28%D1%81_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2.%D0%BC%D0%BE%D1%81%D1%82%D0%B0%29._1898%D0%B3_big_486981883185_e1t.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Neuschwanstein Castle",
+    "location": "Füssen, Germany",
+    "build_year": 1886,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+      "britannica": "https://www.britannica.com/topic/Neuschwanstein-Castle",
+      "google_maps": "https://www.google.com/maps/place/Neuschwanstein+Castle/@47.5575776,10.7472201,17z/data=!3m1!4b1!4m6!3m5!1s0x479cf7cac44ea35d:0xc8a6866bd39dbba3!8m2!3d47.557574!4d10.7498004!16zL20vMDFqejF6?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g198564-d190837-Reviews-Schloss_Neuschwanstein-Schwangau_Upper_Bavaria_Bavaria.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Neuschwanstein_castle.jpg",
+        "https://cdn.britannica.com/95/94495-050-BB9036F7/Neuschwanstein-Castle-Bavaria-Germany.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e8/Neuschwanstein_Castle_LOC_print_rotated.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Johannes_Bernhard_Neuschwanstein_Baustelle_1882-85_%2801%29.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Prora",
+    "location": "Binz, Germany",
+    "build_year": 1939,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Prora",
+      "google_maps": "https://www.google.com/maps/place/18609+Binz-Prora,+Germany/@54.4391506,13.5651496,15z/data=!3m1!4b1!4m6!3m5!1s0x47ab40955768de9d:0xa251aeb32315340!8m2!3d54.4390642!4d13.5747259!16s%2Fg%2F11bc5_py7x?entry=ttu",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/20-07-06-Prora-RalfR-DJI_0120.jpg",
+        "https://i.insider.com/59f9e56c58a0c130008b4ce1?width=1000&format=jpeg&auto=webp",
+        "https://i.insider.com/5963a19ff50184b3078b5282?width=700&format=jpeg&auto=webp",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/ProraLandseite.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/06/Flur_Zerstoerungen.JPG"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Statue of Liberty",
+    "location": "New York, USA",
+    "build_year": 1886,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+      "britannica": "https://www.britannica.com/topic/Statue-of-Liberty",
+      "google_maps": "https://www.google.com/maps/place/Statue+of+Liberty/@40.6892494,-74.0445004,17z/data=!3m1!4b1!4m6!3m5!1s0x89c25090129c363d:0x40c6a5770d25022b!8m2!3d40.6892494!4d-74.0445004!16zL20vMDcycDg?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60763-d103887-Reviews-Statue_of_Liberty-New_York_City_New_York.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/Liberty_Island_photo_Don_Ramey_Logan.jpg",
+        "https://cdn.britannica.com/22/195522-050-6C15247F/Statue-of-Liberty-Upper-New-York-Bay.jpg",
+        "https://cdn.britannica.com/82/183382-050-D832EC3A/Detail-head-crown-Statue-of-Liberty-New.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/03/Liberty-from-behind-2024.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/Head_of_the_Statue_of_Liberty_on_display_in_a_park_in_Paris.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Petagon",
+    "location": "Washington DC, USA",
+    "build_year": 1943,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/The_Pentagon",
+      "britannica": "https://www.britannica.com/topic/Pentagon",
+      "google_maps": "https://www.google.com/maps/place/The+Pentagon/@38.8718568,-77.0562669,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b6df29ed2c27:0xaf83d0f8c013532f!8m2!3d38.8718568!4d-77.0562669!16zL20vMDl3M2I?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g28970-d102530-Reviews-The_Pentagon-Washington_DC_District_of_Columbia.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_Pentagon_US_Department_of_Defense_building.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a2/Aerial_Closeup_of_the_Pentagon%2C_May_11%2C_2021.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Pentagon_Memorial-5089.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/65/3a/69/caption.jpg?w=1200&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pentagon_construction.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Sydney Opera House",
+    "location": "Washington DC, USA",
+    "build_year": 1973,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+      "britannica": "https://www.britannica.com/topic/Sydney-Opera-House",
+      "google_maps": "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567844,151.2152967,16z/data=!3m1!4b1!4m6!3m5!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967!16zL20vMDZfbm0?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g255060-d257278-Reviews-Sydney_Opera_House-Sydney_New_South_Wales.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg",
+        "https://cdn.britannica.com/96/100196-050-C92064E0/Sydney-Opera-House-Port-Jackson.jpg",
+        "https://cdn.britannica.com/47/94547-050-DD468792/Sydney-Opera-House.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Interior_of_Sydney_Opera_House_Concert_Hall_during_performance.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sydney_Opera_House_construction_1968.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Apadana of Darius",
+    "location": "Persepolis, Iran",
+    "build_year": -450,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Apadana",
+      "britannica": "https://www.britannica.com/place/Apadana-of-Darius",
+      "google_maps": "https://www.google.com/maps/place/Incompleted+tomb+of+Darius+III/@29.9293353,52.8897445,17z/data=!3m1!4b1!4m6!3m5!1s0x3fade5a75f9308f3:0x7dc397c7be56a989!8m2!3d29.9293307!4d52.8923248!16s%2Fg%2F11kh9ty5tn?entry=ttu",
+      "images": [
+        "https://cdn.britannica.com/94/94894-050-C40775EF/Apadana-Darius-I-Persepolis-Iran.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9f/Persian_city.jpg",
+        "https://cdn.britannica.com/48/2448-050-6C06B2F5/tribute-bearer-Armenian-jar-griffins-stairway-relief.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8b/History_of_Egypt%2C_Chaldea%2C_Syria%2C_Babylonia_and_Assyria_%281903%29_%2814584070300%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Persepolis_Reconstruction_Apadana_Chipiez.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Persepolis_Reconstruction_Apadana_Toit_Chipiez.JPEG"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Bolshoi Theatre",
+    "location": "Moscow, Russia",
+    "build_year": 1825,
+    "time_period": "LateModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Bolshoi_Theatre",
+      "britannica": "https://www.britannica.com/topic/Bolshoi-Theatre",
+      "google_maps": "https://www.google.com/maps/place/Bolshoi+Theatre/@55.7601335,37.6186486,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a5b4c576dbf:0x93a829189a1d29f2!8m2!3d55.7601335!4d37.6186486!16zL20vMDJtOXEx?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g198564-d190837-Reviews-Schloss_Neuschwanstein-Schwangau_Upper_Bavaria_Bavaria.htmlp",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8b/Moscow-Bolshoi-Theare-1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/Moscow_05-2017_img27_Bolshoy_Theatre_quadriga.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Moscow_BolshoyTheatre_009_2507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bundesarchiv_Bild_102-13138%2C_Moskau%2C_Bolschoi-Theater.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bolshoy_Teatr.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  }
+]

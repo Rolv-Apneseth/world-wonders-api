@@ -1,0 +1,193 @@
+use once_cell::sync::Lazy;
+use serde::{Deserialize, Serialize};
+use strum_macros::EnumIter;
+
+/// Human history time period of a world wonder
+#[derive(Serialize, Deserialize, Debug, PartialEq, Eq)]
+pub enum TimePeriod {
+    Prehistoric,
+    Ancient,
+    PostClassical,
+    EarlyModern,
+    LateModern,
+}
+// Derive time period from a signed integer representation of a wonder's build year (negative = BCE)
+// Source for time period break points: https://en.wikipedia.org/wiki/Human_history
+impl From<i16> for TimePeriod {
+    fn from(value: i16) -> Self {
+        match value {
+            i16::MIN..=-3000 => TimePeriod::Prehistoric,
+            -2999..=500 => TimePeriod::Ancient,
+            501..=1500 => TimePeriod::PostClassical,
+            1501..=1800 => TimePeriod::EarlyModern,
+            1801..=i16::MAX => TimePeriod::LateModern,
+        }
+    }
+}
+
+#[derive(Serialize, Deserialize, Debug)]
+pub struct Links {
+    pub wiki: String,
+    pub britannica: Option<String>,
+    pub google_maps: Option<String>,
+    pub trip_advisor: Option<String>,
+    pub images: Vec<String>,
+}
+// impl Links {
+//     pub fn new<'a>(
+//         wiki: &str,
+//         britannica: Option<&str>,
+//         google_maps: Option<&str>,
+//         trip_advisor: Option<&str>,
+//         images: impl IntoIterator<Item = &'a str>,
+//     ) -> Self {
+//         Self {
+//             wiki: format!("http://en.wikipedia.org/wiki/{wiki}"),
+//             britannica: britannica.map(|s| format!("https://www.britannica.com/place/{s}")),
+//             google_maps: google_maps.map(|s| format!("https://www.google.com/maps/place/{s}")),
+//             trip_advisor: trip_advisor
+//                 .map(|s| format!("https://www.tripadvisor.com/Attraction_Review-g{s}")),
+//             images: images.into_iter().map(|img| img.to_string()).collect(),
+//         }
+//     }
+// }
+
+#[derive(Serialize, Deserialize, Debug, PartialEq, Eq, EnumIter)]
+pub enum Category {
+    /// Wonder is one of the "7 Wonders of the Ancient World".
+    SevenWonders,
+    /// Wonder can be found in the video game "Civilization V".
+    Civ5,
+    /// Wonder can be found in the video game "Civilization VI".
+    Civ6,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
+pub struct Wonder {
+    pub name: String,
+    /// Location / suspected location of a world wonder or its remains.
+    pub location: String,
+    /// Year / suspected year the wonder was completed.
+    pub build_year: i16,
+    /// Time period of human history that the completion of the world wonder corresponds to.
+    /// Derived from the build year
+    pub time_period: TimePeriod,
+    pub links: Links,
+    pub categories: Vec<Category>,
+}
+// impl Wonder {
+//     pub fn new(
+//         name: &str,
+//         build_year: i16,
+//         location: &str,
+//         links: Links,
+//         categories: impl IntoIterator<Item = Category>,
+//     ) -> Self {
+//         Self {
+//             name: name.to_string(),
+//             location: location.to_string(),
+//             build_year,
+//             time_period: build_year.into(),
+//             links,
+//             categories: categories.into_iter().collect(),
+//         }
+//     }
+// }
+
+/// All wonders, read from `data.json`
+pub static WONDERS: Lazy<Vec<Wonder>> = Lazy::new(|| {
+    serde_json::from_str(include_str!("../data.json"))
+        .map_err(|e| panic!("Encountered error while parsing JSON into wonders vec: {e:?}"))
+        .unwrap()
+});
+
+#[cfg(test)]
+mod tests {
+    use chrono::prelude::*;
+    use std::collections::HashSet;
+
+    use super::*;
+
+    #[test]
+    fn validate_wonders_data() {
+        assert!(WONDERS.len() > 0);
+
+        // To check for duplicate names
+        let mut seen_names = HashSet::new();
+        // To check for duplicate links
+        let mut seen_links = HashSet::new();
+
+        // Current year
+        let year = Utc::now().year();
+
+        WONDERS.iter().for_each(
+            |Wonder {
+                name,
+                location,
+                build_year,
+                time_period,
+                links: Links {
+                    wiki,
+                    britannica,
+                    google_maps,
+                    trip_advisor,
+                    images
+                },
+                ..
+            }| {
+                assert!(!name.trim().is_empty(), "Name provided is empty");
+                assert!(!location.trim().is_empty(), "Location provided is empty");
+
+                // Build year + time period
+                assert!(*build_year as i32 <= year, "Build year exceeds current calendar year: {build_year}");
+                let expected_time_period = TimePeriod::from(*build_year);
+                assert_eq!(
+                    time_period,
+                    &expected_time_period,
+                    "Time period '{time_period:?}' does not match year '{build_year}'. Expected: {expected_time_period:?}",
+                );
+
+                // LINKS
+                // Wiki link
+                assert!(!wiki.trim().is_empty(), "Wiki link is empty");
+                assert!(
+                    wiki.starts_with("https://"),
+                    "Wiki link does not start with 'https://': {wiki}"
+                );
+                assert!(!seen_links.contains(wiki), "Duplicate link: {wiki}");
+                seen_links.insert(wiki);
+
+                // Other links (`Option` values)
+                [britannica, google_maps, trip_advisor].into_iter().for_each(|l| {
+                    assert!(!l.as_ref().is_some_and(|s| s.trim().is_empty()), "Link is empty");
+                    assert!(
+                        !l.as_ref().is_some_and(|s| !s.starts_with("https://")),
+                        "Link does not start with 'https://': {l:?}"
+                    );
+
+
+                    if let Some(l) = l {
+                        assert!(!seen_links.contains(l), "Duplicate link: {l}");
+                        seen_links.insert(l);
+                    };
+                });
+
+                // Image links
+                assert!(images.len() > 2, "Less than 2 image links provided");
+                images.iter().for_each(|img| {
+                    assert!(!img.trim().is_empty(), "Image link is empty");
+                    assert!(
+                        img.starts_with("https"),
+                        "Image link does not start with 'https': {img}"
+                    );
+
+                    assert!(!seen_links.contains(img), "Duplicate link: {img}");
+                    seen_links.insert(img);
+                });
+
+                assert!(!seen_names.contains(name.as_str()), "Duplicate name: '{name}'");
+                seen_names.insert(name.as_str());
+            },
+        )
+    }
+}
