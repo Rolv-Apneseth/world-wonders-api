@@ -19,7 +19,7 @@ test:
 
 # Recompile then run again whenever any change is made
 develop-server:
-    cargo watch -q -c -w src/ -x "run"
+    RUST_LOG="debug" cargo watch -q -c -w src/ -x "run"
 
 develop-client:
     cargo watch -q -c -w tests/ -w src/ -x "test -q quick_dev -- --nocapture"
