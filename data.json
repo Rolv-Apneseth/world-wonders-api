@@ -67,7 +67,7 @@
     "name": "Lighthouse of Alexandria",
     "location": "Alexandria, Egypt",
     "build_year": -280,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
       "britannica": "https://www.britannica.com/place/lighthouse-of-Alexandria",
@@ -132,7 +132,7 @@
     "name": "Colossus of Rhodes",
     "location": "Rhodes, Greece",
     "build_year": -353,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
       "britannica": "https://www.britannica.com/place/Colossus-of-Rhodes",
@@ -154,7 +154,7 @@
     "name": "Statue of Zeus at Olympia",
     "location": "Olympia, Greece",
     "build_year": -466,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia",
       "britannica": "https://www.britannica.com/place/Statue-of-Zeus",
@@ -176,7 +176,7 @@
     "name": "Temple of Artemis at Ephesus",
     "location": "Selƈuk, Turkey",
     "build_year": -550,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Temple_of_Artemis",
       "britannica": "https://www.britannica.com/place/Temple-of-Artemis-temple-Ephesus-Turkey",
@@ -198,7 +198,7 @@
     "name": "Golden Gate Bridge",
     "location": "San Francisco, USA",
     "build_year": 1933,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
       "britannica": "https://www.britannica.com/place/Golden-Gate-Bridge",
@@ -219,7 +219,7 @@
     "name": "CN Tower",
     "location": "Toronto, Canada.",
     "build_year": 1973,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/CN_Tower",
       "britannica": "https://www.britannica.com/place/CN-Tower",
@@ -240,7 +240,7 @@
     "name": "Channel Tunnel",
     "location": "English Channel",
     "build_year": 1991,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Channel_Tunnel",
       "britannica": "https://www.britannica.com/place/Channel-Tunnel",
@@ -259,7 +259,7 @@
     "name": "Delta Works",
     "location": "The Netherlands",
     "build_year": 1986,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Delta_Works",
       "britannica": "https://www.britannica.com/place/Delta-Works",
@@ -277,7 +277,7 @@
     "name": "Panama Canal",
     "location": "Panama",
     "build_year": 1914,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Panama_Canal",
       "britannica": "https://www.britannica.com/place/Panama-Canal",
@@ -300,7 +300,7 @@
     "name": "Empire State Building",
     "location": "New York, USA",
     "build_year": 1930,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Empire_State_Building",
       "britannica": "https://www.britannica.com/place/Empire-State-Building",
@@ -320,7 +320,7 @@
     "name": "Itaipu Dam",
     "location": "Ciudad del Este, Paraguay",
     "build_year": 1982,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Itaipu_Dam",
       "britannica": "https://www.britannica.com/place/Itaipu-Dam",
@@ -339,7 +339,7 @@
     "name": "Great Library of Alexandria",
     "location": "Alexandria, Egypt",
     "build_year": -246,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
       "britannica": "https://www.britannica.com/place/Library-of-Alexandria",
@@ -362,7 +362,7 @@
     "name": "Great Wall of China",
     "location": "China",
     "build_year": -700,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
       "britannica": "https://www.britannica.com/place/Great-Wall-of-China",
@@ -384,7 +384,7 @@
     "name": "Colosseum",
     "location": "Rome, Italy",
     "build_year": 80,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Colosseum",
       "britannica": "https://www.britannica.com/place/Colosseum",
@@ -488,7 +488,7 @@
     "name": "Christ the Redeemer",
     "location": "Rio de Janeiro, Brazil",
     "build_year": 1931,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
       "britannica": "https://www.britannica.com/place/Christ-the-Redeemer",
@@ -509,7 +509,7 @@
     "name": "Petra",
     "location": "Wadi Musa, Jordan",
     "build_year": -312,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Petra",
       "britannica": "https://www.britannica.com/place/Petra-ancient-city-Jordan",
@@ -550,7 +550,7 @@
     "name": "Hoover Dam",
     "location": "Nevada, USA",
     "build_year": 1936,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Hoover_Dam",
       "britannica": "https://www.britannica.com/place/Hoover-Dam",
@@ -590,7 +590,7 @@
     "name": "Temple of Apollo at Delphi",
     "location": "Delphi, Greece",
     "build_year": -400,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Temple_of_Apollo_(Delphi)",
       "britannica": "https://www.britannica.com/place/Delphic-oracle",
@@ -613,7 +613,7 @@
     "name": "Parthenon",
     "location": "Athens, Greece",
     "build_year": -438,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Parthenon",
       "britannica": "https://www.britannica.com/place/Parthenon",
@@ -635,7 +635,7 @@
     "name": "Terracotta Army",
     "location": "Xi'an, China",
     "build_year": -210,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Terracotta_Army",
       "britannica": "https://www.britannica.com/place/terra-cotta-army",
@@ -902,7 +902,7 @@
     "name": "Big Ben",
     "location": "London, England",
     "build_year": 1859,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Big_Ben",
       "britannica": "https://www.britannica.com/topic/Big-Ben-clock-London",
@@ -968,7 +968,7 @@
     "name": "Broadway Theatre",
     "location": "New York, USA",
     "build_year": 1850,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Broadway_theatre#/media/File:Broadway_theatres_1920.jpg",
       "britannica": "https://www.britannica.com/topic/Broadway-street-and-district-New-York-City",
@@ -989,7 +989,7 @@
     "name": "Eiffel Tower",
     "location": "Paris, France",
     "build_year": 1889,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Eiffel_Tower",
       "britannica": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France",
@@ -1036,7 +1036,7 @@
     "name": "Neuschwanstein Castle",
     "location": "Füssen, Germany",
     "build_year": 1886,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
       "britannica": "https://www.britannica.com/topic/Neuschwanstein-Castle",
@@ -1058,7 +1058,7 @@
     "name": "Prora",
     "location": "Binz, Germany",
     "build_year": 1939,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Prora",
       "google_maps": "https://www.google.com/maps/place/18609+Binz-Prora,+Germany/@54.4391506,13.5651496,15z/data=!3m1!4b1!4m6!3m5!1s0x47ab40955768de9d:0xa251aeb32315340!8m2!3d54.4390642!4d13.5747259!16s%2Fg%2F11bc5_py7x?entry=ttu",
@@ -1078,7 +1078,7 @@
     "name": "Statue of Liberty",
     "location": "New York, USA",
     "build_year": 1886,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
       "britannica": "https://www.britannica.com/topic/Statue-of-Liberty",
@@ -1100,7 +1100,7 @@
     "name": "Petagon",
     "location": "Washington DC, USA",
     "build_year": 1943,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/The_Pentagon",
       "britannica": "https://www.britannica.com/topic/Pentagon",
@@ -1122,7 +1122,7 @@
     "name": "Sydney Opera House",
     "location": "Washington DC, USA",
     "build_year": 1973,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
       "britannica": "https://www.britannica.com/topic/Sydney-Opera-House",
@@ -1144,7 +1144,7 @@
     "name": "Apadana of Darius",
     "location": "Persepolis, Iran",
     "build_year": -450,
-    "time_period": "Ancient",
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Apadana",
       "britannica": "https://www.britannica.com/place/Apadana-of-Darius",
@@ -1166,7 +1166,7 @@
     "name": "Bolshoi Theatre",
     "location": "Moscow, Russia",
     "build_year": 1825,
-    "time_period": "LateModern",
+    "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Bolshoi_Theatre",
       "britannica": "https://www.britannica.com/topic/Bolshoi-Theatre",
