@@ -1,29 +1,11 @@
-use error::Error;
 use tokio::signal;
-
-use axum::{
-    extract::FromRequest,
-    response::{IntoResponse, Response},
-};
 
 pub mod data;
 pub mod error;
+pub mod extractor;
 pub mod web;
 
 pub const PORT: u16 = 8138;
-
-#[derive(FromRequest)]
-#[from_request(via(axum::Json), rejection(Error))]
-pub struct AppJson<T>(T);
-
-impl<T> IntoResponse for AppJson<T>
-where
-    axum::Json<T>: IntoResponse,
-{
-    fn into_response(self) -> Response {
-        axum::Json(self.0).into_response()
-    }
-}
 
 // For graceful shutdown
 pub async fn shutdown_signal() {

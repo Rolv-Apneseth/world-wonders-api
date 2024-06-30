@@ -1,9 +1,10 @@
 use once_cell::sync::Lazy;
+use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 use strum_macros::EnumIter;
 
 /// Human history time period of a world wonder
-#[derive(Serialize, Deserialize, Debug, PartialEq, Eq)]
+#[derive(Serialize, Deserialize, Debug, PartialEq, Eq, JsonSchema)]
 pub enum TimePeriod {
     Prehistoric,
     Ancient,
@@ -25,7 +26,7 @@ impl From<i16> for TimePeriod {
     }
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, JsonSchema)]
 pub struct Links {
     pub wiki: String,
     pub britannica: Option<String>,
@@ -33,26 +34,8 @@ pub struct Links {
     pub trip_advisor: Option<String>,
     pub images: Vec<String>,
 }
-// impl Links {
-//     pub fn new<'a>(
-//         wiki: &str,
-//         britannica: Option<&str>,
-//         google_maps: Option<&str>,
-//         trip_advisor: Option<&str>,
-//         images: impl IntoIterator<Item = &'a str>,
-//     ) -> Self {
-//         Self {
-//             wiki: format!("http://en.wikipedia.org/wiki/{wiki}"),
-//             britannica: britannica.map(|s| format!("https://www.britannica.com/place/{s}")),
-//             google_maps: google_maps.map(|s| format!("https://www.google.com/maps/place/{s}")),
-//             trip_advisor: trip_advisor
-//                 .map(|s| format!("https://www.tripadvisor.com/Attraction_Review-g{s}")),
-//             images: images.into_iter().map(|img| img.to_string()).collect(),
-//         }
-//     }
-// }
 
-#[derive(Serialize, Deserialize, Debug, PartialEq, Eq, EnumIter)]
+#[derive(Serialize, Deserialize, Debug, PartialEq, Eq, EnumIter, JsonSchema)]
 pub enum Category {
     /// Wonder is one of the "7 Wonders of the Ancient World".
     SevenWonders,
@@ -62,7 +45,7 @@ pub enum Category {
     Civ6,
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, JsonSchema)]
 pub struct Wonder {
     pub name: String,
     /// Location / suspected location of a world wonder or its remains.
@@ -75,24 +58,6 @@ pub struct Wonder {
     pub links: Links,
     pub categories: Vec<Category>,
 }
-// impl Wonder {
-//     pub fn new(
-//         name: &str,
-//         build_year: i16,
-//         location: &str,
-//         links: Links,
-//         categories: impl IntoIterator<Item = Category>,
-//     ) -> Self {
-//         Self {
-//             name: name.to_string(),
-//             location: location.to_string(),
-//             build_year,
-//             time_period: build_year.into(),
-//             links,
-//             categories: categories.into_iter().collect(),
-//         }
-//     }
-// }
 
 /// All wonders, read from `data.json`
 pub static WONDERS: Lazy<Vec<Wonder>> = Lazy::new(|| {

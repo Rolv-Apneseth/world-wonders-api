@@ -1,88 +1,91 @@
 use std::fmt::Display;
 
+use aide::OperationIo;
 use axum::{
+    extract::rejection::JsonRejection,
     http::StatusCode,
     response::{IntoResponse, Response},
 };
+use axum_jsonschema::JsonSchemaRejection;
+use schemars::JsonSchema;
 use serde::Serialize;
-use thiserror::Error;
 
-use crate::AppJson;
+use crate::extractor::AppJson;
 
 pub type Result<T> = core::result::Result<T, Error>;
 
-/// Errors specific to the server
-#[derive(Error, Debug)]
-pub enum ServerError {
-    #[error("Wonders list is empty")]
-    WondersEmpty,
-}
-impl From<ServerError> for Error {
-    fn from(value: ServerError) -> Self {
-        Self::Server(value)
-    }
-}
-
-/// Errors specific to the client / requests made by the client
-#[derive(Error, Debug)]
-pub enum ClientError {
+/// Represents all errors the API can return
+#[derive(thiserror::Error, Debug, OperationIo, JsonSchema)]
+#[aide(
+    input_with = "axum_jsonschema::Json<Error>",
+    output_with = "axum_jsonschema::Json<Error>",
+    json_schema
+)]
+pub enum Error {
     #[error("No wonder matching the given filters was found")]
     NoWondersLeft,
     #[error("No wonder found matching the name '{0}'")]
     NoMatchingName(String),
     #[error("The provided lower limit of {0} is greater than the provided upper limit of {1}")]
     ConflictingLimitParams(i16, i16),
-}
-impl From<ClientError> for Error {
-    fn from(value: ClientError) -> Self {
-        Self::Client(value)
-    }
-}
-
-/// Represents all errors the API can return
-#[derive(Error, Debug)]
-pub enum Error {
-    Server(ServerError),
-    Client(ClientError),
-}
-
-impl Display for Error {
-    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> core::result::Result<(), std::fmt::Error> {
-        write!(
-            f,
-            "{}",
-            match self {
-                Self::Client(c) => c.to_string(),
-                // Don't expose additional details about server errors to the client
-                Self::Server(_) => "Something went wrong".to_owned(),
-            }
-        )
-    }
+    #[error("Invalid request: {0}")]
+    InvalidRequest(String),
+    // Don't expose additional details about server errors to the client
+    #[error("Something went wrong")]
+    Internal(String),
 }
 
 // For serialising error response into specific format
-#[derive(Serialize)]
-struct ErrorResponse {
-    message: String,
+#[derive(Serialize, Debug, OperationIo, JsonSchema)]
+#[aide(
+    input_with = "axum_jsonschema::Json<ErrorResponse>",
+    output_with = "axum_jsonschema::Json<ErrorResponse>",
+    json_schema
+)]
+pub struct ErrorResponse {
+    pub message: String,
+}
+impl ErrorResponse {
+    pub fn new(message: impl Display) -> Self {
+        Self {
+            message: message.to_string(),
+        }
+    }
 }
 
 impl IntoResponse for Error {
     fn into_response(self) -> Response {
         let message = self.to_string();
         let status = match &self {
-            Self::Client(c) => match c {
-                ClientError::NoWondersLeft => StatusCode::BAD_REQUEST,
-                ClientError::NoMatchingName(_) => StatusCode::BAD_REQUEST,
-                ClientError::ConflictingLimitParams(_, _) => StatusCode::BAD_REQUEST,
-            },
+            Self::NoWondersLeft => StatusCode::BAD_REQUEST,
+            Self::NoMatchingName(_) => StatusCode::BAD_REQUEST,
+            Self::ConflictingLimitParams(_, _) => StatusCode::BAD_REQUEST,
+            Self::InvalidRequest(_) => StatusCode::BAD_REQUEST,
 
-            Self::Server(s) => {
-                tracing::error!("{s}");
-
+            Self::Internal(s) => {
+                tracing::error!("Internal server error: {s}");
                 StatusCode::INTERNAL_SERVER_ERROR
             }
         };
 
-        (status, AppJson(ErrorResponse { message })).into_response()
+        (status, AppJson(ErrorResponse::new(message))).into_response()
+    }
+}
+
+impl From<JsonSchemaRejection> for Error {
+    fn from(rejection: JsonSchemaRejection) -> Self {
+        match rejection {
+            JsonSchemaRejection::Json(s) => Self::InvalidRequest(s.to_string()),
+            JsonSchemaRejection::Serde(s) => Self::InvalidRequest(s.to_string()),
+            JsonSchemaRejection::Schema(_) => {
+                Self::InvalidRequest("Failed to validate schema".to_string())
+            }
+        }
+    }
+}
+
+impl From<JsonRejection> for Error {
+    fn from(rejection: JsonRejection) -> Self {
+        Self::InvalidRequest(rejection.to_string())
     }
 }
