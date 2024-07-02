@@ -6,6 +6,7 @@ pub mod extractor;
 pub mod web;
 
 pub const PORT: u16 = 8138;
+pub const DOCS_ROUTE: &str = "/v0/docs";
 
 // For graceful shutdown
 pub async fn shutdown_signal() {

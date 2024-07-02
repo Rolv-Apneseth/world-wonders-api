@@ -15,7 +15,7 @@ use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 use world_wonders_api::{
     shutdown_signal,
     web::{docs, handler_404, handlers_categories, handlers_wonders},
-    PORT,
+    DOCS_ROUTE, PORT,
 };
 
 #[tokio::main]
@@ -48,7 +48,7 @@ async fn main() {
     let app = ApiRouter::new()
         .nest_api_service("/v0/wonders", handlers_wonders::routes())
         .nest_api_service("/v0/categories", handlers_categories::routes())
-        .nest_api_service("/docs", docs::routes())
+        .nest_api_service(DOCS_ROUTE, docs::routes())
         .fallback(handler_404)
         .finish_api_with(&mut api, api_docs)
         // Docs generation
@@ -84,7 +84,7 @@ async fn main() {
         .expect("Failed binding listener");
     tracing::debug!("Listening at http://{}", listener.local_addr().unwrap());
     tracing::debug!(
-        "Example docs available at http://{}/docs",
+        "Example docs available at http://{}{DOCS_ROUTE}",
         listener.local_addr().unwrap()
     );
 
