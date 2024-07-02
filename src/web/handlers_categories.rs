@@ -1,13 +1,17 @@
 use aide::{
-    axum::{routing::get_with, ApiRouter},
+    axum::{routing::get_with, ApiRouter, IntoApiResponse},
     transform::TransformOperation,
 };
-use axum::extract::Query;
+use axum::response::IntoResponse;
 use schemars::JsonSchema;
 use serde::Deserialize;
 use strum::IntoEnumIterator;
 
-use crate::{data::Category, extractor::AppJson};
+use crate::{
+    data::Category,
+    error::{Error, ErrorResponse},
+    extractor::{AppJson, Query},
+};
 
 #[derive(Debug, Deserialize, JsonSchema)]
 pub struct CategoriesParams {
@@ -21,17 +25,29 @@ pub fn routes() -> ApiRouter {
 
 // HANDLERS ----------------------------------------------------------------------------------------
 // GET ALL CATEGORIES
-async fn get_all_categories(Query(params): Query<CategoriesParams>) -> AppJson<Vec<Category>> {
-    let mut categories: Vec<Category> = Category::iter().collect();
+async fn get_all_categories(Query(params): Query<CategoriesParams>) -> impl IntoApiResponse {
+    let categories: Vec<Category> = Category::iter()
+        // Filter out game categories :(
+        .filter(|c| {
+            !matches!(
+                (params.exclude_games, c),
+                (Some(true), Category::Civ5 | Category::Civ6)
+            )
+        })
+        .collect();
 
-    // Filter out game categories :(
-    if matches!(params.exclude_games, Some(true)) {
-        categories.retain(|c| !matches!(c, Category::Civ5 | Category::Civ6));
-    }
-
-    AppJson(categories)
+    AppJson(categories).into_response()
 }
 fn get_all_categories_docs(op: TransformOperation) -> TransformOperation {
     op.summary("Wonder categories")
         .description("Get all available wonder categories")
+        .response_with::<200, AppJson<Vec<Category>>, _>(|res| {
+            res.example(vec![Category::SevenWonders, Category::Civ5])
+        })
+        .response_with::<400, ErrorResponse, _>(|res| {
+            res.description("Bad request")
+                .example(ErrorResponse::new(Error::InvalidRequest(
+                    "Failed to deserialize query string".to_string(),
+                )))
+        })
 }

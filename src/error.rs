@@ -2,7 +2,7 @@ use std::fmt::Display;
 
 use aide::OperationIo;
 use axum::{
-    extract::rejection::JsonRejection,
+    extract::rejection::{JsonRejection, PathRejection, QueryRejection},
     http::StatusCode,
     response::{IntoResponse, Response},
 };
@@ -35,7 +35,7 @@ pub enum Error {
     Internal(String),
 }
 
-// For serialising error response into specific format
+/// For serialising error response into a specific format
 #[derive(Serialize, Debug, OperationIo, JsonSchema)]
 #[aide(
     input_with = "axum_jsonschema::Json<ErrorResponse>",
@@ -86,6 +86,18 @@ impl From<JsonSchemaRejection> for Error {
 
 impl From<JsonRejection> for Error {
     fn from(rejection: JsonRejection) -> Self {
+        Self::InvalidRequest(rejection.to_string())
+    }
+}
+
+impl From<QueryRejection> for Error {
+    fn from(rejection: QueryRejection) -> Self {
+        Self::InvalidRequest(rejection.to_string())
+    }
+}
+
+impl From<PathRejection> for Error {
+    fn from(rejection: PathRejection) -> Self {
         Self::InvalidRequest(rejection.to_string())
     }
 }

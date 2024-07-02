@@ -1,17 +1,13 @@
 use crate::{
     data::{Category, TimePeriod, Wonder, WONDERS},
     error::{Error, ErrorResponse, Result},
-    extractor::AppJson,
+    extractor::{AppJson, Query},
 };
 use aide::{
     axum::{routing::get_with, ApiRouter, IntoApiResponse},
     transform::TransformOperation,
 };
-use axum::{
-    extract::{Path, Query},
-    response::IntoResponse,
-    Json,
-};
+use axum::{extract::Path, response::IntoResponse, Json};
 use rand::prelude::*;
 use schemars::JsonSchema;
 use serde::Deserialize;
