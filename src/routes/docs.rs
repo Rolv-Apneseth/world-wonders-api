@@ -10,7 +10,7 @@ use aide::{
 };
 use axum::Extension;
 
-use crate::{extractor::AppJson, DOCS_ROUTE};
+use crate::{extractors::Json, DOCS_ROUTE};
 
 const API_FILE_ROUTE: &str = "/api.json";
 
@@ -34,5 +34,5 @@ pub fn routes() -> ApiRouter {
 }
 
 async fn serve_docs(Extension(api): Extension<Arc<OpenApi>>) -> impl IntoApiResponse {
-    AppJson(api)
+    Json(api)
 }

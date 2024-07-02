@@ -2,8 +2,8 @@ use tokio::signal;
 
 pub mod data;
 pub mod error;
-pub mod extractor;
-pub mod web;
+pub mod extractors;
+pub mod routes;
 
 pub const PORT: u16 = 8138;
 pub const DOCS_ROUTE: &str = "/v0/docs";

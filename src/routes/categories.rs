@@ -10,7 +10,7 @@ use strum::IntoEnumIterator;
 use crate::{
     data::Category,
     error::{Error, ErrorResponse},
-    extractor::{AppJson, Query},
+    extractors::{Json, Query},
 };
 
 #[derive(Debug, Deserialize, JsonSchema)]
@@ -36,12 +36,12 @@ async fn get_all_categories(Query(params): Query<CategoriesParams>) -> impl Into
         })
         .collect();
 
-    AppJson(categories).into_response()
+    Json(categories).into_response()
 }
 fn get_all_categories_docs(op: TransformOperation) -> TransformOperation {
     op.summary("Wonder categories")
         .description("Get all available wonder categories")
-        .response_with::<200, AppJson<Vec<Category>>, _>(|res| {
+        .response_with::<200, Json<Vec<Category>>, _>(|res| {
             res.example(vec![Category::SevenWonders, Category::Civ5])
         })
         .response_with::<400, ErrorResponse, _>(|res| {

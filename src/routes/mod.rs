@@ -1,9 +1,9 @@
 use axum::{http::StatusCode, response::IntoResponse};
 
+pub mod categories;
 pub mod docs;
-pub mod handlers_categories;
-pub mod handlers_wonders;
 mod utils;
+pub mod wonders;
 
 pub async fn handler_404() -> impl IntoResponse {
     (

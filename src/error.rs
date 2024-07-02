@@ -10,7 +10,7 @@ use axum_jsonschema::JsonSchemaRejection;
 use schemars::JsonSchema;
 use serde::Serialize;
 
-use crate::extractor::AppJson;
+use crate::extractors::Json;
 
 pub type Result<T> = core::result::Result<T, Error>;
 
@@ -68,7 +68,7 @@ impl IntoResponse for Error {
             }
         };
 
-        (status, AppJson(ErrorResponse::new(message))).into_response()
+        (status, Json(ErrorResponse::new(message))).into_response()
     }
 }
 

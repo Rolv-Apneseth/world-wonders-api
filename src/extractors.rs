@@ -15,9 +15,9 @@ use crate::error::Error;
     output_with = "axum_jsonschema::Json<T>",
     json_schema
 )]
-pub struct AppJson<T>(pub T);
+pub struct Json<T>(pub T);
 
-impl<T> IntoResponse for AppJson<T>
+impl<T> IntoResponse for Json<T>
 where
     T: Serialize,
 {

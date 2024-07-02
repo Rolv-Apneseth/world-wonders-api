@@ -1,13 +1,13 @@
 use crate::{
     data::{Category, TimePeriod, Wonder, WONDERS},
     error::{Error, ErrorResponse, Result},
-    extractor::{AppJson, Query},
+    extractors::{Json, Query},
 };
 use aide::{
     axum::{routing::get_with, ApiRouter, IntoApiResponse},
     transform::TransformOperation,
 };
-use axum::{extract::Path, response::IntoResponse, Json};
+use axum::{extract::Path, response::IntoResponse};
 use rand::prelude::*;
 use schemars::JsonSchema;
 use serde::Deserialize;
@@ -143,7 +143,7 @@ async fn get_all_wonders(
     };
     sort_wonders(&mut wonders, sorting_params);
 
-    AppJson(wonders).into_response()
+    Json(wonders).into_response()
 }
 fn get_all_wonders_docs(op: TransformOperation) -> TransformOperation {
     op.summary("All wonders")
@@ -165,7 +165,7 @@ async fn get_count_wonders(
     if let Err(e) = filter_wonders_ignore_empty(&mut wonders, filtering_params) {
         return e.into_response();
     };
-    AppJson(wonders.len()).into_response()
+    Json(wonders.len()).into_response()
 }
 fn get_count_wonders_docs(op: TransformOperation) -> TransformOperation {
     op.summary("Number of wonders")
@@ -188,7 +188,7 @@ async fn get_wonder_by_name(Path(name): Path<String>) -> impl IntoApiResponse {
         return Error::NoMatchingName(name).into_response();
     };
 
-    AppJson(wonder).into_response()
+    Json(wonder).into_response()
 }
 fn get_wonder_by_name_docs(op: TransformOperation) -> TransformOperation {
     op.summary("Specific wonder - by name")
@@ -213,7 +213,7 @@ async fn get_random_wonder(
         return e.into_response();
     };
 
-    AppJson(wonders.choose(&mut rng).unwrap()).into_response()
+    Json(wonders.choose(&mut rng).unwrap()).into_response()
 }
 fn get_random_wonder_docs(op: TransformOperation) -> TransformOperation {
     op.summary("Specific wonder - random")
@@ -239,7 +239,7 @@ async fn get_oldest_wonder(
         return e.into_response();
     };
 
-    AppJson(
+    Json(
         wonders
             .iter()
             .reduce(|a, b| if a.build_year < b.build_year { a } else { b })
@@ -268,7 +268,7 @@ async fn get_youngest_wonder(
         return e.into_response();
     };
 
-    AppJson(
+    Json(
         wonders
             .iter()
             .reduce(|a, b| if a.build_year > b.build_year { a } else { b })

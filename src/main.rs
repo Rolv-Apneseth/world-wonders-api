@@ -13,9 +13,8 @@ use tower_http::trace::TraceLayer;
 use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 
 use world_wonders_api::{
-    shutdown_signal,
-    web::{docs, handler_404, handlers_categories, handlers_wonders},
-    DOCS_ROUTE, PORT,
+    routes::{categories, docs, handler_404, wonders},
+    shutdown_signal, DOCS_ROUTE, PORT,
 };
 
 #[tokio::main]
@@ -46,8 +45,8 @@ async fn main() {
     );
 
     let app = ApiRouter::new()
-        .nest_api_service("/v0/wonders", handlers_wonders::routes())
-        .nest_api_service("/v0/categories", handlers_categories::routes())
+        .nest_api_service("/v0/wonders", wonders::routes())
+        .nest_api_service("/v0/categories", categories::routes())
         .nest_api_service(DOCS_ROUTE, docs::routes())
         .fallback(handler_404)
         .finish_api_with(&mut api, api_docs)
