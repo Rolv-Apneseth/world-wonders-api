@@ -77,7 +77,7 @@ async fn main() {
         // Timeout
         .layer(TimeoutLayer::new(Duration::from_secs(10)));
 
-    let addr = SocketAddr::from(([127, 0, 0, 1], PORT));
+    let addr = SocketAddr::from(([0, 0, 0, 0], PORT));
     let listener = tokio::net::TcpListener::bind(addr)
         .await
         .expect("Failed binding listener");

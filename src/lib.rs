@@ -5,6 +5,7 @@ pub mod error;
 pub mod extractors;
 pub mod routes;
 
+// If changing, remember to update the Docker files
 pub const PORT: u16 = 8138;
 pub const DOCS_ROUTE: &str = "/v0/docs";
 
