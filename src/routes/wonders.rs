@@ -192,7 +192,10 @@ async fn get_wonder_by_name(Path(name): Path<String>) -> impl IntoApiResponse {
 }
 fn get_wonder_by_name_docs(op: TransformOperation) -> TransformOperation {
     op.summary("Specific wonder - by name")
-        .description("Get a specific wonder matching the name defined by the path")
+        .description(
+            "Get a specific wonder matching the name defined by the path. Note that
+the name will be parsed as lowercase letters with spaces replaced with '-'.",
+        )
         .response_with::<200, Json<&'static Wonder>, _>(|res| res.example(&WONDERS[1]))
         .response_with::<400, ErrorResponse, _>(|res| {
             res.description("Bad request")
