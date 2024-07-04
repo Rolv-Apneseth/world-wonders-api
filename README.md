@@ -28,6 +28,7 @@ docker run -d -p 8138:8138 \
 If you prefer using `docker compose`, save this as your `docker-compose.yml` file and run `docker compose up`:
 
 ```yaml
+version: "3"
 services:
   api:
     image: rolvapneseth/world-wonders-api
