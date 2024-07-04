@@ -22,4 +22,4 @@ develop-server:
     RUST_LOG="debug" cargo watch -q -c -w src/ -x "run"
 
 develop-client:
-    cargo watch -q -c -w tests/ -w src/ -x "test -q quick_dev -- --nocapture"
+    cargo watch -q -c -w tests/ -w src/ -x "test -q quick_dev -- --ignored --nocapture"
