@@ -6,7 +6,7 @@ WORKDIR /usr/src/${APP_NAME}
 COPY . .
 RUN cargo install --locked --path .
 
-FROM debian:stable-slim
+FROM debian:12-slim
 ARG APP_NAME
 ARG PORT
 COPY --from=builder /usr/local/cargo/bin/$APP_NAME /usr/local/bin/server
