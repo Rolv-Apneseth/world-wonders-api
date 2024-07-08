@@ -1,6 +1,7 @@
 alias b := build
+alias c := check
 alias t := test
-alias ds := develop-server
+alias d := develop
 alias dc := develop-client
 
 # COMMANDS -----------------------------------------------------------------------------------------
@@ -9,17 +10,22 @@ alias dc := develop-client
 default:
     @just --list
 
-# Build
-build:
-    cargo build --release
+# Check
+check:
+    cargo check && cargo clippy --all -- -W clippy::all
 
 # Test
-test:
+test: check
     cargo test --all
 
-# Recompile then run again whenever any change is made
-develop-server:
+# Build
+build: test
+    cargo build --release
+
+# Recompile then restart the server whenever any change is made
+develop:
     RUST_LOG="debug" cargo watch -q -c -w src/ -x "run"
 
+# Re-run quick development queries whenever any change is made
 develop-client:
     cargo watch -q -c -w tests/ -w src/ -x "test -q quick_dev -- --ignored --nocapture"
