@@ -1,6 +1,7 @@
 # world-wonders-api
 
 [![Docker Image Size](https://img.shields.io/docker/image-size/rolvapneseth/world-wonders-api?label=Docker%20image)](https://hub.docker.com/r/rolvapneseth/world-wonders-api)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Rolv-Apneseth/world-wonders-api/prod.yml)](https://github.com/Rolv-Apneseth/world-wonders-api/actions/workflows/prod.yml)
 [![License](https://img.shields.io/badge/License-AGPLv3-green.svg)](./LICENSE)
 
 Free, open and self-hostable API providing information about [Wonders of the World](https://en.wikipedia.org/wiki/Wonders_of_the_World).
@@ -79,7 +80,7 @@ The response contain a non `200` HTTP status code, such as `400`, with a body li
 
 ## Thanks
 
-This API was originally inspired by and contains some data gathered by [this dataset on kaggle](https://www.kaggle.com/datasets/karnikakapoor/wonders-of-world).
+This API was originally inspired by and contains some data gathered from [this dataset on kaggle](https://www.kaggle.com/datasets/karnikakapoor/wonders-of-world).
 
 ## License
 
