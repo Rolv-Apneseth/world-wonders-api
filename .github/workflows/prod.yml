@@ -34,6 +34,15 @@ jobs:
               with:
                   push: true
 
+            - name: Push README to the Docker Hub description
+              uses: peter-evans/dockerhub-description@v4
+              with:
+                username: ${{ secrets.DOCKERHUB_USERNAME }}
+                password: ${{ secrets.DOCKERHUB_TOKEN }}
+                repository: rolvapneseth/world-wonders-api
+                short-description: ${{ github.event.repository.description }}
+                enable-url-completion: true
+
     deploy:
         needs: build
         runs-on: ubuntu-latest
