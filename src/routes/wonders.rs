@@ -11,6 +11,7 @@ use axum::{extract::Path, response::IntoResponse};
 use rand::prelude::*;
 use schemars::JsonSchema;
 use serde::Deserialize;
+use strum::IntoEnumIterator;
 
 use super::utils::empty_string_as_none;
 
@@ -32,6 +33,11 @@ pub struct WonderParamsSorting {
 }
 
 #[derive(Debug, Deserialize, JsonSchema)]
+pub struct CategoriesParams {
+    exclude_games: Option<bool>,
+}
+
+#[derive(Debug, Deserialize, JsonSchema)]
 pub enum SortBy {
     BuildYear,
     Alphabetical,
@@ -44,6 +50,10 @@ pub fn routes() -> ApiRouter {
         .api_route(
             "/count",
             get_with(get_count_wonders, get_count_wonders_docs),
+        )
+        .api_route(
+            "/categories",
+            get_with(get_wonder_categories, get_wonder_categories_docs),
         )
         .api_route(
             "/random",
@@ -176,6 +186,34 @@ fn get_count_wonders_docs(op: TransformOperation) -> TransformOperation {
         .response_with::<400, ErrorResponse, _>(|res| {
             res.description("Bad request")
                 .example(ErrorResponse::new(Error::ConflictingLimitParams(1000, 400)))
+        })
+}
+
+// GET WONDER CATEGORIES
+async fn get_wonder_categories(Query(params): Query<CategoriesParams>) -> impl IntoApiResponse {
+    let categories: Vec<Category> = Category::iter()
+        // Filter out game categories :(
+        .filter(|c| {
+            !matches!(
+                (params.exclude_games, c),
+                (Some(true), Category::Civ5 | Category::Civ6)
+            )
+        })
+        .collect();
+
+    Json(categories).into_response()
+}
+fn get_wonder_categories_docs(op: TransformOperation) -> TransformOperation {
+    op.summary("Wonder categories")
+        .description("Get all available wonder categories")
+        .response_with::<200, Json<Vec<Category>>, _>(|res| {
+            res.example(vec![Category::SevenWonders, Category::Civ5])
+        })
+        .response_with::<400, ErrorResponse, _>(|res| {
+            res.description("Bad request")
+                .example(ErrorResponse::new(Error::InvalidRequest(
+                    "Failed to deserialize query string".to_string(),
+                )))
         })
 }
 

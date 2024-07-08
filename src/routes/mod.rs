@@ -1,6 +1,5 @@
 use axum::{http::StatusCode, response::IntoResponse};
 
-pub mod categories;
 pub mod docs;
 mod utils;
 pub mod wonders;
