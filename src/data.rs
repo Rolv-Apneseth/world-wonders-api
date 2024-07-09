@@ -28,7 +28,7 @@ impl From<i16> for TimePeriod {
     }
 }
 
-#[derive(Serialize, Deserialize, Debug, JsonSchema)]
+#[derive(Serialize, Deserialize, Debug, JsonSchema, PartialEq)]
 pub struct Links {
     pub wiki: String,
     pub britannica: Option<String>,
@@ -47,7 +47,7 @@ pub enum Category {
     Civ6,
 }
 
-#[derive(Serialize, Deserialize, Debug, JsonSchema)]
+#[derive(Serialize, Deserialize, Debug, JsonSchema, PartialEq)]
 pub struct Wonder {
     pub name: String,
     /// Location / suspected location of a world wonder or its remains.
