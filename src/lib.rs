@@ -101,3 +101,42 @@ pub async fn shutdown_signal() {
         _ = terminate => {},
     }
 }
+
+#[cfg(test)]
+mod test_utils {
+    // UTILITY MACROS
+    /// Generate test server with root handled by the given handler identifier
+    ///
+    /// # Examples
+    ///
+    /// ```
+    /// let server = get_server!(get_all_wonders);
+    /// ```
+    #[macro_export]
+    macro_rules! get_route_server {
+        ($fn:ident) => {{
+            let app = Router::new().route("/", get($fn));
+            TestServer::new(app).unwrap()
+        }};
+    }
+
+    /// Generate response from the given test server, and extract a given type from it
+    ///
+    /// # Examples
+    ///
+    /// ```
+    /// let wonders = extract_response!(server, Vec<Wonder>);
+    /// let wonder = extract_response!(server, Wonder, "/great-pyramid-of-giza");
+    /// ```
+    #[macro_export]
+    macro_rules! extract_response {
+        ($server:expr, $type:ty) => {{
+            let response = $server.get("/").await;
+            response.json::<$type>()
+        }};
+        ($server:expr, $type:ty, $path:expr) => {{
+            let response = $server.get($path).await;
+            response.json::<$type>()
+        }};
+    }
+}

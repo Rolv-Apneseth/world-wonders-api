@@ -15,7 +15,7 @@ use strum::IntoEnumIterator;
 
 use super::utils::empty_string_as_none;
 
-#[derive(Debug, Deserialize, JsonSchema)]
+#[derive(Debug, Deserialize, JsonSchema, Default)]
 pub struct WonderParamsFiltering {
     #[serde(default, deserialize_with = "empty_string_as_none")]
     name: Option<String>,
@@ -325,4 +325,230 @@ fn get_youngest_wonder_docs(op: TransformOperation) -> TransformOperation {
             res.description("Bad request")
                 .example(ErrorResponse::new(Error::NoWondersLeft))
         })
+}
+
+#[cfg(test)]
+mod tests {
+    use axum::{routing::get, Router};
+    use axum_test::TestServer;
+    use pretty_assertions::assert_eq;
+
+    use crate::{extract_response, get_route_server};
+
+    use super::*;
+
+    // UNIT TESTS - HELPERS
+    #[test]
+    fn test_filter_wonders_ok() {
+        let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
+        assert!(filter_wonders(
+            &mut wonders,
+            WonderParamsFiltering {
+                category: Some(Category::SevenWonders),
+                ..Default::default()
+            },
+        )
+        .is_ok());
+        assert_eq!(wonders.len(), 7);
+
+        let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
+        assert!(filter_wonders(
+            &mut wonders,
+            WonderParamsFiltering {
+                name: Some("al".to_string()),
+                time_period: Some(TimePeriod::PostClassical),
+                ..Default::default()
+            },
+        )
+        .is_ok());
+        wonders.iter().for_each(|w| {
+            assert_eq!(w.time_period, TimePeriod::PostClassical);
+            assert!(w.name.to_lowercase().contains("al"));
+        });
+
+        let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
+        assert!(filter_wonders(
+            &mut wonders,
+            WonderParamsFiltering {
+                location: Some("ro".to_string()),
+                lower_limit: Some(-200),
+                upper_limit: Some(1000),
+                ..Default::default()
+            },
+        )
+        .is_ok());
+        wonders.iter().for_each(|w| {
+            assert!(w.build_year >= -200);
+            assert!(w.build_year <= 1000);
+            assert!(w.location.to_lowercase().contains("ro"));
+        });
+    }
+
+    #[test]
+    fn test_filter_wonders_errors() {
+        // Empty
+        let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
+        assert!(filter_wonders(
+            &mut wonders,
+            WonderParamsFiltering {
+                name: Some("abcdefghijk".to_string()),
+                ..Default::default()
+            },
+        )
+        .is_err_and(|e| matches!(e, Error::NoWondersLeft)));
+        assert_eq!(wonders.len(), 0);
+
+        // Conflicting limits
+        let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
+        assert!(filter_wonders(
+            &mut wonders,
+            WonderParamsFiltering {
+                lower_limit: Some(500),
+                upper_limit: Some(400),
+                ..Default::default()
+            },
+        )
+        .is_err_and(|e| matches!(e, Error::ConflictingLimitParams(500, 400))));
+    }
+
+    #[test]
+    fn test_filter_wonders_ignore_empty() {
+        let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
+        assert!(filter_wonders_ignore_empty(
+            &mut wonders,
+            WonderParamsFiltering {
+                name: Some("abcdefghijk".to_string()),
+                ..Default::default()
+            },
+        )
+        .is_ok());
+        assert_eq!(wonders.len(), 0);
+
+        // Other errors should not be ignored
+        let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
+        assert!(filter_wonders(
+            &mut wonders,
+            WonderParamsFiltering {
+                lower_limit: Some(1000),
+                upper_limit: Some(-400),
+                ..Default::default()
+            },
+        )
+        .is_err_and(|e| matches!(e, Error::ConflictingLimitParams(1000, -400))));
+    }
+
+    #[test]
+    fn test_sort_wonders() {
+        let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
+
+        sort_wonders(
+            &mut wonders,
+            WonderParamsSorting {
+                sort_by: Some(SortBy::BuildYear),
+                sort_reverse: None,
+            },
+        );
+        wonders.iter().reduce(|a, b| {
+            assert!(a.build_year <= b.build_year);
+            b
+        });
+
+        // Reset working `Vec`, as sorting is stable
+        let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
+
+        sort_wonders(
+            &mut wonders,
+            WonderParamsSorting {
+                sort_by: Some(SortBy::Alphabetical),
+                sort_reverse: Some(true),
+            },
+        );
+        wonders.iter().reduce(|a, b| {
+            assert!(a.name > b.name);
+            b
+        });
+    }
+
+    // UNIT TESTS - ROUTES
+    #[tokio::test]
+    async fn test_get_all_wonders() {
+        let server = get_route_server!(get_all_wonders);
+
+        let wonders = extract_response!(server, Vec<Wonder>);
+        assert_eq!(wonders.len(), WONDERS.len());
+
+        let wonders = extract_response!(server, Vec<Wonder>, "/?category=SevenWonders");
+        assert_eq!(wonders.len(), 7);
+    }
+
+    #[tokio::test]
+    async fn test_get_count_wonders() {
+        let server = get_route_server!(get_count_wonders);
+
+        let count = extract_response!(server, u16);
+        assert_eq!(count as usize, WONDERS.len());
+
+        let count = extract_response!(server, u16, "/?category=SevenWonders");
+        assert_eq!(count as usize, 7);
+    }
+
+    #[tokio::test]
+    async fn test_get_wonder_categories() {
+        let server = get_route_server!(get_wonder_categories);
+
+        let categories = extract_response!(server, Vec<Category>);
+        assert_eq!(categories, Category::iter().collect::<Vec<Category>>());
+    }
+
+    #[tokio::test]
+    async fn test_get_wonder_by_name() {
+        let app = Router::new().route("/:name", get(get_wonder_by_name));
+        let server = TestServer::new(app).unwrap();
+
+        let expected = &WONDERS[0];
+        let wonder = extract_response!(
+            server,
+            Wonder,
+            &format!("/{}", expected.name.to_lowercase().replace(' ', "-"))
+        );
+        assert_eq!(&wonder, expected);
+
+        let error_response = server.get("/").await;
+        error_response.assert_status_not_found();
+        let error_response = server.get("/a").await;
+        error_response.assert_status_bad_request();
+    }
+
+    #[tokio::test]
+    async fn test_get_random_wonder() {
+        let server = get_route_server!(get_random_wonder);
+
+        let response = server.get("/").await;
+        let wonder = response.json::<Wonder>();
+        assert!(WONDERS.contains(&wonder));
+    }
+
+    #[tokio::test]
+    async fn test_get_oldest_wonder() {
+        let server = get_route_server!(get_oldest_wonder);
+
+        let expected = WONDERS
+            .iter()
+            .min_by(|a, b| a.build_year.cmp(&b.build_year))
+            .unwrap();
+        let wonder = extract_response!(server, Wonder);
+        assert_eq!(&wonder, expected);
+    }
+
+    #[tokio::test]
+    async fn test_get_youngest_wonder() {
+        let server = get_route_server!(get_youngest_wonder);
+
+        let expected = WONDERS
+            .iter()
+            .max_by(|a, b| a.build_year.cmp(&b.build_year))
+            .unwrap();
+        let wonder = extract_response!(server, Wonder);
+        assert_eq!(&wonder, expected);
+    }
 }

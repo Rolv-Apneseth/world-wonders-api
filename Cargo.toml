@@ -28,7 +28,9 @@ aide = { version = "0.13.4", features = [
 ] }
 schemars = "0.8.21"
 axum-jsonschema = { version = "0.8.0", features = ["aide"] }
+axum-test = "15.3.0"
 
 [dev-dependencies]
 chrono = { version = "0.4.38" }
 httpc-test = "0.1.9"
+pretty_assertions = "1.4.0"
