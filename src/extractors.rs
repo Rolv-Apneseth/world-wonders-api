@@ -3,6 +3,7 @@ use axum::{
     extract::{FromRequest, FromRequestParts},
     response::IntoResponse,
 };
+use axum_valid::HasValidate;
 use serde::Serialize;
 
 use crate::error::Error;
@@ -35,6 +36,13 @@ where
     json_schema
 )]
 pub struct Query<T>(pub T);
+
+impl<T> HasValidate for Query<T> {
+    type Validate = T;
+    fn get_validate(&self) -> &T {
+        &self.0
+    }
+}
 
 // PATH EXTRACTOR ---------------------------------------------------------------------------------
 #[derive(FromRequestParts, OperationIo)]

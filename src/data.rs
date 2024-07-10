@@ -1,3 +1,4 @@
+use garde::Validate;
 use once_cell::sync::Lazy;
 use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
@@ -28,12 +29,17 @@ impl From<i16> for TimePeriod {
     }
 }
 
-#[derive(Serialize, Deserialize, Debug, JsonSchema, PartialEq)]
+#[derive(Serialize, Deserialize, Debug, JsonSchema, PartialEq, Validate)]
 pub struct Links {
+    #[garde(url, prefix("https"))]
     pub wiki: String,
+    #[garde(url, prefix("https"))]
     pub britannica: Option<String>,
+    #[garde(url, prefix("https"))]
     pub google_maps: Option<String>,
+    #[garde(url, prefix("https"))]
     pub trip_advisor: Option<String>,
+    #[garde(length(min = 2), inner(url, prefix("https")))]
     pub images: Vec<String>,
 }
 
@@ -47,16 +53,20 @@ pub enum Category {
     Civ6,
 }
 
-#[derive(Serialize, Deserialize, Debug, JsonSchema, PartialEq)]
+#[derive(Serialize, Deserialize, Debug, JsonSchema, PartialEq, Validate)]
+#[garde(allow_unvalidated)]
 pub struct Wonder {
+    #[garde(length(min = 3, max = 150))]
     pub name: String,
     /// Location / suspected location of a world wonder or its remains.
+    #[garde(length(min = 3, max = 150))]
     pub location: String,
     /// Year / suspected year the wonder was completed.
     pub build_year: i16,
-    /// Time period of human history that the completion of the world wonder corresponds to.
+    /// Human history time period that the completion of the world wonder corresponds to.
     /// Derived from the build year
     pub time_period: TimePeriod,
+    #[garde(dive)]
     pub links: Links,
     pub categories: Vec<Category>,
 }
@@ -78,6 +88,9 @@ mod tests {
     #[test]
     fn validate_wonders_data() {
         assert!(WONDERS.len() > 0);
+
+        // Validate data using `garde`
+        WONDERS.iter().for_each(|w| w.validate(&()).unwrap());
 
         // To check for duplicate names
         let mut seen_names = HashSet::new();
@@ -116,23 +129,11 @@ mod tests {
 
                 // LINKS
                 // Wiki link
-                assert!(!wiki.trim().is_empty(), "Wiki link is empty");
-                assert!(
-                    wiki.starts_with("https://"),
-                    "Wiki link does not start with 'https://': {wiki}"
-                );
                 assert!(!seen_links.contains(wiki), "Duplicate link: {wiki}");
                 seen_links.insert(wiki);
 
                 // Other links (`Option` values)
                 [britannica, google_maps, trip_advisor].into_iter().for_each(|l| {
-                    assert!(!l.as_ref().is_some_and(|s| s.trim().is_empty()), "Link is empty");
-                    assert!(
-                        !l.as_ref().is_some_and(|s| !s.starts_with("https://")),
-                        "Link does not start with 'https://': {l:?}"
-                    );
-
-
                     if let Some(l) = l {
                         assert!(!seen_links.contains(l), "Duplicate link: {l}");
                         seen_links.insert(l);
@@ -142,12 +143,6 @@ mod tests {
                 // Image links
                 assert!(images.len() > 2, "Less than 2 image links provided");
                 images.iter().for_each(|img| {
-                    assert!(!img.trim().is_empty(), "Image link is empty");
-                    assert!(
-                        img.starts_with("https"),
-                        "Image link does not start with 'https': {img}"
-                    );
-
                     assert!(!seen_links.contains(img), "Duplicate link: {img}");
                     seen_links.insert(img);
                 });
