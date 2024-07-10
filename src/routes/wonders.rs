@@ -8,17 +8,19 @@ use aide::{
     transform::TransformOperation,
 };
 use axum::{extract::Path, response::IntoResponse};
+use axum_valid::Garde;
+use garde::Validate;
 use rand::prelude::*;
 use schemars::JsonSchema;
 use serde::Deserialize;
 use strum::IntoEnumIterator;
 
-use super::utils::empty_string_as_none;
-
-#[derive(Debug, Deserialize, JsonSchema, Default)]
+#[derive(Debug, Deserialize, JsonSchema, Default, Validate)]
+#[garde(allow_unvalidated)]
 pub struct WonderParamsFiltering {
-    #[serde(default, deserialize_with = "empty_string_as_none")]
+    #[garde(length(min = 1, max = 150))]
     name: Option<String>,
+    #[garde(length(min = 1, max = 150))]
     location: Option<String>,
     time_period: Option<TimePeriod>,
     lower_limit: Option<i16>,
@@ -26,7 +28,8 @@ pub struct WonderParamsFiltering {
     category: Option<Category>,
 }
 
-#[derive(Debug, Deserialize, JsonSchema)]
+#[derive(Debug, Deserialize, JsonSchema, Validate)]
+#[garde(allow_unvalidated)]
 pub struct WonderParamsSorting {
     sort_by: Option<SortBy>,
     sort_reverse: Option<bool>,
@@ -143,8 +146,8 @@ fn sort_wonders(wonders: &mut [&'static Wonder], params: WonderParamsSorting) {
 // HANDLERS ----------------------------------------------------------------------------------------
 // GET ALL WONDERS
 async fn get_all_wonders(
-    Query(filtering_params): Query<WonderParamsFiltering>,
-    Query(sorting_params): Query<WonderParamsSorting>,
+    Garde(Query(filtering_params)): Garde<Query<WonderParamsFiltering>>,
+    Garde(Query(sorting_params)): Garde<Query<WonderParamsSorting>>,
 ) -> impl IntoApiResponse {
     let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
 
@@ -169,7 +172,7 @@ fn get_all_wonders_docs(op: TransformOperation) -> TransformOperation {
 
 // GET NUM WONDERS
 async fn get_count_wonders(
-    Query(filtering_params): Query<WonderParamsFiltering>,
+    Garde(Query(filtering_params)): Garde<Query<WonderParamsFiltering>>,
 ) -> impl IntoApiResponse {
     let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
     if let Err(e) = filter_wonders_ignore_empty(&mut wonders, filtering_params) {
@@ -243,7 +246,7 @@ the name will be parsed as lowercase letters with spaces replaced with '-'.",
 
 // GET RANDOM WONDER
 async fn get_random_wonder(
-    Query(filtering_params): Query<WonderParamsFiltering>,
+    Garde(Query(filtering_params)): Garde<Query<WonderParamsFiltering>>,
 ) -> impl IntoApiResponse {
     assert!(WONDERS.len() > 0);
 
@@ -271,7 +274,7 @@ fn get_random_wonder_docs(op: TransformOperation) -> TransformOperation {
 
 // GET OLDEST WONDER
 async fn get_oldest_wonder(
-    Query(filtering_params): Query<WonderParamsFiltering>,
+    Garde(Query(filtering_params)): Garde<Query<WonderParamsFiltering>>,
 ) -> impl IntoApiResponse {
     assert!(WONDERS.len() > 0);
 
@@ -300,7 +303,7 @@ fn get_oldest_wonder_docs(op: TransformOperation) -> TransformOperation {
 
 // GET YOUNGEST WONDER
 async fn get_youngest_wonder(
-    Query(filtering_params): Query<WonderParamsFiltering>,
+    Garde(Query(filtering_params)): Garde<Query<WonderParamsFiltering>>,
 ) -> impl IntoApiResponse {
     assert!(WONDERS.len() > 0);
 

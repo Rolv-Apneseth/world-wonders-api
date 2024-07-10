@@ -29,6 +29,12 @@ aide = { version = "0.13.4", features = [
 schemars = "0.8.21"
 axum-jsonschema = { version = "0.8.0", features = ["aide"] }
 axum-test = "15.3.0"
+axum-valid = { version = "0.18.0", features = [
+  "aide",
+  "basic",
+  "garde",
+], default-features = false }
+garde = { version = "0.18.0", features = ["derive", "url"] }
 
 [dev-dependencies]
 chrono = { version = "0.4.38" }
