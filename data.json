@@ -1226,5 +1226,387 @@
     ]
   },
   {
+    "name": "Maracanã Stadium",
+    "location": "Rio de Janeiro, Brazil",
+    "build_year": 1950,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Maracan%C3%A3_Stadium",
+      "britannica": "https://www.britannica.com/place/Maracana-Stadium",
+      "google_maps": "https://www.google.com/maps/place/Maracan%C3%A3/@-22.912156,-43.2327515,17z/data=!3m1!4b1!4m6!3m5!1s0x997e5dba888b0d:0xf5f33188ee6274e5!8m2!3d-22.912161!4d-43.2301712!16zL20vMDFxdjR5?entry=ttu",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/Maracan%C3%A3_Stadium_in_Rio_de_Janeiro.jpg",
+        "https://cdn.britannica.com/22/138622-050-4230BED2/Maracana-Stadium-Rio-de-Janeiro-Braz.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Maracana_L.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Stadion_Rio_de_Janeiro_Finale_WM_2014_%2822117945206%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/Selo_da_Copa_de_1950_Cr_1%2C20.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Etemenanki",
+    "location": "Baghdad, Iraq",
+    "build_year": -900,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Etemenanki",
+      "britannica": "https://www.britannica.com/place/Etemenanki",
+      "google_maps": "https://www.google.com/maps/place/Ziggurat+of+Babel+(Tower+of+Babel)/@32.5362931,44.418539,17z/data=!3m1!4b1!4m6!3m5!1s0x1558fd6e11f9733d:0x8be80aedb0eb6a4d!8m2!3d32.5362886!4d44.4211193!16zL20vMGY2czk?entry=ttu",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Etemenanki_Berlin.jpg",
+        "https://lh3.googleusercontent.com/p/AF1QipMCEjSYxriO6bkYE-VFpLWQJkNsxiR9YuJNLrVt=s680-w680-h510",
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Remains_of_the_foundations_of_the_Etemnanki_Zigurat.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Great Ziggurat of Ur",
+    "location": "Al-Nāṣiriyyah, Iraq",
+    "build_year": -2100,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
+      "britannica": "https://www.britannica.com/topic/ziggurat-at-Ur",
+      "google_maps": "https://www.google.com/maps/place/Great+Ziggurat+of+Ur/@30.9627594,46.1005975,17z/data=!3m1!4b1!4m6!3m5!1s0x3fde0f04bcb0e269:0x3cc2e62923d6aa66!8m2!3d30.9627548!4d46.1031778!16zL20vMDV4bDg0?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g659534-d25310969-Reviews-Great_Ziggurat_of_Ur-Nasiriyah_Dhi_Qar_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Drawing_of_the_Ziggurat_of_Ur%2C_Iraq%2C_by_Marjorie_V._Duffell_for_C._L._Woolley%2C_1937.jpg",
+        "https://cdn.britannica.com/24/234324-050-06F7B0E3/Dhi-Qar-Iraq-2022-Ziggurat-of-Ur-Sumerian-period.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/Zig_close.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/Zig_from_side.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Zig_front_right_side.JPG"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "The Great Bath",
+    "location": "Mohenjo-daro, Pakistan",
+    "build_year": -3000,
+    "time_period": "Prehistoric",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Bath",
+      "britannica": "https://www.britannica.com/place/Great-Bath-Mohenjo-daro",
+      "google_maps": "https://www.google.com/maps/place/The+Great+Bath/@27.3252509,68.1300546,17z/data=!3m1!4b1!4m6!3m5!1s0x39350b66c06edee9:0xe6f8a77186ef4b12!8m2!3d27.3252462!4d68.1326349!16s%2Fm%2F0c3yw41?entry=ttu",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mohenjo-daro.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Bath_of_Moenjodaro_by_smn121-5.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/28/Great_Bath%2C_Mohenjo-daro_20160806_JYN-03.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Great_Bath_at_Mohenjo-daro._Wellcome_L0005461.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Great Zimbabwe",
+    "location": "Masvingo, Zimbabwe",
+    "build_year": 1000,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+      "britannica": "https://www.britannica.com/place/Great-Zimbabwe",
+      "google_maps": "https://www.google.com/maps/place/Great+Zimbabwe+National+Monument/@-20.2713259,30.9305492,17z/data=!3m1!4b1!4m6!3m5!1s0x1ecd0184c6f4ef7f:0xe92c1ec6afc766a0!8m2!3d-20.271331!4d30.9331295!16s%2Fg%2F12lppts0g?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/AttractionProductReview-g298091-d24125295-Great_Zimbabwe-Bulawayo_Bulawayo_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg",
+        "https://cdn.britannica.com/95/84895-050-215FBB71/complex-Great-Zimbabwe-Masvingo.jpg",
+        "https://cdn.britannica.com/14/153414-050-6001EE2C/Ruins-Great-Zimbabwe-palace.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Great-zim-aerial-looking-West.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/Exterior_of_great_enclosure%2CG.Zimbabwe.JPG"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Hermitage Museum",
+    "location": "Saint Petersburg, Russia",
+    "build_year": 1764,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hermitage_Museum",
+      "britannica": "https://www.britannica.com/topic/Hermitage-museum-Saint-Petersburg-Russia",
+      "google_maps": "https://www.google.com/maps/place/State+Hermitage+Museum/@59.9398317,30.3145597,17z/data=!3m1!4b1!4m6!3m5!1s0x4696310b32cbe2e9:0x74e032aa0505dfc!8m2!3d59.9398317!4d30.3145597!16zL20vMDE3cXlr?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298507-d300071-Reviews-The_State_Hermitage_Museum-St_Petersburg_Northwestern_District.html",
+      "images": [
+        "https://cdn.britannica.com/39/117239-050-9315F482/Hermitage-St-Petersburg.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hermitage_Museum_in_Saint_Petersburg.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Atlantes-Saint_Petersburg-6.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/01/Ermit%C3%A1%C5%BE_%2818%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/34/Raphael_Loggias_Hermitage.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Huey Teocalli",
+    "location": "Mexico City, Mexico",
+    "build_year": 1325,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Templo_Mayor",
+      "britannica": "https://www.britannica.com/topic/Templo-Mayor",
+      "google_maps": "https://www.google.com/maps/place/Templo+Mayor,+La+Esmeralda,+07540+Ciudad+de+M%C3%A9xico,+CDMX,+Mexico/@19.4853258,-99.0904294,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1fa32fb8dd9f9:0x9f1d288f208d247a!8m2!3d19.4853208!4d-99.0878491!16s%2Fg%2F1tscpbxx?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g150800-d152191-Reviews-Museo_del_Templo_Mayor-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+      "images": [
+        "https://cdn.britannica.com/98/147898-050-25F13D15/Ruins-Templo-Mayor-Mexico-City-Zocalo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4d/Templo_Mayor_2015_001.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/InsideEagleBuildingTemploMayor.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Zocalo_temple_mayor_metro.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Kilwa Kisiwani",
+    "location": "Kilwa Masoko, Tanzania",
+    "build_year": 800,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Kilwa_Kisiwani",
+      "britannica": "https://www.britannica.com/place/Kilwa",
+      "google_maps": "https://www.google.com/maps/place/Kilwa+Kisiwani,+Tanzania/@-8.9658521,39.4775767,15z/data=!3m1!4b1!4m6!3m5!1s0x18f4efc4d22fa8d9:0x89628caa9070ac56!8m2!3d-8.965874!4d39.497082!16zL20vMDR4d3h6?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g14050045-d480393-Reviews-Kilwa_Kisiwani_World_Heritage_Site-Kilwa_Kisiwani_Island_Lindi_Region.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kilwa-Kisiwani-ruins-tanzania.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d3/Great_Mosque_Kilwa_Kisiwani.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Interior_Kilwa_Kisiwani.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cc/32/3b/mosquee.jpg?w=1200&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kilwa_Gerezani_Door.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Kōtoku-in",
+    "location": "Kamakura, Japan",
+    "build_year": 1252,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/K%C5%8Dtoku-in",
+      "google_maps": "https://www.google.com/maps/place/Kotoku-in/@35.3168188,139.5331639,17z/data=!3m1!4b1!4m6!3m5!1s0x601845f2df49bc05:0x1ec393b02d6bef4c!8m2!3d35.3168145!4d139.5357442!16s%2Fg%2F11c2pcz953?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g1066452-d11947042-Reviews-Kotoku_in-Nakano_Tokyo_Tokyo_Prefecture_Kanto.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kamakura_Budda_Daibutsu_front_1885.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/-Buddha_Sculpture-_MET_DP155601.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/Buddha_kamakura_closeup.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/Main_Archway_into_K%C5%8Dtoku-in%2C_Kamakura.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fd/%27Kamakura%27%2C_woodblock_print_by_Charles_W._Bartlett%2C_1916.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Mahabodhi Temple",
+    "location": "Bodh Gaya, India",
+    "build_year": -250,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Mahabodhi_Temple",
+      "britannica": "https://www.britannica.com/place/Mahabodhi-Temple-in-Pagan",
+      "google_maps": "https://www.google.com/maps/place/Mahabodhi+Temple/@24.6959271,84.988839,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32c5b4bd80877:0xf8dd2e286fa80c97!8m2!3d24.6959222!4d84.9914193!16zL20vMDFneXl2?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g424922-d319997-Reviews-Mahabodhi_Temple-Bodh_Gaya_Gaya_District_Bihar.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mahabodhitemple.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bodhi_Tree_Distant_View_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Diamond_throne_discovery.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bodh_Gaya_Sunga_railings_4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/92/Bodh_gaya_before_restoration.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Meenakshi Temple",
+    "location": "Madurai, India",
+    "build_year": 1600,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "britannica": "https://www.britannica.com/topic/Meenaskshi-Amman-Temple",
+      "google_maps": "https://www.google.com/maps/place/Meenakshi+Temple/@12.8675545,80.1742293,11.67z/data=!4m6!3m5!1s0x3a52661ac1ef3333:0xe63425c7525c5050!8m2!3d13.0692587!4d80.2672797!16s%2Fg%2F1tlczlr6?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297677-d321131-Reviews-Madurai_Meenakshi_Amman_Temple-Madurai_Madurai_District_Tamil_Nadu.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/MEENAKSHI_TEMPLE-VIEW_FROM_WEST_SIDE_TOWER.jpg",
+        "https://cdn.britannica.com/31/161731-050-29ED0BDC/Hindu-Meenakshi-Amman-Temple-Madurai-India-Tamil.jpg",
+        "https://cdn.britannica.com/31/242231-050-F879D668/Meenakshi-Temple-Madurai-city-Tamil-Nadu-India.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/01MaduraiMeenakshiAmmanTemple%26IndoorCorridorView.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Mariage_of_Shiva_and_Parvati_%28Meenakshi%29_witnessed_by_Vishnu%2C_Meenakshi_Temple%2C_Madurai_%282%29_%2836857653813%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e8/1895_print_of_Meenakshi_temple_1000_pillar_Airakkal_mandapa_choultry.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Mont-Saint-Michel",
+    "location": "France",
+    "build_year": 1000,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Mont-Saint-Michel",
+      "britannica": "https://www.britannica.com/place/Mont-Saint-Michel",
+      "google_maps": "https://www.google.com/maps/place/50170+Mont+Saint-Michel,+France/@48.6244883,-1.5390193,15z/data=!3m1!4b1!4m6!3m5!1s0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe!8m2!3d48.636063!4d-1.511457!16zL20vMDFwOGg2?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Tourism-g196646-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy-Vacations.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/78/Mont-Saint-Michel_vu_du_ciel.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mont_St_Michel_%2B_Jet%C3%A9e_par_Mar%C3%A9e_haute.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Mont_Saint_Michel_Normandy.jpg",
+        "https://cdn.britannica.com/89/130489-050-A97CEA73/Mont-Saint-Michel-Basse-Normandie-France.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Országház",
+    "location": "Budapest, Hungary",
+    "build_year": 1904,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hungarian_Parliament_Building",
+      "google_maps": "https://www.google.com/maps/place/Hungarian+Parliament+Building/@47.5071246,19.0430887,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc1046d4a33d:0x342122b8ff8f0f6e!8m2!3d47.507121!4d19.045669!16zL20vMDhsdnN0?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g274887-d276817-Reviews-Hungarian_Parliament_Building-Budapest_Central_Hungary.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Parliament_of_Hungary_November_2017.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Hungarian_Parliament_Building_by_AKW.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hungarian_Parliament_Building_2015_13.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Hungarian_Parliament_Building_Upper_House_2015.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Divald_orsz%C3%A1gh%C3%A1z_1905-27.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Oxford University",
+    "location": "Oxford, England",
+    "build_year": 1096,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/University_of_Oxford",
+      "britannica": "https://www.britannica.com/topic/University-of-Oxford",
+      "google_maps": "https://www.google.com/maps/place/University+of+Oxford/@51.7570461,-1.2593942,17z/data=!3m1!4b1!4m6!3m5!1s0x4876c6a9ef8c485b:0xd2ff1883a001afed!8m2!3d51.7570429!4d-1.2545179!16zL20vMDd0Z24?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186361-d188766-Reviews-University_of_Oxford-Oxford_Oxfordshire_England.html",
+      "images": [
+        "https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/1_oxford_aerial_panorama_2016.jpg",
+        "https://cdn.britannica.com/04/130604-050-CE14BE8D/University-College-Oxford-Oxfordshire-England.jpg",
+        "https://cdn.britannica.com/06/117106-050-B94F9317/Radcliffe-Camera-part-James-Gibbs-Oxford-England-1749.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/ChristChurchOxfordEngraving1742.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "St. Basil's Cathedral",
+    "location": "Moscow, Russia",
+    "build_year": 1560,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+      "britannica": "https://www.britannica.com/topic/Saint-Basil-the-Blessed",
+      "google_maps": "https://www.google.com/maps/place/St.+Basil's+Cathedral/@55.7525259,37.6205065,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a5962e69605:0xa4cf168ae7cb3ae5!8m2!3d55.7525229!4d37.6230868!16zL20vMDE0bGZ0?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298484-d300367-Reviews-Saint_Basil_s_Cathedral-Moscow_Central_Russia.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+        "https://cdn.britannica.com/26/116526-050-76C37BBC/Cathedral-of-St-Basil-the-Blessed-Moscow.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/ff/St._Basil_Cathedral.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Saint_Basil_inside_hdr_mantiuk.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/Red_Square_in_Moscow_%281801%29_by_Fedor_Alekseev.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Belém Tower",
+    "location": "Lisbon, Portugal",
+    "build_year": 1519,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+      "britannica": "https://www.britannica.com/place/Tower-of-Belem",
+      "google_maps": "https://www.google.com/maps/place/Bel%C3%A9m+Tower/@38.6915879,-9.2185576,17z/data=!3m2!4b1!5s0xd1ecb6968ca6973:0x7ffc53d5b48b9149!4m6!3m5!1s0xd1ecb42c3c29c4b:0x3002dcadcf52513f!8m2!3d38.6915837!4d-9.2159773!16zL20vMDVnYng2?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189158-d524074-Reviews-Torre_de_Belem-Lisbon_Lisbon_District_Central_Portugal.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/Torre_de_Bel%C3%A9m%2C_Lisboa%2C_Portugal%2C_2012-05-12%2C_DD_18.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Belem.Torre09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/TorreBelem1-IPPAR.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/86/Combat_du_Tage.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "University of Sankoré",
+    "location": "Timbuktu, Mali",
+    "build_year": 1500,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Sankor%C3%A9_Madrasah",
+      "britannica": "https://www.britannica.com/place/Sankore-mosque",
+      "google_maps": "https://www.google.com/maps/place/Sankore+Mosquee/@16.7760627,-3.0081548,17z/data=!3m1!4b1!4m6!3m5!1s0xe17cfcde4287223:0x4a51fb7caac4e291!8m2!3d16.7760576!4d-3.0055745!16zL20vMDRxeHY1?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g304007-d6949644-Reviews-Mosque_of_Sankore-Timbuktu_Tombouctou_Region.html",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ef/2a/b7/sankore-mosque.jpg?w=1200&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/2007_Sankore_Mosque_Timbuktu_02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/17/Fortier_368_Timbuktu_Sankore_Mosque.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Venetian Arsenal",
+    "location": "Venice, Italy",
+    "build_year": 1104,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Venetian_Arsenal",
+      "britannica": "https://www.britannica.com/place/Arsenal-district-Venice-Italy",
+      "google_maps": "https://www.google.com/maps/place/Arsenale+di+Venezia/@45.4348539,12.3473206,17z/data=!3m1!4b1!4m6!3m5!1s0x477eae25ebd484eb:0x7580058aeacc7e86!8m2!3d45.4348502!4d12.3499009!16zL20vMDN0dHk0?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187870-d24192294-Reviews-Venetian_Arsenal-Venice_Veneto.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Campo_de_l%27Arsenal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Arsenale_di_Venezia_towers.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/28/Arsenale_%28Venice%29_-_The_Lion_of_Venice_on_the_pediment_of_the_arsenal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2e/View_of_the_entrance_to_the_Arsenal_by_Canaletto%2C_1732.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
   }
 ]
