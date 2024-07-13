@@ -125,7 +125,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -420,7 +421,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -441,7 +443,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -503,7 +506,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -524,7 +528,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -545,7 +550,10 @@
         "https://upload.wikimedia.org/wikipedia/commons/2/2f/Treasury_petra_crop.jpeg"
       ]
     },
-    "categories": []
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
   },
   {
     "name": "Taj Mahal",
@@ -565,7 +573,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -606,7 +615,9 @@
         "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Zhol_PIllar_in_1949.jpg"
       ]
     },
-    "categories": []
+    "categories": [
+      "Civ6"
+    ]
   },
   {
     "name": "Temple of Apollo at Delphi",
@@ -628,7 +639,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -672,7 +684,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -807,7 +820,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -938,7 +952,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -1004,7 +1019,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -1027,7 +1043,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -1115,7 +1132,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -1159,7 +1177,8 @@
       ]
     },
     "categories": [
-      "Civ5"
+      "Civ5",
+      "Civ6"
     ]
   },
   {
@@ -1205,5 +1224,7 @@
     "categories": [
       "Civ6"
     ]
+  },
+  {
   }
 ]
