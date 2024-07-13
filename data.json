@@ -336,6 +336,29 @@
     "categories": []
   },
   {
+    "name": "Mausoleum at Halicarnassus",
+    "location": "Bodrum, Turkey",
+    "build_year": -351,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus",
+      "britannica": "https://www.britannica.com/topic/Mausoleum-of-Halicarnassus",
+      "google_maps": "https://www.google.com/maps/place/Mausoleum+at+Halicarnassus/@37.0378917,27.4215361,17z/data=!3m1!4b1!4m6!3m5!1s0x14be6c4712970997:0x5ea4619a942df9d1!8m2!3d37.0378874!4d27.4241164!16zL20vMGo0d2g?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298658-d2177923-Reviews-Mausoleum_of_Halicarnassus-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aeg.html",
+      "images": [
+        "https://cdn.britannica.com/60/168960-050-766C48B3/Artist-re-creation-Mausoleum-of-Halicarnassus.jpg",
+        "https://cdn.britannica.com/58/168958-050-D06F8501/Mausoleum-Halicarnassus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mausoleum_at_Halicarnassus_at_the_Bodrum_Museum_of_Underwater_Archaeology.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
     "name": "Great Library of Alexandria",
     "location": "Alexandria, Egypt",
     "build_year": -246,
@@ -353,7 +376,6 @@
       ]
     },
     "categories": [
-      "SevenWonders",
       "Civ5",
       "Civ6"
     ]
