@@ -120,6 +120,8 @@ mod tests {
             }| {
                 assert!(!name.trim().is_empty(), "Name provided is empty");
                 assert!(!location.trim().is_empty(), "Location provided is empty");
+                assert_eq!(name.trim().len(), name.len(), "Name contains trailing/leading whitespace");
+                assert_eq!(location.trim().len(), location.len(), "Location contains trailing/leading whitespace");
 
                 // Build year + time period
                 assert!(*build_year as i32 <= year, "Build year exceeds current calendar year: {build_year}");
