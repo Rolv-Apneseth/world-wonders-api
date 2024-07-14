@@ -43,7 +43,9 @@ pub struct Links {
     pub images: Vec<String>,
 }
 
-#[derive(Serialize, Deserialize, Debug, PartialEq, Eq, EnumIter, JsonSchema)]
+#[derive(
+    Clone, Serialize, Deserialize, Debug, PartialEq, Eq, PartialOrd, Ord, EnumIter, JsonSchema,
+)]
 pub enum Category {
     /// Wonder is one of the "7 Wonders of the Ancient World".
     SevenWonders,
@@ -113,6 +115,7 @@ mod tests {
                     trip_advisor,
                     images
                 },
+                categories,
                 ..
             }| {
                 assert!(!name.trim().is_empty(), "Name provided is empty");
@@ -126,6 +129,12 @@ mod tests {
                     &expected_time_period,
                     "Time period '{time_period:?}' does not match year '{build_year}'. Expected: {expected_time_period:?}",
                 );
+
+                // CATEGORIES
+                let mut categories_clone = categories.clone();
+                categories_clone.sort();
+                categories_clone.dedup();
+                assert_eq!(categories_clone.len(), categories.len(), "There are duplicate categories: {categories:?}");
 
                 // LINKS
                 // Wiki link
