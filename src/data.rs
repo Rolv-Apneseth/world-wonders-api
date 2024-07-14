@@ -31,13 +31,13 @@ impl From<i16> for TimePeriod {
 
 #[derive(Serialize, Deserialize, Debug, JsonSchema, PartialEq, Validate)]
 pub struct Links {
-    #[garde(url, prefix("https"))]
+    #[garde(url, prefix("https://en.wikipedia.org/wiki/"))]
     pub wiki: String,
-    #[garde(url, prefix("https"))]
+    #[garde(url, prefix("https://www.britannica.com"))]
     pub britannica: Option<String>,
-    #[garde(url, prefix("https"))]
+    #[garde(url, prefix("https://www.google.com/maps/place"))]
     pub google_maps: Option<String>,
-    #[garde(url, prefix("https"))]
+    #[garde(url, prefix("https://www.tripadvisor.com"))]
     pub trip_advisor: Option<String>,
     #[garde(length(min = 2), inner(url, prefix("https")))]
     pub images: Vec<String>,
