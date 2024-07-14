@@ -1608,5 +1608,553 @@
     "categories": [
       "Civ6"
     ]
+  },
+  {
+    "name": "Göbekli Tepe",
+    "location": "Şanlıurfa, Turkey",
+    "build_year": -9500,
+    "time_period": "Prehistoric",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+      "britannica": "https://www.britannica.com/place/Gobekli-Tepe",
+      "google_maps": "https://www.google.com/maps/place/G%C3%B6beklitepe/@37.2232631,38.9192514,17z/data=!3m1!4b1!4m6!3m5!1s0x153466b65f6e3a5f:0x1667510255794d71!8m2!3d37.2232589!4d38.9218317!16zL20vMDJrZ256?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g652373-d14803056-Reviews-Gobeklitepe-Sanliurfa_Sanliurfa_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b3/Urfa_G%C3%B6beklitepe_Building_B_5326.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/G%C3%B6beklitepe_%C5%9Eanl%C4%B1urfa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_archaeological_site_of_G%C3%B6bekli_Tepe_-_main_excavation_area.png",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/c6/75/ef/caption.jpg?w=1200&h=-1&s=1"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Nazca Lines",
+    "location": "Peru",
+    "build_year": 500,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Nazca_lines",
+      "britannica": "https://www.britannica.com/place/Nazca-Lines",
+      "google_maps": "https://www.google.com/maps/place/Nazca+Lines/@-14.7941967,-75.1071649,13z/data=!4m6!3m5!1s0x91141e46ccb532ad:0x1802d2b96697b591!8m2!3d-14.739027!4d-75.130005!16zL20vMDFmbnZn?entry=ttu",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_54.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/99/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_61.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a5/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_52.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_55.JPG",
+        "https://cdn.britannica.com/41/153441-050-10B39A3A/Aerial-view-Nazca-Lines-northwest-Pampa-Colorada.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Tarxien Temples",
+    "location": "Tarxien, Malta",
+    "build_year": -3150,
+    "time_period": "Prehistoric",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Tarxien_Temples",
+      "google_maps": "https://www.google.com/maps/place/Tarxien+Temples/@35.8691842,14.5070567,17z/data=!3m1!4b1!4m6!3m5!1s0x130e5ae6bcca5aa1:0x6f4c3352d24ae7ca!8m2!3d35.86918!4d14.511933!16s%2Fm%2F02vqrss?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g1469134-d313298-Reviews-Tarxien_Temples-Tarxien_Island_of_Malta.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/70/Entrance_to_apses_of_the_Central_Temple%2C_Tarxien_Temples.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malta_-_Tarxien_-_Triq_it-Tempji_Neolitici_-_Temples_26_ies.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/76/Tarxien_Temples_Malta_-_Tarxien_South_Temple_%28Doorway%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Altar_in_the_Southwestern_Tarxien_Temple.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Temi_Zammit%2C_Tarxien_temples_excavations%2C_1915.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Cahokia Mounds",
+    "location": "Collinsville, USA",
+    "build_year": 1000,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Cahokia",
+      "britannica": "https://www.britannica.com/place/Cahokia-Mounds",
+      "google_maps": "https://www.google.com/maps/place/Cahokia+Mounds+State+Historic+Site/@38.6550685,-90.0644031,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8ab52d79595af:0x30679191aa51caf6!8m2!3d38.6550643!4d-90.0618228!16s%2Fm%2F06_0t1z?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g35832-d274020-Reviews-Cahokia_Mounds_State_Historic_Site-Collinsville_Illinois.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a4/Monks_Mound_-_Summer_2024.jpg",
+        "https://cdn.britannica.com/52/101052-050-23D44BCC/Monks-Mound-structure-Cahokia-Mounds-State-Historic.jpg",
+        "https://cdn.britannica.com/55/66455-050-4CD7C423/Cahokia-Michael-Hampshire-painting-1150.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mississippian_culture_mound_components_HRoe_2011.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Moai",
+    "location": "Easter Island, Chile",
+    "build_year": 1500,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Moai",
+      "britannica": "https://www.britannica.com/art/moai-figure",
+      "trip_advisor": "https://www.tripadvisor.com/AttractionProductReview-g316040-d21194207-Ahu_Akivi_The_Seven_Moais_on_Easter_Island-Easter_Island.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/AhuTongariki.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cantera_de_moais.jpg",
+        "https://cdn.britannica.com/38/94538-050-83B18723/Moai-Easter-Island-Chile.jpg",
+        "https://cdn.britannica.com/86/99586-050-E43A9FAC/Moai-statues-Easter-Island.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_the_back_of_a_moai_with_petroglyph_carvings%2C_partially_excavated%3B_a_South_American_man_is_sitting_on_the_ground%2C_with_one_bare_foot_on_the_shoulder_of_the_sculpture%3B_Rano_Raraku%2C_Oc%2CG.T.1465%2C_Mana_Expedition_to_Easter_Island%2C_British_Museum.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Masada",
+    "location": "Israel",
+    "build_year": -15,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Masada",
+      "britannica": "https://www.britannica.com/place/Masada",
+      "google_maps": "https://www.google.com/maps/place/Masada,+Israel/@32.6829574,35.5930382,17z/data=!3m1!4b1!4m6!3m5!1s0x151c6a581695aa29:0xcbb81729338a8611!8m2!3d32.682305!4d35.597657!16s%2Fm%2F03h0twx?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Tourism-g13149292-Masada_Dead_Sea_Region-Vacations.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Israel-2013-Aerial_21-Masada.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/67/Flickr_-_Government_Press_Office_%28GPO%29_-_Masada_%281%29.jpg",
+        "https://cdn.britannica.com/13/166413-050-6A127D5E/Ruins-fortress-Masada-Israel-Dead-Sea.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Masada_051013_Chapel_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/Masada_BW_A.JPG"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Tikal",
+    "location": "Flores, Guatemala",
+    "build_year": 100,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Tikal",
+      "britannica": "https://www.britannica.com/place/Tikal",
+      "google_maps": "https://www.google.com/maps/place/Tikal,+Guatemala/@17.2239582,-89.6261859,15z/data=!3m1!4b1!4m6!3m5!1s0x8f5fa6ca55526adb:0x12e1837f24e01655!8m2!3d17.2248941!4d-89.6110378!16s%2Fg%2F12xpws6r0?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g292015-d10736302-Reviews-Tikal-Tikal_National_Park_Peten_Department.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tikal-Plaza-And-North-Acropolis.jpg",
+        "https://cdn.britannica.com/95/189895-050-C0C50BC5/Temple-Jaguar-Pyramid-Guatemala-Tikal.jpg",
+        "https://cdn.britannica.com/85/178085-050-32A2F137/Pyramid-II-relief-work-Temple-of-the.jpg",
+        "https://cdn.britannica.com/86/178086-050-4D30F694/Temples-forest-Tikal-Peten-Guatemala-National-Park.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Tikal1882.jpeg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Karnak Temple Complex",
+    "location": "El-Karnak, Egypt",
+    "build_year": -1375,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Karnak",
+      "britannica": "https://www.britannica.com/place/Karnak",
+      "google_maps": "https://www.google.com/maps/place/Karnak/@25.7188394,32.65469,17z/data=!3m1!4b1!4m6!3m5!1s0x1449159228fec0cd:0xc71ae8c008c259d8!8m2!3d25.7188346!4d32.6572703!16zL20vMDE0d3k0?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294205-d459885-Reviews-Temple_of_Karnak-Luxor_Nile_River_Valley.html",
+      "images": [
+        "https://cdn.britannica.com/01/178001-050-2DAD3B4E/temple-complex-Nile-River-Egypt-Karnak.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/Temple_de_Louxor_53.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_41.jpg",
+        "https://cdn.britannica.com/20/153420-050-08901E99/Temple-Karnak-Egypt.jpg",
+        "https://cdn.britannica.com/92/99592-050-E7E20970/Relief-sculpture-area-Karnak-Luxor-Egypt.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/S03_06_01_018_image_2398.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hall_of_columns%2C_Karnac%2C_RP-F-F25403-AG.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Tulum",
+    "location": "Tulum, Mexico",
+    "build_year": 1300,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Tulum",
+      "google_maps": "https://www.google.com/maps/place/Tulum/@20.2149554,-87.4320015,17z/data=!3m1!4b1!4m6!3m5!1s0x8f4fd17d16293265:0xff68d6fca492c963!8m2!3d20.2149504!4d-87.4294212!16zL20vMDF6c3c4?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/AttractionProductReview-g150807-d15767449-Tulum_Ruins_and_Cenote_Guided_Tour_plus_Snacks-Cancun_Yucatan_Peninsula.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tulum_Maya-13.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/Tulum_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bf/Tulum_-_God_of_the_Winds_Temple_03.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tulum_-_12.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/TulumCatherwood1844.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Tiwanaku",
+    "location": "Tiwanaku, Bolivia",
+    "build_year": 600,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Tiwanaku",
+      "britannica": "https://www.britannica.com/place/Tiwanaku",
+      "google_maps": "https://www.google.com/maps/place/Tiwanaku+Archaeological+Complex/@-16.5556672,-68.6753725,17z/data=!3m1!4b1!4m6!3m5!1s0x915ebd095b253df7:0xb8501935a205e22a!8m2!3d-16.5556724!4d-68.6727922!16s%2Fg%2F11c6sl17cf?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g12920367-d554769-Reviews-Tiwanaku-Tiwanaku_La_Paz_Department.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/PUERTA_DEL_SOL_TIWANAKU.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d8/Tiwanaku_09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/Tiwanaku_-_Puerta_de_la_Luna_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e7/Monolito_Fraile_%28Tiwanaku%2C_Bolivia%29_%2836936733575%29.jpg",
+        "https://cdn.britannica.com/37/4937-050-7FB557FE/god-angels-Tiwanaku-Gateway-of-the-Sun.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/Posnansky_Fig_13.png"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Pyramid of the Sun",
+    "location": "Teotihuacán, Mexico",
+    "build_year": 100,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Pyramid_of_the_Sun",
+      "britannica": "https://www.britannica.com/place/Pyramid-of-the-Sun",
+      "google_maps": "https://www.google.com/maps/place/Pyramid+of+the+Sun/@19.6922779,-98.8460838,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1ea845eb30ff9:0xad84278bbe6d0c38!8m2!3d19.6922729!4d-98.8435035!16zL20vMDkxdm1m?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g499421-d15026179-Reviews-Teotihuacan_Pyramids-San_Juan_Teotihuacan_Central_Mexico_and_Gulf_Coast.html",
+      "images": [
+        "https://cdn.britannica.com/02/147902-050-BA146002/Pyramid-of-the-Sun-city-Mexico-Teotihuacan.jpg",
+        "https://cdn.britannica.com/88/178088-050-1A92412B/Tourists-Pyramid-of-the-Sun-Mexico-Teotihuacan.jpg",
+        "https://cdn.britannica.com/73/117773-050-856A2EA6/Pyramid-of-the-Sun-Teotihuacan.jpg",
+        "https://cdn.britannica.com/04/196804-050-823CD643/Pyramid-of-the-Sun-Teotihuacan-Mexico.jpg",
+        "https://cdn.britannica.com/67/9067-004-C69929E4/Pyramid-of-the-Sun-Teotihuacan-Mexico.jpg?s=1500x700&q=85"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Luxor Temple",
+    "location": "Luxor, Egypt",
+    "build_year": -1400,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Luxor_Temple",
+      "britannica": "https://www.britannica.com/place/Temple-of-Luxor",
+      "google_maps": "https://www.google.com/maps/place/Luxor+Temple/@25.6995068,32.6364706,17z/data=!3m1!4b1!4m6!3m5!1s0x144915c41edadf61:0x7693895c346c7d81!8m2!3d25.699502!4d32.6390509!16zL20vMDNwcDd2?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294205-d318954-Reviews-Luxor_Temple-Luxor_Nile_River_Valley.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c7/%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B1%D9%85%D8%B3%D9%8A%D8%B3_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%89_-_%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A7%D9%82%D8%B5%D8%B1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/Luxor-Tempel_Sanktuar_Amenophis_III._01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_23.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f0/Abu_el-Haggag_R01.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Valley of the Kings",
+    "location": "Luxor, Egypt",
+    "build_year": -1075,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+      "britannica": "https://www.britannica.com/place/Valley-of-the-Kings",
+      "google_maps": "https://www.google.com/maps/place/Valley+of+the+Kings/@25.7425897,32.5964331,16z/data=!3m1!4b1!4m6!3m5!1s0x14493d8ab5defed7:0x718fccf6a2e3a9da!8m2!3d25.7401643!4d32.601411!16zL20vMDhtOHc2?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294205-d321166-Reviews-Valley_of_the_Kings-Luxor_Nile_River_Valley.html",
+      "images": [
+        "https://cdn.britannica.com/82/116482-050-72B23431/Mortuary-temple-Hatshepsut-Valley-of-the-Kings.jpg",
+        "https://cdn.britannica.com/59/25059-050-5E36B57C/tomb-Tutankhamun-Valley-of-the-Kings-Thebes.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/Valley_of_the_Kings_panorama.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/KV14_Tomb_of_Tausert_and_Setnakht_DSCF3116.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/KV11_Tomb_of_Ramses_III_DSCF2941.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Abu Simbel Temples",
+    "location": "Abu Simbel, Egypt",
+    "build_year": -1264,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Abu_Simbel",
+      "britannica": "https://www.britannica.com/place/Abu-Simbel",
+      "google_maps": "https://www.google.com/maps/place/Abu+Simbel+Temples/@22.3536434,31.4863861,11z/data=!4m15!1m8!3m7!1s0x143aaa0c0b2b0255:0xd72413107b5e4b58!2sAbu+Simbel,+Aswan+Governorate,+Egypt!3b1!8m2!3d22.11231!4d31.6739371!16s%2Fg%2F11h56n6dzn!3m5!1s0x143aa988b126055b:0xa7d3cc6618f898d2!8m2!3d22.3372319!4d31.625799!16zL20vMDF4am5r?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297540-d317826-Reviews-Abu_Simbel_Temple_Complex-Abu_Simbel_Aswan_Governorate_Nile_River_Valley.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/31/Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_153.jpg",
+        "https://cdn.britannica.com/27/178127-050-3C447D4F/statues-entrance-Ramses-II-Great-Temple-Aswan.jpg",
+        "https://cdn.britannica.com/82/182-050-CF0C8845/Entrance-Nubian-cliff-temple-Abu-Simbel-Ramses-c-1250-bce.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Maxime_Du_Camp_%28French_-_Westernmost_Colossus%2C_the_Great_Temple%2C_Abu_Simbel_-_Google_Art_Project.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/S10.08_Abu_Simbel%2C_image_9505.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Gate of All Nations",
+    "location": "Persepolis, Iran",
+    "build_year": -465,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Gate_of_All_Nations",
+      "google_maps": "https://www.google.com/maps/place/Gate+of+All+Nations%E2%80%8C/@29.9361674,52.8864277,17z/data=!3m1!4b1!4m6!3m5!1s0x3fade35be0e25557:0x1b44204c7878d78a!8m2!3d29.9361628!4d52.889008!16s%2Fm%2F0jky4y_?entry=ttu",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/20101229_Gates_of_the_nations_Persepolis_Iran.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Persepolis_24.11.2009_11-06-03.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/Persepolis_24.11.2009_11-12-38.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ae/Persepolis_24.11.2009_13-10-19.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/Persepolis_24.11.2009_13-10-33.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Roman Forum",
+    "location": "Rome, Italy",
+    "build_year": -50,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Roman_Forum",
+      "britannica": "https://www.britannica.com/topic/Roman-Forum",
+      "google_maps": "https://www.google.com/maps/place/Roman+Forum/@41.8920946,12.4838575,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b383a9cdef:0xfa914007c0ec7de6!8m2!3d41.8920906!4d12.4864378!16zL20vMG4xNnQ?entry=ttu",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/2012-02-17_Foro_Romano_da_Palazzo_Senatorio_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a6/Arch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/28/Rome-_Ruins_of_the_Forum%2C_Looking_towards_the_Capitol.jpg",
+        "https://cdn.britannica.com/41/179041-050-E6FBB5E1/Temple-of-Vesta-Roman-Forum-Rome.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Pont du Gard",
+    "location": "Vers-Pont-du-Gard, France",
+    "build_year": 60,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Pont_du_Gard",
+      "britannica": "https://www.britannica.com/topic/Pont-du-Gard",
+      "google_maps": "https://www.google.com/maps/place/Pont+du+Gard/@43.9475698,4.5323797,17z/data=!3m1!4b1!4m6!3m5!1s0x12b5c8c248e704d5:0x26b17319f386eae2!8m2!3d43.947566!4d4.53496!16zL20vMDFjNDJf?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g651718-d197785-Reviews-Pont_du_Gard-Vers_Pont_du_Gard_Gard_Occitanie.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/Pont_du_Gard_BLS.jpg",
+        "https://cdn.britannica.com/56/112156-050-E0CDD0A3/aqueduct-Pont-du-Gard-Roman-France-Nimes.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pont_du_Gard_pont_moderne.jpg",
+        "https://cdn.britannica.com/09/5809-050-E2807D28/Pont-du-Gard-aqueduct-Roman-France-Nimes.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Pont-de-gard-clerisseau-1804.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Pantheon",
+    "location": "Rome, Italy",
+    "build_year": 125,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+      "britannica": "https://www.britannica.com/topic/Pantheon-building-Rome-Italy",
+      "google_maps": "https://www.google.com/maps/place/Pantheon/@41.8986147,12.4719966,17z/data=!3m1!4b1!4m6!3m5!1s0x132f604f678640a9:0xcad165fa2036ce2c!8m2!3d41.8986108!4d12.4768729!16zL20vMDF4emR6?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187791-d197714-Reviews-Pantheon-Rome_Lazio.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/20190406-DSC5193_Panteon.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Einblick_Panorama_Pantheon_Rom.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/df/Rome-Pantheon.jpg",
+        "https://cdn.britannica.com/97/95797-050-023E5852/Interior-canvas-oil-Pantheon-Rome-Giovanni-Paolo-1732.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Diocletian's Palace",
+    "location": "Split, Croatia",
+    "build_year": 300,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Diocletian's_Palace",
+      "britannica": "https://www.britannica.com/topic/Palace-of-Diocletian",
+      "google_maps": "https://www.google.com/maps/place/Diocletian's+Palace/@43.5077883,16.438568,17.33z/data=!4m6!3m5!1s0x13355dfe535cfc4f:0x921ac62569576f32!8m2!3d43.5082646!4d16.4401754!16zL20vMDV5dmxk?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g295370-d23736149-Reviews-Diocletian_Palace_Substructures-Split_Split_Dalmatia_County_Dalmatia.html",
+      "images": [
+        "https://cdn.britannica.com/68/95568-050-A0955C0F/Palace-of-Diocletian-Split-Croatia.jpg",
+        "https://cdn.britannica.com/92/153492-050-013C7E16/Palace-of-Diocletian-Split-Croatia.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Sv._Duje_cathedral%2C_Split%2C_Croatia.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Diocletian%27s_Palace%2C_Split_%2811908066464%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1b/Diocletian%27s_Palace_substructure_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/Peristyle_of_Diocletian%27s_Palace_in_Split%2C_Robert_Adam%2C_1764_%28cropped%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Diocletian%27s_Palace_%28original_appearance%29.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Palenque",
+    "location": "Palenque, Mexico",
+    "build_year": 700,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Palenque",
+      "britannica": "https://www.britannica.com/place/Palenque-ancient-city-Mexico#ref55024",
+      "google_maps": "https://www.google.com/maps/place/Zona+Arqueol%C3%B3gica+Palenque/@17.4847748,-92.0484752,17z/data=!3m1!4b1!4m6!3m5!1s0x85f244c777bddbdd:0x6ebbea71995ddcf1!8m2!3d17.4847697!4d-92.0458949!16zL20vMGsxZDA?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g249851-d4074608-Reviews-Zona_Arqueologica_de_Palenque-Palenque_Southern_Mexico.html",
+      "images": [
+        "https://cdn.britannica.com/66/75966-050-BEAF3FFE/watchtower-palace-Palenque-Mexico.jpg",
+        "https://cdn.britannica.com/86/189886-050-01925076/Temple-of-the-Sun-Palenque-XIV-Inscriptions.jpg",
+        "https://cdn.britannica.com/39/178939-050-7E061C14/Temple-of-the-Inscriptions-Palenque-XIII-Mexico.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tumba_de_pakal%2C_Chiapas.JPG",
+        "https://cdn.britannica.com/24/94524-050-14847C61/Mayan-Temple-of-the-Inscriptions-Palenque-Mex.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/UpperMiddleTempleInscriptions.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Temple of Heaven",
+    "location": "Beijing, China",
+    "build_year": 1420,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Temple_of_Heaven",
+      "britannica": "https://www.britannica.com/topic/Temple-of-Heaven",
+      "google_maps": "https://www.google.com/maps/place/Temple+of+Heaven/@39.8820432,116.4027162,16.33z/data=!4m6!3m5!1s0x35f04d6019ff91eb:0x372c15453b110e6a!8m2!3d39.8821803!4d116.4066056!16zL20vMGo2Mzg?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294212-d311534-Reviews-Temple_of_Heaven-Beijing.html",
+      "images": [
+        "https://cdn.britannica.com/41/178641-050-0FCF7D98/Hall-of-Prayer-for-Good-Harvests-complex.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Temple_of_Heaven%2C_Beijing%2C_China_-_006.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Temple_of_Heaven%2C_Beijing%2C_China_-_012.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hall_of_Prayer_for_Good_Harvests_interior_2014.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c8/Peking_%28Beijing%29_Nebeski_hram_~_1898..jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Pura Ulun Danu Bratan",
+    "location": "Bali, Indonesia",
+    "build_year": 1600,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Pura_Ulun_Danu_Bratan",
+      "google_maps": "https://www.google.com/maps/place/Ulun+Danu+Beratan+Temple/@-8.2751754,115.1642431,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd1896c9fac0857:0x18246568e4db1b53!8m2!3d-8.2751807!4d115.1668234!16s%2Fm%2F05zyg1h?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g608496-d447061-Reviews-Ulun_Danu_Bratan_Temple-Tabanan_Bali.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Brantan_Bali_Pura-Ulun-Danu-Bratan-01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Brantan_Bali_Pura-Ulun-Danu-Bratan-02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bali%2C_Indonesia_%2850368691146%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/COLLECTIE_TROPENMUSEUM_Balinees_tempelcomplex._TMnr_60004821.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Umayyad Mosque",
+    "location": "Damascus, Syria",
+    "build_year": 715,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Umayyad_Mosque",
+      "britannica": "https://www.britannica.com/topic/Great-Mosque-of-Damascus",
+      "google_maps": "https://www.google.com/maps/place/Umayyad+Mosque/@33.511332,36.3068932,17z/data=!3m1!4b1!4m6!3m5!1s0x1518e6d61fc6c047:0x460d2bef9641dbeb!8m2!3d33.511332!4d36.3068932!16zL20vMDdkbXYw?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294011-d561047-Reviews-Damascus_Umayyad_Mosque-Damascus.html",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/eb/32/93/an-amazing-place-to-visit.jpg?w=1000&h=-1&s=1",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/Umayyad_Mosque%2C_Damascus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Umayyad_Mosque-Dome_of_the_Treasury211099.jpg",
+        "https://cdn.britannica.com/31/91331-050-AB1EB07B/entrance-Great-Mosque-Damascus-Umayyads.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/Umayyad_Mosquee_panoramic.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/Damas_de_la_terrasse_Baudin.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Mosque–Cathedral of Córdoba",
+    "location": "Córdoba, Spain",
+    "build_year": 786,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
+      "britannica": "https://www.britannica.com/topic/Mosque-Cathedral-of-Cordoba",
+      "google_maps": "https://www.google.com/maps/place/Mosque-Cathedral+of+C%C3%B3rdoba/@37.8789098,-4.7819672,17z/data=!3m1!4b1!4m6!3m5!1s0xd6d2082ce1a16cf:0xefebc353f81bf636!8m2!3d37.8789056!4d-4.7793869!16zL20vMDNjYmtf?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187430-d27152546-Reviews-Mosque_Cathedral_of_Cordoba-Cordoba_Province_of_Cordoba_Andalucia.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Cordoba_Cathedral_2024_-_Tower_from_the_Patio.jpg",
+        "https://cdn.britannica.com/44/181044-050-95D17A9C/Mosque-Cathedral-of-Cordoba-Spain.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Cordoba_8390_%2818679387532%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/59/Colonnes_de_la_Mezquita_%288281472877%29.jpg",
+        "https://cdn.britannica.com/92/121392-050-BC985DE0/Dome-mihrab-Mosque-Cathedral-of-Cordoba-Spain.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "St. Peter's Basilica",
+    "location": "Vatican City",
+    "build_year": 1615,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
+      "britannica": "https://www.britannica.com/topic/Saint-Peters-Basilica",
+      "google_maps": "https://www.google.com/maps/place/St.+Peter's+Basilica/@41.9021667,12.4539367,17z/data=!3m1!4b1!4m6!3m5!1s0x132f6061b7149b59:0x724bf077cd875283!8m2!3d41.9021667!4d12.4539367!16zL20vMGpueW0?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187793-d631111-Reviews-St_Peter_s_Basilica-Vatican_City_Lazio.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8b/PonteSantAngeloRom.jpg",
+        "https://cdn.britannica.com/96/175196-050-EA0EF9D1/St-Peters-Basilica-Vatican-City.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Chair_of_Saint_Peter_adjusted.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Citt%C3%A0_del_vaticano.Basilica_di_San_Pietro._Interno_della_cupola._Maggio_2010_-_panoramio.jpg",
+        "https://cdn.britannica.com/82/138682-050-B653AE04/Pieta-Michelangelo-St-Peters-Basilica-Rome.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Registan",
+    "location": "Samarkand, Uzbekistan",
+    "build_year": 1660,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Registan",
+      "google_maps": "https://www.google.com/maps/place/Registan+Square/@39.6548711,66.9730359,17z/data=!3m1!4b1!4m6!3m5!1s0x3f4d18b7c2e59337:0x532c8e039ecc92af!8m2!3d39.654867!4d66.9756162!16zL20vMDNxeTZi?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298068-d317897-Reviews-Registan-Samarkand_Samarqand_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Registan_square_Samarkand.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/45/Rajasthan3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/38/Sher-Dor_Madrasa_02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Tilya-Kori_Madrasa_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/Registan_02.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Sigiriya",
+    "location": "Sigiriya, Sri Lanka",
+    "build_year": 475,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Sigiriya#/media/File:Frescoes_at_Sigiriya-at_cobra_cave,_Sri_lanka.jpg",
+      "britannica": "https://www.britannica.com/place/Sigiriya",
+      "google_maps": "https://www.google.com/maps/place/Sigiriya,+Sri+Lanka/@7.9546993,80.7339142,15z/data=!3m1!4b1!4m6!3m5!1s0x3afca0dfa73179d1:0x1e04c1150cff0edf!8m2!3d7.9541085!4d80.754698!16s%2Fm%2F0b6jy8p?entry=ttu",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g304141-d4782530-Reviews-Sigiriya_The_Ancient_Rock_Fortress-Sigiriya_Central_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Beauty_of_Sigiriya_by_Binuka.jpg",
+        "https://cdn.britannica.com/34/153534-050-4F11E9C6/rock-pillar-ruins-stronghold-Sri-Lanka-Sigiriya.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sigiriya_Luftbild_%2829781064900%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sigiriya_lion_gate_04.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b7/Frescoes_at_Sigiriya-at_cobra_cave%2C_Sri_lanka.jpg"
+      ]
+    },
+    "categories": []
   }
 ]
