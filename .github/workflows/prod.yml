@@ -60,7 +60,7 @@ jobs:
               run: sudo apt-get install sshpass
 
             - name: Copy docker-compose.yml
-              run: sshpass -v -p ${{ secrets.SERVER_PASSWORD }} scp -o StrictHostKeyChecking=no docker-compose.yml root@${{ secrets.SERVER_IP }}:/docker
+              run: sshpass -v -p ${{ secrets.SERVER_PASSWORD }} scp -o StrictHostKeyChecking=no docker-compose.yml root@${{ secrets.SERVER_IP }}:/docker/world-wonders-api
 
             - name: Deploy
               uses: appleboy/ssh-action@v1.0.3
@@ -69,7 +69,7 @@ jobs:
                   username: root
                   password: ${{ secrets.SERVER_PASSWORD }}
                   script: |
-                      cd /docker
+                      cd /docker/world-wonders-api
                       docker-compose down
                       docker-compose pull
                       docker-compose up -d
