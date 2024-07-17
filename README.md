@@ -26,18 +26,9 @@ docker run -d -p 8138:8138 \
   --name world-wonders-api rolvapneseth/world-wonders-api
 ```
 
-If you prefer using `docker compose`, save this as your `docker-compose.yml` file and run `docker compose up`:
+If you prefer using `docker compose`, copy the [docker-compose.yml](./docker-compose.yml) file and run `docker compose up`.
 
-```yaml
-version: "3"
-services:
-  api:
-    image: rolvapneseth/world-wonders-api
-    ports:
-      - "8138:8138"
-```
-
-Then access the documentation on your local machine at [http://0.0.0.0:8138/v0/docs](http://0.0.0.0:8138/v0/docs).
+Then, access the documentation on your local machine at [http://0.0.0.0:8138/v0/docs](http://0.0.0.0:8138/v0/docs).
 
 ## Responses
 
