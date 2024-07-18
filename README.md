@@ -69,6 +69,10 @@ The response contain a non `200` HTTP status code, such as `400`, with a body li
 }
 ```
 
+## Metrics
+
+Some very basic [Prometheus](https://prometheus.io/) metrics are exported at the `/metrics` endpoint.
+
 ## Thanks
 
 This API was originally inspired by and contains some data gathered from [this dataset on kaggle](https://www.kaggle.com/datasets/karnikakapoor/wonders-of-world).

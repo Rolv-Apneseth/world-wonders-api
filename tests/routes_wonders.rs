@@ -10,7 +10,7 @@ mod common;
 use common::get_server;
 
 #[tokio::test]
-async fn test_wonders() {
+async fn test_routes_wonders() {
     let server = get_server();
 
     // All wonders

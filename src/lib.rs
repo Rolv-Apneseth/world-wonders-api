@@ -1,10 +1,15 @@
 use std::{sync::Arc, time::Duration};
 
-use aide::{axum::ApiRouter, openapi::OpenApi, transform::TransformOpenApi};
+use aide::{
+    axum::{routing::get, ApiRouter},
+    openapi::OpenApi,
+    transform::TransformOpenApi,
+};
 use axum::{
     extract::{MatchedPath, Request},
     Extension, Router,
 };
+use axum_prometheus::PrometheusMetricLayer;
 use routes::{docs, handler_404, wonders};
 use tokio::signal;
 use tower_governor::{
@@ -21,6 +26,7 @@ pub mod routes;
 pub const PORT: u16 = 8138;
 pub const DOCS_ROUTE: &str = "/v0/docs";
 pub const WONDERS_ROUTE: &str = "/v0/wonders";
+pub const METRICS_ROUTE: &str = "/metrics";
 
 pub fn get_app() -> Router {
     // API docs generation
@@ -40,9 +46,13 @@ pub fn get_app() -> Router {
             .expect("Failed setting up `tower_governor` configuration"),
     );
 
+    // Metrics
+    let (prometheus_layer, metric_handle) = PrometheusMetricLayer::pair();
+
     ApiRouter::new()
         .nest_api_service(WONDERS_ROUTE, wonders::routes())
         .nest_api_service(DOCS_ROUTE, docs::routes())
+        .api_route(METRICS_ROUTE, get(|| async move { metric_handle.render() }))
         .fallback(handler_404)
         .finish_api_with(&mut api, api_docs)
         // Docs generation
@@ -51,6 +61,8 @@ pub fn get_app() -> Router {
         .layer(GovernorLayer {
             config: governor_conf,
         })
+        // Metrics
+        .layer(prometheus_layer)
         // Logging
         .layer(
             TraceLayer::new_for_http()
