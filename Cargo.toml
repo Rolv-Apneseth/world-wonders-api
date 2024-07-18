@@ -35,8 +35,10 @@ axum-valid = { version = "0.18.0", features = [
   "garde",
 ], default-features = false }
 garde = { version = "0.18.0", features = ["derive", "url"] }
+axum-prometheus = "0.6.1"
 
 [dev-dependencies]
+axum-test = "15.3.0"
 chrono = { version = "0.4.38" }
 httpc-test = "0.1.9"
 pretty_assertions = "1.4.0"
