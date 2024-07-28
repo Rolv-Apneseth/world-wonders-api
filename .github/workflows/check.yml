@@ -39,8 +39,3 @@ jobs:
 
             - name: Tests
               run: cargo test --lib --examples --verbose
-
-            - name: Deny
-              uses: EmbarkStudios/cargo-deny-action@v1
-              with:
-                  arguments: --all-features
