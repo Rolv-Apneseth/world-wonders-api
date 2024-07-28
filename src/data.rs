@@ -19,12 +19,12 @@ pub enum TimePeriod {
 impl From<i16> for TimePeriod {
     fn from(value: i16) -> Self {
         match value {
-            i16::MIN..=-3000 => TimePeriod::Prehistoric,
+            ..=-3000 => TimePeriod::Prehistoric,
             -2999..=-800 => TimePeriod::Ancient,
             -799..=500 => TimePeriod::Classical,
             501..=1500 => TimePeriod::PostClassical,
             1501..=1800 => TimePeriod::EarlyModern,
-            1801..=i16::MAX => TimePeriod::Modern,
+            1801.. => TimePeriod::Modern,
         }
     }
 }
