@@ -17,9 +17,9 @@ jobs:
         steps:
             - uses: actions/checkout@v4
 
-            - name: Install stable Rust toolchain
+            - name: Install nightly Rust toolchain
               run: |
-                rustup toolchain install stable --profile minimal
+                rustup toolchain install nightly --profile minimal
                 rustup component add clippy
 
             - name: Cache dependencies
