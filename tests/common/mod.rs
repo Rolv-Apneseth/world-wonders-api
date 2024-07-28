@@ -1,6 +1,6 @@
-use axum_test::TestServer;
 use std::net::SocketAddr;
 
+use axum_test::TestServer;
 use world_wonders_api::get_app;
 
 /// Get a test server using the router that will be used for the actual server

@@ -1,6 +1,5 @@
 use pretty_assertions::assert_eq;
 use strum::IntoEnumIterator;
-
 use world_wonders_api::{
     data::{Category, Wonder, WONDERS},
     WONDERS_ROUTE,

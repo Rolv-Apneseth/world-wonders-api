@@ -1,6 +1,6 @@
 use std::net::SocketAddr;
-use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 
+use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 use world_wonders_api::{get_app, shutdown_signal, DOCS_ROUTE, PORT};
 
 #[tokio::main]

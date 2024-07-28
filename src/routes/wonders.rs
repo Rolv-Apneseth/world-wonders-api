@@ -1,8 +1,3 @@
-use crate::{
-    data::{Category, TimePeriod, Wonder, WONDERS},
-    error::{Error, ErrorResponse, Result},
-    extractors::{Json, Query},
-};
 use aide::{
     axum::{routing::get_with, ApiRouter, IntoApiResponse},
     transform::TransformOperation,
@@ -14,6 +9,12 @@ use rand::prelude::*;
 use schemars::JsonSchema;
 use serde::Deserialize;
 use strum::IntoEnumIterator;
+
+use crate::{
+    data::{Category, TimePeriod, Wonder, WONDERS},
+    error::{Error, ErrorResponse, Result},
+    extractors::{Json, Query},
+};
 
 #[derive(Debug, Deserialize, JsonSchema, Default, Validate)]
 #[garde(allow_unvalidated)]
@@ -336,9 +337,8 @@ mod tests {
     use axum_test::TestServer;
     use pretty_assertions::assert_eq;
 
-    use crate::{extract_response, get_route_server};
-
     use super::*;
+    use crate::{extract_response, get_route_server};
 
     // UNIT TESTS - HELPERS
     #[test]
