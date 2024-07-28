@@ -1,5 +1,4 @@
 use pretty_assertions::assert_eq;
-
 use world_wonders_api::METRICS_ROUTE;
 
 mod common;

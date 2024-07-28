@@ -82,8 +82,9 @@ pub static WONDERS: Lazy<Vec<Wonder>> = Lazy::new(|| {
 
 #[cfg(test)]
 mod tests {
-    use chrono::prelude::*;
     use std::collections::HashSet;
+
+    use chrono::prelude::*;
 
     use super::*;
 
