@@ -3,6 +3,7 @@ services:
   api:
     image: rolvapneseth/world-wonders-api
     privileged: true
+    restart: unless-stopped
     build:
       context: .
       dockerfile: Dockerfile
