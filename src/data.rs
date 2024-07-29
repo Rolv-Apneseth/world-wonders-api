@@ -141,12 +141,14 @@ mod tests {
 
                 // LINKS
                 // Wiki link
+                assert!(!wiki.contains('#'), "Selecting specific element in wiki page: {wiki}");
                 assert!(!seen_links.contains(wiki), "Duplicate link: {wiki}");
                 seen_links.insert(wiki);
 
                 // Other links (`Option` values)
                 [britannica, google_maps, trip_advisor].into_iter().for_each(|l| {
                     if let Some(l) = l {
+                        assert!(!l.contains('#'), "Selecting specific element in link: {l}");
                         assert!(!seen_links.contains(l), "Duplicate link: {l}");
                         seen_links.insert(l);
                     };
