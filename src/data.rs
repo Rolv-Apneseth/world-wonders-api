@@ -60,6 +60,9 @@ pub enum Category {
 pub struct Wonder {
     #[garde(length(min = 3, max = 150))]
     pub name: String,
+    /// Short summary of a world wonder and what it is/was.
+    #[garde(length(min = 0, max = 400))]
+    pub summary: String,
     /// Location / suspected location of a world wonder or its remains.
     #[garde(length(min = 3, max = 150))]
     pub location: String,

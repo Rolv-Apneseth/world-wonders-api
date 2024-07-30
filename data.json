@@ -1,7 +1,8 @@
 [
   {
     "name": "Great Pyramid of Giza",
-    "location": "Giza, Egypt",
+    "location": "Giza, Egypt, Africa",
+    "summary": "The largest Egyptian pyramid, it served as the tomb of pharaoh Khufu, who ruled during the Fourth Dynasty of the Old Kingdom. The pyramid is the oldest of the Seven Wonders of the Ancient World, and the only wonder that has remained largely intact.",
     "build_year": -2560,
     "time_period": "Ancient",
     "links": {
@@ -24,7 +25,8 @@
   },
   {
     "name": "Stonehenge",
-    "location": "Salisbury, England",
+    "location": "Salisbury, England, Europe",
+    "summary": "A prehistoric megalithic structure, consisting of an outer ring of vertical sarsen standing stones, each around 4m high and 2.1m wide, topped by connecting horizontal lintel stones. It is one of the most famous landmarks in the United Kingdom, and is regarded as a British cultural icon.",
     "build_year": -2400,
     "time_period": "Ancient",
     "links": {
@@ -46,7 +48,8 @@
   },
   {
     "name": "Newgrange",
-    "location": "Drogheda, Ireland",
+    "location": "Drogheda, Ireland, Europe",
+    "summary": "An exceptionally grand passage tomb built during the Neolithic Period, making it older than Stonehenge and the Egyptian pyramids. Perhaps it's most famous feature is its alignment so that the rising sun on the winter solstice shines through a roofbox above the entrance and floods the inner chamber with light.",
     "build_year": -3200,
     "time_period": "Prehistoric",
     "links": {
@@ -65,7 +68,8 @@
   },
   {
     "name": "Lighthouse of Alexandria",
-    "location": "Alexandria, Egypt",
+    "location": "Alexandria, Egypt, Africa",
+    "summary": "One of the Seven Wonders of the Ancient World, for many centuries it was one of the tallest man-made structures in the world. It was the third-longest surviving ancient wonder, after the Mausoleum at Halicarnassus and the extant Great Pyramid of Giza, surviving in part until 1480.",
     "build_year": -280,
     "time_period": "Classical",
     "links": {
@@ -87,9 +91,10 @@
   },
   {
     "name": "Hanging Gardens of Babylon",
-    "location": "Mahawii, Iraq",
-    "build_year": 600,
-    "time_period": "PostClassical",
+    "location": "Mahawii, Iraq, Asia",
+    "summary": "The only of the Seven Wonders of the Ancient World for which the location has not been definitively established. They were described as a remarkable feat of engineering with an ascending series of tiered gardens containing a wide variety of trees, shrubs, and vines, resembling a large green mountain constructed of mud bricks.",
+    "build_year": -600,
+    "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon",
       "britannica": "https://www.britannica.com/place/Remains+of+the+Hanging+Gardens+of+Babylon/@32.5440146,44.4178854,17z/data=!3m1!4b1!4m6!3m5!1s0x1558fdd71dd08931:0x6fe5866e28155e9a!8m2!3d32.5440101!4d44.4204657!16zL20vMGhtOGc?entry=ttu",
@@ -109,7 +114,8 @@
   },
   {
     "name": "Hagia Sophia",
-    "location": "Istanbul, Turkey",
+    "location": "Istanbul, Turkey, Asia",
+    "summary": "A mosque and former church serving as a major cultural and historical site in Istanbul, Turkey. It is the last of three church buildings to be successively erected on the site by the Eastern Roman Empire. After the fall of Constantinople in 1453, it served as a mosque until 1935, when it became a museum.",
     "build_year": 537,
     "time_period": "PostClassical",
     "links": {
@@ -131,7 +137,8 @@
   },
   {
     "name": "Colossus of Rhodes",
-    "location": "Rhodes, Greece",
+    "location": "Rhodes, Greece, Europe",
+    "summary": "A statue of the Greek sun god Helios, erected to celebrate the successful defence against an attack by Demetrius I of Macedon. It is one of the Seven Wonders of the Ancient World, and is estimated to have been 33m tall, making it the tallest statue in the ancient world. It collapsed during the earthquake of 226 BC, and in accordance with the Oracle of Delphi, the Rhodians did not rebuild it.",
     "build_year": -353,
     "time_period": "Classical",
     "links": {
@@ -153,7 +160,8 @@
   },
   {
     "name": "Statue of Zeus at Olympia",
-    "location": "Olympia, Greece",
+    "location": "Olympia, Greece, Europe",
+    "summary": "One of the Seven Wonders of the Ancient World, it depicted a seated Zeus, and stood 12.4m tall. The statue was lost and destroyed before the end of the 6th century AD, with conflicting accounts of the date and circumstances. Details of its form are known only from ancient Greek descriptions and representations on coins and art.",
     "build_year": -466,
     "time_period": "Classical",
     "links": {
@@ -175,7 +183,8 @@
   },
   {
     "name": "Temple of Artemis at Ephesus",
-    "location": "Selƈuk, Turkey",
+    "location": "Selƈuk, Turkey, Asia",
+    "summary": "One of the Seven Wonders of the Ancient World, this was a Greek temple dedicated to an ancient, localised form of the goddess Artemis. It was located in the ancient Greek city of Ephesus, and by AD 401 it had been ruined or destroyed, with only foundations and fragments of the last temple remaining at the site.",
     "build_year": -550,
     "time_period": "Classical",
     "links": {
@@ -197,7 +206,8 @@
   },
   {
     "name": "Golden Gate Bridge",
-    "location": "San Francisco, USA",
+    "location": "San Francisco, USA, North America",
+    "summary": "A suspension bridge spanning the Golden Gate, the strait connecting San Francisco Bay and the Pacific Ocean. It has a total length of 2.74km with a longest span of 1.27km. Recognized by the American Society of Civil Engineers as one of the Seven Wonders of the Modern World, the bridge is one of the most internationally recognized symbols of San Francisco and California.",
     "build_year": 1933,
     "time_period": "Modern",
     "links": {
@@ -218,7 +228,8 @@
   },
   {
     "name": "CN Tower",
-    "location": "Toronto, Canada.",
+    "location": "Toronto, Canada, North America",
+    "summary": "A 553.3m tall concrete communications and observation tower in Toronto, Ontario, Canada. It held the record for the world's tallest free-standing structure for 32 years, from 1975 until 2007, when it was surpassed by the Burj Khalifa, and was the world's tallest tower until 2009 when it was surpassed by the Canton Tower.",
     "build_year": 1973,
     "time_period": "Modern",
     "links": {
@@ -239,7 +250,8 @@
   },
   {
     "name": "Channel Tunnel",
-    "location": "English Channel",
+    "location": "English Channel, Europe",
+    "summary": "A 50.46km undersea railway tunnel, opened in 1994, that connects England with France beneath the English Channel at the Strait of Dover. It is the only fixed link between the island of Great Britain and the European mainland. In 1994, the American Society of Civil Engineers elected the tunnel as one of the Seven Wonders of the Modern World.",
     "build_year": 1991,
     "time_period": "Modern",
     "links": {
@@ -254,11 +266,13 @@
         "https://upload.wikimedia.org/wikipedia/commons/5/59/Channel_Tunnel_geological_profile_1.svg"
       ]
     },
-    "categories": []
+    "categories": [
+    ]
   },
   {
     "name": "Delta Works",
     "location": "The Netherlands",
+    "summary": "A series of construction projects in the southwest of the Netherlands to protect a large area of land around the Rhine–Meuse–Scheldt delta from the sea. The works consist of dams, sluices, locks, dykes, levees, and storm surge barriers. Along with the Zuiderzee Works, the Delta Works have been declared one of the Seven Wonders of the Modern World by the American Society of Civil Engineers.",
     "build_year": 1986,
     "time_period": "Modern",
     "links": {
@@ -276,7 +290,8 @@
   },
   {
     "name": "Panama Canal",
-    "location": "Panama",
+    "location": "Panama, North America",
+    "summary": "An artificial 82km waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean, greatly reducing the time for ships to travel between them. It is one of the largest and most difficult engineering projects ever undertaken, and was recognized as one of the Seven Wonders of the Modern World by the American Society of Civil Engineers in 1974.",
     "build_year": 1914,
     "time_period": "Modern",
     "links": {
@@ -299,7 +314,8 @@
   },
   {
     "name": "Empire State Building",
-    "location": "New York, USA",
+    "location": "New York, USA, North America",
+    "summary": "A 102-story Art Deco skyscraper in Manhattan, New York City, with a roof height of 380m, and total height of 443m. It was the world's tallest building until the first tower of the World Trade Center was completed in 1970. The American Society of Civil Engineers recognized it as one of the Seven Wonders of the Modern World in 1974.",
     "build_year": 1930,
     "time_period": "Modern",
     "links": {
@@ -319,7 +335,8 @@
   },
   {
     "name": "Itaipu Dam",
-    "location": "Ciudad del Este, Paraguay",
+    "location": "Ciudad del Este, Paraguay, South America",
+    "summary": "A hydroelectric dam on the Paraná River located on the border between Brazil and Paraguay. As of 2020, it is the third largest hydroelectric dam in the world, and produced the second-most electricity of any in the world, only surpassed by the Three Gorges Dam plant in China. The American Society of Civil Engineers recognized it as one of the Seven Wonders of the Modern World in 1974.",
     "build_year": 1982,
     "time_period": "Modern",
     "links": {
@@ -338,7 +355,8 @@
   },
   {
     "name": "Mausoleum at Halicarnassus",
-    "location": "Bodrum, Turkey",
+    "location": "Bodrum, Turkey, Asia",
+    "summary": "A tomb built in Halicarnassus (present Bodrum, Turkey) for a ruler of Caria and a satrap of the Achaemenid Empire, Mausolus, and his wife. It was approximately 45m tall, and the four sides were adorned with sculptural reliefs, and was the last of the Seven Wonders of the Ancient World to be destroyed. This wonder is the source of the word mausoleum.",
     "build_year": -351,
     "time_period": "Classical",
     "links": {
@@ -361,7 +379,8 @@
   },
   {
     "name": "Great Library of Alexandria",
-    "location": "Alexandria, Egypt",
+    "location": "Alexandria, Egypt, Africa",
+    "summary": "One of the largest and most significant libraries of the ancient world. The library was part of a larger research institution called the Mouseion, which was dedicated to the Muses, the nine goddesses of the arts. It is unknown precisely how many scrolls were housed at any given time, but estimates range from 40,000 to 400,000 at its height.",
     "build_year": -246,
     "time_period": "Classical",
     "links": {
@@ -383,7 +402,8 @@
   },
   {
     "name": "Great Wall of China",
-    "location": "China",
+    "location": "China, Asia",
+    "summary": "A series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC, with selective stretches later joined by Qin Shi Huang (220–206 BC), the first emperor of China.",
     "build_year": -700,
     "time_period": "Classical",
     "links": {
@@ -405,7 +425,8 @@
   },
   {
     "name": "Colosseum",
-    "location": "Rome, Italy",
+    "location": "Rome, Italy, Europe",
+    "summary": "An elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world, despite its age. It was used for gladiatorial contests and public spectacles including animal hunts, executions, re-enactments of famous battles, and more.",
     "build_year": 80,
     "time_period": "Classical",
     "links": {
@@ -427,7 +448,8 @@
   },
   {
     "name": "Chichen Itza",
-    "location": "Yucatán, Mexico",
+    "location": "Yucatán, Mexico, North America",
+    "summary": "A large pre-Columbian city built by the Maya people of the Terminal Classic period. It was one of the largest Maya cities and it was likely to have been one of the mythical great cities, or Tollans, referred to in later Mesoamerican literature.",
     "build_year": 600,
     "time_period": "PostClassical",
     "links": {
@@ -449,7 +471,8 @@
   },
   {
     "name": "Leaning Tower of Pisa",
-    "location": "Pisa, Italy",
+    "location": "Pisa, Italy, Europe",
+    "summary": "The campanile, or freestanding bell tower, of Pisa Cathedral. It is 55.86m tall and is known for its nearly four-degree lean, the result of an unstable foundation. The tower is one of three structures in the Pisa's Cathedral Square, which includes the cathedral and Pisa Baptistry.",
     "build_year": 1173,
     "time_period": "PostClassical",
     "links": {
@@ -470,7 +493,8 @@
   },
   {
     "name": "Porcelain Tower of Nanjing",
-    "location": "Nanjing, China",
+    "location": "Nanjing, China, Asia",
+    "summary": "Originally called the Great Bao'en Temple, it was a pagoda constructed in the 15th century during the Ming dynasty, but was mostly destroyed in the 19th century during the course of the Taiping Rebellion. A modern, full-size replica of it now exists in Nanjing.",
     "build_year": 1412,
     "time_period": "PostClassical",
     "links": {
@@ -490,7 +514,8 @@
   },
   {
     "name": "Machu Picchu",
-    "location": "Cuzco Region, Peru",
+    "location": "Cuzco Region, Peru, South America",
+    "summary": "A 15th-century Inca citadel located in southern Peru on a 2,430m mountain ridge. It is the most familiar icon of the Inca Empire, and is often referred to as \"The Lost City of the Incas\". The Incas built the estate around 1450 but abandoned it a century later, at the time of the Spanish conquest.",
     "build_year": 1450,
     "time_period": "PostClassical",
     "links": {
@@ -512,7 +537,8 @@
   },
   {
     "name": "Christ the Redeemer",
-    "location": "Rio de Janeiro, Brazil",
+    "location": "Rio de Janeiro, Brazil, South America",
+    "summary": "An Art Deco statue of Jesus Christ, which stands 30m tall, excluding its 8m pedestal, with arms stretching 28m wide. It is located at the peak of the 700-m Corcovado mountain overlooking the city of Rio de Janeiro. This statue is the largest Art Deco–style sculpture in the world.",
     "build_year": 1931,
     "time_period": "Modern",
     "links": {
@@ -534,7 +560,8 @@
   },
   {
     "name": "Petra",
-    "location": "Wadi Musa, Jordan",
+    "location": "Wadi Musa, Jordan, Asia",
+    "summary": "A historic and archaeological city in southern Jordan, originally known to its inhabitatns as Raqmu. Famous for its rock-cut architecture and water conduit system, it is also called the \"Rose City\" because of the colour of the sandstone from which it is carved. UNESCO has described Petra as \"one of the most precious cultural properties of man's cultural heritage\".",
     "build_year": -312,
     "time_period": "Classical",
     "links": {
@@ -557,7 +584,8 @@
   },
   {
     "name": "Taj Mahal",
-    "location": "Agra, India",
+    "location": "Agra, India, Asia",
+    "summary": "An ivory-white marble mausoleum located in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan, to house the tomb of his beloved wife. The building complex incorporates the design traditions of Indo-Islamic and Mughal architecture. It is regarded as one of the best examples of Mughal architecture and a symbol of Indian history.",
     "build_year": 1643,
     "time_period": "EarlyModern",
     "links": {
@@ -579,7 +607,8 @@
   },
   {
     "name": "Hoover Dam",
-    "location": "Nevada, USA",
+    "location": "Nevada, USA, North America",
+    "summary": "A concrete arch-gravity dam in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona. Constructed between 1931 and 1936, during the Great Depression, its construction was the result of a massive effort involving thousands of workers, and cost over 100 lives.",
     "build_year": 1936,
     "time_period": "Modern",
     "links": {
@@ -599,7 +628,8 @@
   },
   {
     "name": "Potala Palace",
-    "location": "Lhasa, Tibet",
+    "location": "Lhasa, Tibet, Asia",
+    "summary": "A dzong fortress in Lhasa, it was the winter palace of the Dalai Lamas from 1649 to 1959, has been a museum since then. The palace is named after Mount Potalaka, the mythical abode of the bodhisattva Avalokiteśvara. Thirteen storeys of buildings, containing over 1,000 rooms, 10,000 shrines and about 200,000 statues, soar 117m on top of Marpo Ri, the \"Red Hill\".",
     "build_year": 1645,
     "time_period": "EarlyModern",
     "links": {
@@ -621,7 +651,8 @@
   },
   {
     "name": "Temple of Apollo at Delphi",
-    "location": "Delphi, Greece",
+    "location": "Delphi, Greece, Europe",
+    "summary": "A temple dedicated to the Greek god Apollo located in Central Greece at Delphi. During antiquity, the temple was home to the famous Greek prophetess the Pythia, or the Oracle of Delphi, making the Temple of Apollo and the sanctuary at Delphi a major Panhellenic religious site as early as the 8th century B.C.E., and a place of great importance at many different periods of ancient Greek history.",
     "build_year": -400,
     "time_period": "Classical",
     "links": {
@@ -645,7 +676,8 @@
   },
   {
     "name": "Parthenon",
-    "location": "Athens, Greece",
+    "location": "Athens, Greece, Europe",
+    "summary": "A former temple on the Athenian Acropolis that was dedicated to the goddess Athena. Its decorative sculptures are considered some of the high points of classical Greek art, and it is considered an enduring symbol of Ancient Greece, democracy, and Western civilization. Like most Greek temples, the Parthenon also served as the city treasury.",
     "build_year": -438,
     "time_period": "Classical",
     "links": {
@@ -667,7 +699,8 @@
   },
   {
     "name": "Terracotta Army",
-    "location": "Xi'an, China",
+    "location": "Xi'an, China, Asia",
+    "summary": "A collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first emperor of China. It is a form of funerary art buried with the emperor in 210–209 BCE with the purpose of protecting him in his afterlife. Estimates from 2007 were that the three pits containing the Terracotta Army hold more than 8,000 soldiers, 130 chariots with 520 horses, and 150 cavalry horses.",
     "build_year": -210,
     "time_period": "Classical",
     "links": {
@@ -690,7 +723,8 @@
   },
   {
     "name": "Alhambra",
-    "location": "Granada, Spain",
+    "location": "Granada, Spain, Europe",
+    "summary": "A palace and fortress complex located in Granada, Andalusia, Spain. It is one of the most famous monuments of Islamic architecture and one of the best-preserved palaces of the historic Islamic world, in addition to containing notable examples of Spanish Renaissance architecture.",
     "build_year": 1358,
     "time_period": "PostClassical",
     "links": {
@@ -713,7 +747,8 @@
   },
   {
     "name": "Angkor Wat",
-    "location": "Angkor, Cambodia",
+    "location": "Angkor, Cambodia, Asia",
+    "summary": "A Hindu-Buddhist temple complex in Cambodia within the ancient Khmer capital city of Angkor, it is considered the largest religious structure in the world by Guinness World Records. Originally constructed in 1150 CE as a Hindu temple dedicated to the deity Vishnu, it was gradually transformed into a Buddhist temple towards the end of the century.",
     "build_year": 1150,
     "time_period": "PostClassical",
     "links": {
@@ -736,7 +771,8 @@
   },
   {
     "name": "Borobudur",
-    "location": "Java, Indonesia",
+    "location": "Magelang, Indonesia, Asia",
+    "summary": "A 9th-century Mahayana Buddhist temple in Magelang Regency, Central Java, Indonesia. Constructed of gray andesite-like stone, the temple consists of nine stacked platforms, six square and three circular, topped by a central dome, and is decorated with 2,672 relief panels and originally 504 Buddha statues. It has one of the world's most extensive collections of Buddhist reliefs. ",
     "build_year": 850,
     "time_period": "PostClassical",
     "links": {
@@ -758,7 +794,8 @@
   },
   {
     "name": "Great Mosque of Djenné",
-    "location": "Djenné, Mali",
+    "location": "Djenné, Mali, Africa",
+    "summary": "A large brick or adobe building in the Sudano-Sahelian architectural style. The mosque is located in the city of Djenné, Mali. The first mosque on the site was built around the 13th century, but the current structure dates from 1907. As well as being the centre of the community of Djenné, it is one of the most famous landmarks in Africa.",
     "build_year": 1350,
     "time_period": "PostClassical",
     "links": {
@@ -781,7 +818,8 @@
   },
   {
     "name": "Notre-Dame de Paris",
-    "location": "Paris, France",
+    "location": "Paris, France, Europe",
+    "summary": "A medieval Catholic cathedral on the Île de la Cité (an island in the River Seine). It is considered one of the finest examples of French Gothic architecture. Several attributes set it apart from the earlier Romanesque style, particularly its pioneering use of the rib vault and flying buttress, its enormous and colourful rose windows, and the naturalism and abundance of its sculptural decoration",
     "build_year": 1350,
     "time_period": "PostClassical",
     "links": {
@@ -803,7 +841,8 @@
   },
   {
     "name": "Forbidden City",
-    "location": "Beijing, China",
+    "location": "Beijing, China, Asia",
+    "summary": "The imperial palace complex in the center of the Imperial City in Beijing, China. It was the residence of 24 Ming and Qing dynasty Emperors, and the center of political power in China for over 500 years from 1420 to 1924. It is one of the most popular tourist attractions in the world, and is the largest preserved royal palace complex still standing in the world.",
     "build_year": 1420,
     "time_period": "PostClassical",
     "links": {
@@ -826,7 +865,8 @@
   },
   {
     "name": "Globe Theatre",
-    "location": "London, England",
+    "location": "London, England, Europe",
+    "summary": "A theatre in London associated with William Shakespeare, it was built in 1599 at Southwark, close to the south bank of the Thames, by Shakespeare's playing company, the Lord Chamberlain's Men. It was destroyed by fire on 29 June 1613, and a modern reconstruction named \"Shakespeare's Globe\", opened in 1997, now exists 230m from the site of the original theatre.",
     "build_year": 1599,
     "time_period": "EarlyModern",
     "links": {
@@ -847,7 +887,8 @@
   },
   {
     "name": "Himeji Castle",
-    "location": "Himeji, Japan",
+    "location": "Himeji, Japan, Asia",
+    "summary": "A hilltop Japanese castle complex situated in Himeji, a city in the Hyōgo Prefecture of Japan. The castle is regarded as the finest surviving example of prototypical Japanese castle architecture. The castle is frequently known as \"White Heron Castle\" because of its brilliant white exterior and supposed resemblance to a bird taking flight.",
     "build_year": 1400,
     "time_period": "PostClassical",
     "links": {
@@ -869,7 +910,8 @@
   },
   {
     "name": "Red Fort",
-    "location": "Delhi, India",
+    "location": "Delhi, India, Asia",
+    "summary": "A fort that historically served as the main residence of the Mughal emperors. Emperor Shah Jahan commissioned its construction in 1639, when he decided to shift his capital from Agra to Delhi. Its design is credited to architect Ustad Ahmad Lahori, who also constructed the Taj Mahal. The fort combines Persian palace architecture with Indian traditions.",
     "build_year": 1648,
     "time_period": "EarlyModern",
     "links": {
@@ -891,7 +933,8 @@
   },
   {
     "name": "Sistine Chapel",
-    "location": "Vatican City",
+    "location": "Vatican City, Europe",
+    "summary": "A chapel in the Apostolic Palace, the pope's official residence in Vatican City. Originally known as the Cappella Magna ('Great Chapel'), it takes its name from Pope Sixtus IV, who had it built between 1473 and 1481. Today, it is the site of the papal conclave, the process by which a new pope is selected. The chapel's fame lies mainly in the frescoes that decorate its interior.",
     "build_year": 1481,
     "time_period": "PostClassical",
     "links": {
@@ -913,7 +956,8 @@
   },
   {
     "name": "Uffizi Gallery",
-    "location": "Florence, Italy",
+    "location": "Florence, Italy, Europe",
+    "summary": "A prominent art museum located adjacent to the Piazza della Signoria in the Historic Centre of Florence. One of the most important Italian museums and the most visited, it is also one of the largest and best-known in the world and holds a collection of priceless works, particularly from the period of the Italian Renaissance. It is one of the first modern museums.",
     "build_year": 1581,
     "time_period": "EarlyModern",
     "links": {
@@ -936,7 +980,8 @@
   },
   {
     "name": "Big Ben",
-    "location": "London, England",
+    "location": "London, England, Europe",
+    "summary": "The nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower itself, which stands at the north end of the Palace of Westminster in London. The clock is a striking clock with five bells, and is elaborately decorated with stone carvings and features symbols related to the four nations of the United Kingdom and the Anglo-Welsh Tudor dynasty.",
     "build_year": 1859,
     "time_period": "Modern",
     "links": {
@@ -958,7 +1003,8 @@
   },
   {
     "name": "Brandenburg Gate",
-    "location": "Berlin, Germany",
+    "location": "Berlin, Germany, Europe",
+    "summary": "An 18th-century neoclassical monument in Berlin. One of the best-known landmarks of Germany, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel. Since German reunification in 1990, it has been considered not only a symbol of the tumultuous histories of Germany and Europe, but also of European unity and peace.",
     "build_year": 1791,
     "time_period": "EarlyModern",
     "links": {
@@ -980,7 +1026,8 @@
   },
   {
     "name": "Louvre",
-    "location": "Paris, France",
+    "location": "Paris, France, Europe",
+    "summary": "A national art museum in Paris, France, and one of the most famous museums in the world. It exhibits sculptures, objets d'art, paintings, drawings, and archaeological finds. At any given point in time, approximately 38,000 objects from prehistory to the 21st century are being exhibited over an area of 72,735m2, making it the largest museum in the world.",
     "build_year": 1793,
     "time_period": "EarlyModern",
     "links": {
@@ -1003,7 +1050,8 @@
   },
   {
     "name": "Broadway Theatre",
-    "location": "New York, USA",
+    "location": "New York, USA, North America",
+    "summary": "A theatre genre that consists of the theatrical performances presented in 41 professional theaters, each with 500 or more seats, in the Theater District and Lincoln Center along Broadway, in Midtown Manhattan, New York City. Broadway and London's West End together represent the highest commercial level of live theater in the English-speaking world. ",
     "build_year": 1850,
     "time_period": "Modern",
     "links": {
@@ -1025,7 +1073,8 @@
   },
   {
     "name": "Eiffel Tower",
-    "location": "Paris, France",
+    "location": "Paris, France, Europe",
+    "summary": "A wrought-iron lattice tower that was initially criticised by some of France's leading artists for its design, it has since become a global cultural icon of France and one of the most recognisable structures in the world. The tower is 330m tall, surpassed the Washington Monument to become the tallest human-made structure in the world, a title it held for 41 years until 1930. ",
     "build_year": 1889,
     "time_period": "Modern",
     "links": {
@@ -1049,7 +1098,8 @@
   },
   {
     "name": "Kremlin",
-    "location": "Moscow, Russia",
+    "location": "Moscow, Russia, Europe",
+    "summary": "A fortified complex located in the centre of Moscow, it is the best known of the kremlins (Russian citadels) and includes five palaces, four cathedrals, and the enclosing Kremlin Wall along with the Kremlin towers. It is now the official residence of the President of the Russian Federation.",
     "build_year": 1495,
     "time_period": "PostClassical",
     "links": {
@@ -1073,7 +1123,8 @@
   },
   {
     "name": "Neuschwanstein Castle",
-    "location": "Füssen, Germany",
+    "location": "Füssen, Germany, Europe",
+    "summary": "A historic palace on a rugged hill of the foothills of the Alps. King Ludwig II of Bavaria commissioned it as a retreat but also in honour of composer Richard Wagner, whom he greatly admired. The castle was intended to serve as a private residence for the king but he died in 1886, and it was opened to the public shortly after his death without having been completed.",
     "build_year": 1886,
     "time_period": "Modern",
     "links": {
@@ -1095,7 +1146,8 @@
   },
   {
     "name": "Prora",
-    "location": "Binz, Germany",
+    "location": "Binz, Germany, Europe",
+    "summary": "A building complex in the municipality of Binz on the island of Rügen, Germany. It was built by Nazi Germany between 1936 and 1939 as part of the Strength Through Joy project. Although the buildings were planned as a holiday resort, construction was not completed, and they were not used for this purpose. Today, it houses a large youth hostel, a hotel, and holiday apartments.",
     "build_year": 1939,
     "time_period": "Modern",
     "links": {
@@ -1115,7 +1167,8 @@
   },
   {
     "name": "Statue of Liberty",
-    "location": "New York, USA",
+    "location": "New York, USA, North America",
+    "summary": "A colossal neoclassical sculpture on Liberty Island in New York Harbor. The copper-clad statue, a gift to the United States from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue is a figure of a classically draped woman, likely inspired by the Roman goddess of liberty Libertas.",
     "build_year": 1886,
     "time_period": "Modern",
     "links": {
@@ -1138,7 +1191,8 @@
   },
   {
     "name": "Petagon",
-    "location": "Washington DC, USA",
+    "location": "Washington DC, USA, North America",
+    "summary": "The headquarters building of the United States Department of Defense. The building was constructed on an accelerated schedule during World War II. It is the world's second-largest office building, with about 600,000m² of floor space, 340,000m2 of which are used as offices. It has five sides, five floors above ground, two basement levels, and five ring corridors per floor.",
     "build_year": 1943,
     "time_period": "Modern",
     "links": {
@@ -1160,7 +1214,8 @@
   },
   {
     "name": "Sydney Opera House",
-    "location": "Washington DC, USA",
+    "location": "Sydney, Australia, Oceania",
+    "summary": "A multi-venue performing arts centre located on the foreshore of Sydney Harbour. It is widely regarded as one of the world's most famous and distinctive buildings and a masterpiece of 20th-century architecture. The building comprises multiple performance venues, which together host well over 1,500 performances annually, attended by more than 1.2 million people.",
     "build_year": 1973,
     "time_period": "Modern",
     "links": {
@@ -1183,7 +1238,8 @@
   },
   {
     "name": "Apadana of Darius",
-    "location": "Persepolis, Iran",
+    "location": "Persepolis, Iran, Asia",
+    "summary": "A large hypostyle hall which belongs to the oldest building phase of the city of Persepolis, in the first half of the 6th century BC, as part of the original design by Darius the Great. Its construction was completed by Xerxes I. Modern scholarship \"demonstrates the metaphorical nature of the Apadana reliefs as idealised social orders\".",
     "build_year": -450,
     "time_period": "Classical",
     "links": {
@@ -1205,7 +1261,8 @@
   },
   {
     "name": "Bolshoi Theatre",
-    "location": "Moscow, Russia",
+    "location": "Moscow, Russia, Europe",
+    "summary": "A historic opera house in Moscow, Russia, originally designed by architect Joseph Bové. Before the October Revolution it was a part of the Imperial Theatres of the Russian Empire. The main building of the theatre, rebuilt and renovated several times during its history, is a landmark of Moscow and Russia (its iconic neoclassical façade is depicted on the Russian 100-ruble banknote).",
     "build_year": 1825,
     "time_period": "Modern",
     "links": {
@@ -1227,7 +1284,8 @@
   },
   {
     "name": "Maracanã Stadium",
-    "location": "Rio de Janeiro, Brazil",
+    "location": "Rio de Janeiro, Brazil, South America",
+    "summary": "An association football stadium, owned by the Rio de Janeiro state government, and now managed by the clubs Fluminense and Flamengo. The stadium was opened in 1950 to host the FIFA World Cup, in which Brazil was beaten 2–1 by Uruguay in the deciding game, in front of a still standing record attendance of 173,850 spectators, on 16 July 1950.",
     "build_year": 1950,
     "time_period": "Modern",
     "links": {
@@ -1248,7 +1306,8 @@
   },
   {
     "name": "Etemenanki",
-    "location": "Baghdad, Iraq",
+    "location": "Baghdad, Iraq, Asia",
+    "summary": "A ziggurat dedicated to the Mesopotamian god Marduk in the ancient city of Babylon. It now exists only in ruins, located about 90km south of Baghdad, Iraq. Many scholars have identified it as a likely inspiration for the biblical story of the Tower of Babel.",
     "build_year": -900,
     "time_period": "Ancient",
     "links": {
@@ -1267,7 +1326,8 @@
   },
   {
     "name": "Great Ziggurat of Ur",
-    "location": "Al-Nāṣiriyyah, Iraq",
+    "location": "Al-Nāṣiriyyah, Iraq, Asia",
+    "summary": "A Neo-Sumerian ziggurat in what was the city of Ur near Nasiriyah, in present-day Dhi Qar Province, Iraq. The structure was built during the Early Bronze Age (21st century BC) but had crumbled to ruins by the 6th century BC of the Neo-Babylonian period, when it was restored by King Nabonidus. It is the best-preserved of those known from Mesopotamia, besides the ziggurat of Dur Untash.",
     "build_year": -2100,
     "time_period": "Ancient",
     "links": {
@@ -1287,7 +1347,8 @@
   },
   {
     "name": "The Great Bath",
-    "location": "Mohenjo-daro, Pakistan",
+    "location": "Mohenjo-daro, Pakistan, Asia",
+    "summary": "One of the best-known structures among the ruins of the Harappan Civilization, excavated at Mohenjo-daro in present-day Sindh province of Pakistan. It is called the \"earliest public water tank of the ancient world\". It measures approximately 12m by 7m, with a maximum depth of 2.4m.",
     "build_year": -3000,
     "time_period": "Prehistoric",
     "links": {
@@ -1307,7 +1368,8 @@
   },
   {
     "name": "Great Zimbabwe",
-    "location": "Masvingo, Zimbabwe",
+    "location": "Masvingo, Zimbabwe, Africa",
+    "summary": "A medieval city in the south-eastern hills of Zimbabwe. It was the capital of the Kingdom of Zimbabwe from the 13th century, having been settled in the 4th century AD. Among the edifice's most prominent features were its walls, some of which are 11m high. They were constructed of \"dry stone\" (that is, without mortar). Eventually, the city was abandoned and fell into ruin.",
     "build_year": 1000,
     "time_period": "PostClassical",
     "links": {
@@ -1329,7 +1391,8 @@
   },
   {
     "name": "Hermitage Museum",
-    "location": "Saint Petersburg, Russia",
+    "location": "Saint Petersburg, Russia, Europe",
+    "summary": "A museum of art and culture in Saint Petersburg, Russia. It was founded in 1764 when Empress Catherine the Great acquired a collection of paintings from the Berlin merchant Johann Ernst Gotzkowsky. It has been open to the public since 1852, and its collections, of which only a small part is on permanent display, comprise over three million items.",
     "build_year": 1764,
     "time_period": "EarlyModern",
     "links": {
@@ -1352,7 +1415,8 @@
   },
   {
     "name": "Huey Teocalli",
-    "location": "Mexico City, Mexico",
+    "location": "Mexico City, Mexico, North America",
+    "summary": "The main temple of the Mexica people in their capital city of Tenochtitlan, which is now Mexico City. Its architectural style belongs to the late Postclassic period of Mesoamerica. The temple was called Huēyi Teōcalli in the Nahuatl language. The temple was almost totally destroyed by the Spanish in 1521, and the Mexico City Metropolitan Cathedral was built in its place.",
     "build_year": 1325,
     "time_period": "PostClassical",
     "links": {
@@ -1373,7 +1437,8 @@
   },
   {
     "name": "Kilwa Kisiwani",
-    "location": "Kilwa Masoko, Tanzania",
+    "location": "Kilwa Masoko, Tanzania, Africa",
+    "summary": "An island, national historic site, and hamlet community located in the township of Kilwa Masoko. At its peak in the Middle Ages, it had over 10,000 inhabitants, and despite its significant historic reputation, it is still home to a small and resilient community of natives who have inhabited the island for centuries.",
     "build_year": 800,
     "time_period": "PostClassical",
     "links": {
@@ -1395,7 +1460,8 @@
   },
   {
     "name": "Kōtoku-in",
-    "location": "Kamakura, Japan",
+    "location": "Kamakura, Japan, Asia",
+    "summary": "A Buddhist temple of the Jōdo-shū sect, in the city of Kamakura, and its common temple name is Shōjōsen-ji. The temple is renowned for The Great Buddha of Kamakura, a monumental outdoor bronze statue of Amitābha, which is one of the most famous icons of Japan. Including the base, it measures 13.35m tall and weighs approximately 93 tonnes.",
     "build_year": 1252,
     "time_period": "PostClassical",
     "links": {
@@ -1416,7 +1482,8 @@
   },
   {
     "name": "Mahabodhi Temple",
-    "location": "Bodh Gaya, India",
+    "location": "Bodh Gaya, India, Asia",
+    "summary": "An ancient, but restored Buddhist temple in Bodh Gaya, Bihar, India, marking the location where the Buddha is said to have attained enlightenment. The site contains a descendant of the Bodhi Tree under which the Buddha gained enlightenment, and has been a major pilgrimage destination of Buddhists for over two thousand years.",
     "build_year": -250,
     "time_period": "Classical",
     "links": {
@@ -1438,7 +1505,8 @@
   },
   {
     "name": "Meenakshi Temple",
-    "location": "Madurai, India",
+    "location": "Madurai, India, Asia",
+    "summary": "A historic Hindu temple located in the temple city of Madurai. It is dedicated to the goddess Meenakshi Amman Nayak, a form of Parvati, and her consort, Sundareshwarar, a form of Shiva. The temple is at the centre of the ancient temple city of Madurai mentioned in the Tamil Sangam literature, with the goddess temple mentioned in 6th-century CE texts.",
     "build_year": 1600,
     "time_period": "EarlyModern",
     "links": {
@@ -1461,7 +1529,8 @@
   },
   {
     "name": "Mont-Saint-Michel",
-    "location": "France",
+    "location": "Mont-Saint-Michel, France, Europe",
+    "summary": "A tidal island and mainland commune in Normandy, France. The commune's position—on an island just a few hundred metres from land—made it accessible at low tide to the many pilgrims to its abbey, and defensible as the incoming tide stranded, drove off, or drowned would-be assailants. The island remained unconquered during the Hundred Years' War.",
     "build_year": 1000,
     "time_period": "PostClassical",
     "links": {
@@ -1482,7 +1551,8 @@
   },
   {
     "name": "Országház",
-    "location": "Budapest, Hungary",
+    "location": "Budapest, Hungary, Europe",
+    "summary": "The Hungarian Parliament Building, is the seat of the National Assembly of Hungary, and is situated in the Pest side of the city. It has been the largest building in Hungary since its completion. The architectural style was influenced by the gothic Vienna City Hall, the renaissance elements was influenced by the Maria vom Siege church in Vienna.",
     "build_year": 1904,
     "time_period": "Modern",
     "links": {
@@ -1503,7 +1573,8 @@
   },
   {
     "name": "Oxford University",
-    "location": "Oxford, England",
+    "location": "Oxford, England, Europe",
+    "summary": "A collegiate research university with evidence of teaching as early as 1096, making it the world's second-oldest university in continuous operation after the University of Bologna. It operates the Ashmolean Museum, the world's oldest university museum; Oxford University Press, the largest university press in the world; and the largest academic library system nationwide.",
     "build_year": 1096,
     "time_period": "PostClassical",
     "links": {
@@ -1526,8 +1597,9 @@
   },
   {
     "name": "St. Basil's Cathedral",
-    "location": "Moscow, Russia",
-    "build_year": 1560,
+    "location": "Moscow, Russia, Europe",
+    "summary": "An Orthodox church in Red Square of Moscow, it is one of the most popular cultural symbols of Russia. It was built from 1555 to 1561 on orders from Ivan the Terrible. Its completion, with its colors, was made in 1683. The church was confiscated as part of the Soviet Union's antireligious campaigns and has operated as a division of the State Historical Museum since 1928.",
+    "build_year": 1561,
     "time_period": "EarlyModern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
@@ -1548,7 +1620,8 @@
   },
   {
     "name": "Belém Tower",
-    "location": "Lisbon, Portugal",
+    "location": "Lisbon, Portugal, Europe",
+    "summary": "A fortification that served as a point of embarkation and disembarkation for Portuguese explorers and as a ceremonial gateway to Lisbon. This tower symbolizes Portugal's maritime and colonial power in early modern Europe. It is a prominent example of the Portuguese Manueline style, but also incorporates other architectural styles, such as the minarets, which are inspired by Moorish architecture.",
     "build_year": 1519,
     "time_period": "EarlyModern",
     "links": {
@@ -1569,8 +1642,9 @@
     ]
   },
   {
-    "name": "University of Sankoré",
+    "name": "Sankoré Madrasah",
     "location": "Timbuktu, Mali",
+    "summary": "A medieval mosque and centre of learning founded in the 14th century. The mosque developed into a madrasa (meaning a school or college in Arabic), reaching its peak in the 16th century. It went through multiple periods of patronage and renovation under both the Mali Empire and the Songhai Empire until its decline following the Battle of Tondibi in 1591.",
     "build_year": 1500,
     "time_period": "PostClassical",
     "links": {
@@ -1590,7 +1664,8 @@
   },
   {
     "name": "Venetian Arsenal",
-    "location": "Venice, Italy",
+    "location": "Venice, Italy, Europe",
+    "summary": "A complex of former shipyards and armories clustered together in the city of Venice. Owned by the state, the Arsenal was responsible for the bulk of the Venetian Republic's naval power from the Late Middle Ages to the early modern period. It was \"one of the earliest large-scale industrial enterprises in history\".",
     "build_year": 1104,
     "time_period": "PostClassical",
     "links": {
@@ -1611,7 +1686,8 @@
   },
   {
     "name": "Göbekli Tepe",
-    "location": "Şanlıurfa, Turkey",
+    "location": "Şanlıurfa, Turkey, Asia",
+    "summary": "A Neolithic archaeological site in the Southeastern Anatolia Region of Turkey. The settlement was inhabited from c. 9500 to at least 8000 BCE, during the Pre-Pottery Neolithic. It is famous for its large circular structures that contain massive stone pillars – among the world's oldest known megaliths.",
     "build_year": -9500,
     "time_period": "Prehistoric",
     "links": {
@@ -1631,7 +1707,8 @@
   },
   {
     "name": "Nazca Lines",
-    "location": "Peru",
+    "location": "Nazca Desert, Peru",
+    "summary": "A group of geoglyphs made in the soil of the Nazca Desert. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed. Most lines run straight across the landscape, but there are also figurative designs of animals and plants. The combined length of all the lines is more than 1,300km.",
     "build_year": 500,
     "time_period": "Classical",
     "links": {
@@ -1651,7 +1728,8 @@
   },
   {
     "name": "Tarxien Temples",
-    "location": "Tarxien, Malta",
+    "location": "Tarxien, Malta, Europe",
+    "summary": "An archaeological complex in Tarxien, in the Port region of Malta. They date to approximately 3150 BC. Of particular interest at the temple site is the rich and intricate stonework, which includes depictions of domestic animals carved in relief, altars, and screens decorated with spiral designs and other patterns.",
     "build_year": -3150,
     "time_period": "Prehistoric",
     "links": {
@@ -1670,7 +1748,8 @@
   },
   {
     "name": "Cahokia Mounds",
-    "location": "Collinsville, USA",
+    "location": "Collinsville, USA, North America",
+    "summary": "The site of a pre-Columbian Native American city which existed around 1050–1350 CE. It was the largest and most influential urban settlement of the Mississippian culture, which developed advanced societies across much of what is now the Central and the Southeastern United States, beginning more than 1,000 years before European contact.",
     "build_year": 1000,
     "time_period": "PostClassical",
     "links": {
@@ -1689,7 +1768,8 @@
   },
   {
     "name": "Moai",
-    "location": "Easter Island, Chile",
+    "location": "Easter Island, Oceania",
+    "summary": "Monolithic human figures carved by the Rapa Nui people on Rapa Nui (Easter Island) in eastern Polynesia between the years 1250 and 1500. Nearly half are still at Rano Raraku, the main moai quarry, but hundreds were transported from there and set on stone platforms called ahu around the island's perimeter.",
     "build_year": 1500,
     "time_period": "PostClassical",
     "links": {
@@ -1711,8 +1791,9 @@
   },
   {
     "name": "Masada",
-    "location": "Israel",
-    "build_year": -15,
+    "location": "Israel, Asia",
+    "summary": "An ancient fortification in Israel, situated on top of an isolated rock plateau, akin to a mesa. Herod the Great built two palaces for himself on the mountain and fortified Masada between 37 and 31 BCE. The fortress also contained a series of cisterns that were refilled by rainwater - with the runoff collected from a single day's rain allegedly able to sustain over 1,000 people for 2 to 3 years.",
+    "build_year": -37,
     "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Masada",
@@ -1731,7 +1812,8 @@
   },
   {
     "name": "Tikal",
-    "location": "Flores, Guatemala",
+    "location": "Flores, Guatemala, North America",
+    "summary": "The ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala. It is one of the largest archeological sites and urban centers of the pre-Columbian Maya civilization. It was originally the capital of a conquest state that became one of the most powerful kingdoms of the ancient Maya.",
     "build_year": 100,
     "time_period": "Classical",
     "links": {
@@ -1754,7 +1836,8 @@
   },
   {
     "name": "Karnak Temple Complex",
-    "location": "El-Karnak, Egypt",
+    "location": "El-Karnak, Egypt, Africa",
+    "summary": "A vast mix of temples, pylons, chapels, and other buildings near Luxor, Egypt. Construction at the complex began during the reign of Senusret I (1971–1926 BCE). The area around Karnak was the ancient Egyptian Ipet-isut (\"The Most Selected of Places\") and the main place of worship of the 18th Dynastic Theban Triad, with the god Amun as its head. It is part of the monumental city of Thebes",
     "build_year": -1375,
     "time_period": "Ancient",
     "links": {
@@ -1776,7 +1859,8 @@
   },
   {
     "name": "Tulum",
-    "location": "Tulum, Mexico",
+    "location": "Tulum, Mexico, North America",
+    "summary": "The site of a pre-Columbian Mayan walled city which served as a major port for Coba, in the Mexican state of Quintana Roo. It was one of the last cities built and inhabited by the Maya and achieved its greatest prominence between the 13th and 15th centuries. It continued to be occupied for about 70 years after the Spanish began occupying Mexico, but was abandoned by the end of the 16th century.",
     "build_year": 1300,
     "time_period": "PostClassical",
     "links": {
@@ -1795,7 +1879,8 @@
   },
   {
     "name": "Tiwanaku",
-    "location": "Tiwanaku, Bolivia",
+    "location": "Tiwanaku, Bolivia, South America",
+    "summary": "A Pre-Columbian archaeological site in western Bolivia, it is one of the largest sites in South America. Surface remains currently cover around 4km² and include decorated ceramics, monumental structures, and megalithic blocks. In AD 800 the site has been conservatively estimated to have been inhabited by 10,000 to 20,000 people.",
     "build_year": 600,
     "time_period": "PostClassical",
     "links": {
@@ -1816,7 +1901,8 @@
   },
   {
     "name": "Pyramid of the Sun",
-    "location": "Teotihuacán, Mexico",
+    "location": "Teotihuacán, Mexico, North America",
+    "summary": "The largest building in Teotihuacan, and one of the largest in Mesoamerica. It is believed to have been constructed about 200 CE. Over the structure, the ancient Teotihuacanos finished their pyramid with lime plaster imported from surrounding areas, on which they painted brilliantly colored murals, though unfortunately the paint and plaster are no longer visible.",
     "build_year": 100,
     "time_period": "Classical",
     "links": {
@@ -1836,7 +1922,8 @@
   },
   {
     "name": "Luxor Temple",
-    "location": "Luxor, Egypt",
+    "location": "Luxor, Egypt, Africa",
+    "summary": "A large Ancient Egyptian temple complex located on the east bank of the Nile River in the city of ancient Thebes, and was constructed approximately 1400 BCE. To the rear of the temple are chapels built by Amenhotep III of the 18th Dynasty, and Alexander. Other parts of the temple were built by Tutankhamun and Ramesses II.",
     "build_year": -1400,
     "time_period": "Ancient",
     "links": {
@@ -1856,7 +1943,8 @@
   },
   {
     "name": "Valley of the Kings",
-    "location": "Luxor, Egypt",
+    "location": "Luxor, Egypt, Africa",
+    "summary": "An area in Egypt where, for a period of nearly 500 years from the Eighteenth Dynasty to the Twentieth Dynasty, rock-cut tombs were excavated for pharaohs and powerful nobles under the New Kingdom of ancient Egypt. It is a wadi sitting on the west bank of the Nile, opposite Thebes (modern-day Luxor) and within the heart of the Theban Necropolis.",
     "build_year": -1075,
     "time_period": "Ancient",
     "links": {
@@ -1876,7 +1964,8 @@
   },
   {
     "name": "Abu Simbel Temples",
-    "location": "Abu Simbel, Egypt",
+    "location": "Abu Simbel, Egypt, Africa",
+    "summary": "An historic site comprising two massive rock-cut temples in the village of Abu Simbel. The twin temples were originally carved out of the mountainside in the 13th century BC, during the 19th Dynasty reign of the Pharaoh Ramesses II. Their huge external rock relief figures of Ramesses II have become iconic. His wife, Nefertari, and children can be seen in smaller figures by his feet.",
     "build_year": -1264,
     "time_period": "Ancient",
     "links": {
@@ -1897,7 +1986,8 @@
   },
   {
     "name": "Gate of All Nations",
-    "location": "Persepolis, Iran",
+    "location": "Persepolis, Iran, Asia",
+    "summary": "Also known as the Gate of Xerxes, is located in the ruins of the ancient city of Persepolis, Iran. The construction was ordered by the Achaemenid king Xerxes I. It is from an inscription in the gate, known as the XPa inscription, that the building's name is known. The text is trilingual: to the left and right of the Old Persian inscription are Babylonian and Elamite translations.",
     "build_year": -465,
     "time_period": "Classical",
     "links": {
@@ -1915,7 +2005,8 @@
   },
   {
     "name": "Roman Forum",
-    "location": "Rome, Italy",
+    "location": "Rome, Italy, Europe",
+    "summary": "A rectangular forum (plaza) surrounded by the ruins of several important ancient government buildings which has been called the most celebrated meeting place in all history. For centuries, it was the centre of day-to-day life in Rome: the site of triumphal processions and elections; the venue for public speeches, criminal trials and gladiatorial matches; and the nucleus of commercial affairs.",
     "build_year": -50,
     "time_period": "Classical",
     "links": {
@@ -1934,7 +2025,8 @@
   },
   {
     "name": "Pont du Gard",
-    "location": "Vers-Pont-du-Gard, France",
+    "location": "Vers-Pont-du-Gard, France, Europe",
+    "summary": "An ancient Roman aqueduct bridge built in the first century AD to carry water over 50km to the Roman colony of Nemausus. It is one of the best preserved Roman aqueduct bridges. The bridge has three tiers of arches made from Shelly limestone and stands 48.8m  high. The aqueduct formerly carried an estimated 40,000m³ of water a day",
     "build_year": 60,
     "time_period": "Classical",
     "links": {
@@ -1954,7 +2046,8 @@
   },
   {
     "name": "Pantheon",
-    "location": "Rome, Italy",
+    "location": "Rome, Italy, Europe",
+    "summary": "A former Roman temple and, since AD 609, a Catholic church in Rome. The present building was ordered by the emperor Hadrian after the original earlier temple, which was commissioned by Marcus Vipsanius Agrippa during the reign of Augustus, burnt down. It is one of the best-preserved of all Ancient Roman buildings, in large part because it has been in continuous use throughout its history.",
     "build_year": 125,
     "time_period": "Classical",
     "links": {
@@ -1974,7 +2067,8 @@
   },
   {
     "name": "Diocletian's Palace",
-    "location": "Split, Croatia",
+    "location": "Split, Croatia, Europe",
+    "summary": "Built at the end of the third century AD as a residence for the Roman emperor Diocletian, it is referred to as a \"palace\" because of its intended use as a retirement residence. The term can be misleading as the structure is massive and more resembles a large fortress: about half of it was for Diocletian's personal use, and the rest housed the military garrison.",
     "build_year": 300,
     "time_period": "Classical",
     "links": {
@@ -1996,8 +2090,9 @@
   },
   {
     "name": "Palenque",
-    "location": "Palenque, Mexico",
-    "build_year": 700,
+    "location": "Palenque, Mexico, North America",
+    "summary": "A Maya city state in southern Mexico that perished in the 8th century. The ruins date from around 226 BC to 799 AD, though the famous structures that we know today come from a rebuilding effort by Pacal the Great (615-683 AD) after attacks by the city of Calakmul. It contains some of the finest architecture, sculpture, roof comb and bas-relief carvings that the Mayas produced.",
+    "build_year": 615,
     "time_period": "PostClassical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Palenque",
@@ -2017,7 +2112,8 @@
   },
   {
     "name": "Temple of Heaven",
-    "location": "Beijing, China",
+    "location": "Beijing, China, Asia",
+    "summary": "A complex of imperial religious buildings which was visited by the Emperors of the Ming and Qing dynasties for annual ceremonies of prayer to Heaven for a good harvest. The temple complex was constructed from 1406 to 1420 during the reign of the Yongle Emperor of Ming Dynasty, who was also responsible for the construction of the Forbidden City.",
     "build_year": 1420,
     "time_period": "PostClassical",
     "links": {
@@ -2039,7 +2135,8 @@
   {
     "name": "Pura Ulun Danu Bratan",
     "location": "Bali, Indonesia",
-    "build_year": 1600,
+    "summary": "A major Hindu Shaivite temple in Bali. Built in 1633, the temple is used for offerings and ceremonies dedicated to the Balinese water, lake and river goddess Dewi Danu, due to the importance of Lake Bratan as a main source of irrigation in central Bali. The 11-storey pelinggih meru in the complex is dedicated to Shiva and his consort Parvathi. Buddha's statue is also enshrined in this temple",
+    "build_year": 1633,
     "time_period": "EarlyModern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Pura_Ulun_Danu_Bratan",
@@ -2057,7 +2154,8 @@
   },
   {
     "name": "Umayyad Mosque",
-    "location": "Damascus, Syria",
+    "location": "Damascus, Syria, Asia",
+    "summary": "Also known as the Great Mosque of Damascus, it is one of the largest and oldest mosques in the world. Its religious importance stems from the eschatological reports concerning the mosque, and historic events associated with it. The site has been used as a house of worship since the Iron Age.",
     "build_year": 715,
     "time_period": "PostClassical",
     "links": {
@@ -2079,7 +2177,8 @@
   {
     "name": "Mosque–Cathedral of Córdoba",
     "location": "Córdoba, Spain",
-    "build_year": 786,
+    "summary": "Officially known by its ecclesiastical name of Cathedral of Our Lady of the Assumption, is the cathedral of the Diocese of Córdoba. Due to its status as a former mosque, it is also known as the Mezquita and as the Great Mosque of Córdoba. The Great Mosque was constructed in 785 on the orders of Abd al-Rahman I, founder of the Islamic Emirate of Córdoba.",
+    "build_year": 785,
     "time_period": "PostClassical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
@@ -2099,8 +2198,9 @@
   },
   {
     "name": "St. Peter's Basilica",
-    "location": "Vatican City",
-    "build_year": 1615,
+    "location": "Vatican City, Europe",
+    "summary": "A church of the Italian High Renaissance located in Vatican City. It was initially planned in the 15th century to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great. It has been described as \"holding a unique position in the Christian world\", and as \"the greatest of all churches of Christendom\".",
+    "build_year": 1626,
     "time_period": "EarlyModern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
@@ -2120,7 +2220,8 @@
   },
   {
     "name": "Registan",
-    "location": "Samarkand, Uzbekistan",
+    "location": "Samarkand, Uzbekistan, Asia",
+    "summary": "This was the heart of the city of Samarkand of the Timurid Empire, now in Uzbekistan. It was a public square, where people gathered to hear royal proclamations, and a place of public executions. It is framed by three madrasahs (Islamic schools) of distinctive Persian architecture. The square was regarded as the hub of the Timurid Renaissance.",
     "build_year": 1660,
     "time_period": "EarlyModern",
     "links": {
@@ -2139,8 +2240,9 @@
   },
   {
     "name": "Sigiriya",
-    "location": "Sigiriya, Sri Lanka",
-    "build_year": 475,
+    "location": "Sigiriya, Sri Lanka, Asia",
+    "summary": "An ancient rock fortress which is a site of historical and archaeological significance that is dominated by a massive column of granite approximately 180m high. King Kashyapa (AD 477–495) built the palace on top of this rock and decorated its sides with colourful frescoes. On a small plateau about halfway up the side of this rock he built a gateway in the form of an enormous lion.",
+    "build_year": 480,
     "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Sigiriya",
