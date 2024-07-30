@@ -223,6 +223,7 @@
       ]
     },
     "categories": [
+      "SevenModernWonders",
       "Civ6"
     ]
   },
@@ -245,6 +246,7 @@
       ]
     },
     "categories": [
+      "SevenModernWonders",
       "Civ5"
     ]
   },
@@ -267,6 +269,7 @@
       ]
     },
     "categories": [
+      "SevenModernWonders"
     ]
   },
   {
@@ -286,7 +289,9 @@
         "https://upload.wikimedia.org/wikipedia/commons/7/7d/1-Stormvloedkering_Hollandse_IJssel-Algerabrug--DSC_0179.jpg"
       ]
     },
-    "categories": []
+    "categories": [
+      "SevenModernWonders"
+    ]
   },
   {
     "name": "Panama Canal",
@@ -309,6 +314,7 @@
       ]
     },
     "categories": [
+      "SevenModernWonders",
       "Civ6"
     ]
   },
@@ -331,7 +337,9 @@
         "https://upload.wikimedia.org/wikipedia/commons/4/46/Zeppelin_bij_Empire_State_Building_in_aanbouw_-_Zeppelin_near_the_Empire_State_Building_under_construction_%286943970242%29.jpg"
       ]
     },
-    "categories": []
+    "categories": [
+      "SevenModernWonders"
+    ]
   },
   {
     "name": "Itaipu Dam",
@@ -351,7 +359,9 @@
         "https://upload.wikimedia.org/wikipedia/commons/3/3a/Itaipu_3285.jpg"
       ]
     },
-    "categories": []
+    "categories": [
+      "SevenModernWonders"
+    ]
   },
   {
     "name": "Mausoleum at Halicarnassus",

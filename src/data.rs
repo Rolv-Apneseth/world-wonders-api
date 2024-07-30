@@ -49,6 +49,8 @@ pub struct Links {
 pub enum Category {
     /// Wonder is one of the "7 Wonders of the Ancient World".
     SevenWonders,
+    /// Wonder is one of the "7 Wonders of the Modern World" elected by the American Society of Civil Engineers in 1994.
+    SevenModernWonders,
     /// Wonder can be found in the video game "Civilization V".
     Civ5,
     /// Wonder can be found in the video game "Civilization VI".
