@@ -65,7 +65,7 @@ pub struct Wonder {
     #[garde(length(min = 3, max = 150))]
     pub name: String,
     /// Short summary of a world wonder and what it is/was.
-    #[garde(length(min = 0, max = 400))]
+    #[garde(length(min = 50, max = 400))]
     pub summary: String,
     /// Location / suspected location of a world wonder or its remains.
     #[garde(length(min = 3, max = 150))]
@@ -95,6 +95,40 @@ mod tests {
 
     use super::*;
 
+    macro_rules! assert_valid_text {
+        ($val: ident) => {
+            assert_eq!(
+                $val.trim().len(),
+                $val.len(),
+                "{} contains trailing/leading whitespace:\n{}",
+                stringify!($val),
+                $val
+            );
+
+            let mut consecutive = false;
+            for char in ($val).chars() {
+                if char.is_whitespace() {
+                    assert_eq!(
+                        char,
+                        ' ',
+                        "{} contains non-space whitespace:\n{}",
+                        stringify!($val),
+                        $val
+                    );
+                    assert!(
+                        !consecutive,
+                        "{} contains consecutive spaces:\n{}",
+                        stringify!($val),
+                        $val
+                    );
+                    consecutive = true;
+                } else {
+                    consecutive = false;
+                }
+            }
+        };
+    }
+
     #[test]
     fn validate_wonders_data() {
         assert!(WONDERS.len() > 0);
@@ -114,6 +148,7 @@ mod tests {
             |Wonder {
                 name,
                 location,
+                summary,
                 build_year,
                 time_period,
                 links: Links {
@@ -126,10 +161,12 @@ mod tests {
                 categories,
                 ..
             }| {
-                assert!(!name.trim().is_empty(), "Name provided is empty");
-                assert!(!location.trim().is_empty(), "Location provided is empty");
-                assert_eq!(name.trim().len(), name.len(), "Name contains trailing/leading whitespace");
-                assert_eq!(location.trim().len(), location.len(), "Location contains trailing/leading whitespace");
+                assert_valid_text!(name);
+                assert_valid_text!(location);
+                assert_valid_text!(summary);
+
+                assert!(location.contains(','), "Location must define a continent:\n{location}");
+                assert!(summary.ends_with('.') || summary.ends_with('!'), "Summary must end with proper punctuation:\n{summary}");
 
                 // Build year + time period
                 assert!(*build_year as i32 <= year, "Build year exceeds current calendar year: {build_year}");
