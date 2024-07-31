@@ -51,6 +51,8 @@ pub enum Category {
     SevenWonders,
     /// Wonder is one of the "7 Wonders of the Modern World" elected by the American Society of Civil Engineers in 1994.
     SevenModernWonders,
+    /// Wonder is one of the "New 7 Wonders of the World" elected by online votes via an initiative by the Swiss corporation New7Wonders Foundation
+    SevenNewWonders,
     /// Wonder can be found in the video game "Civilization V".
     Civ5,
     /// Wonder can be found in the video game "Civilization VI".
