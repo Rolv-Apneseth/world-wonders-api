@@ -274,7 +274,7 @@
   },
   {
     "name": "Delta Works",
-    "location": "The Netherlands",
+    "location": "The Netherlands, Europe",
     "summary": "A series of construction projects in the southwest of the Netherlands to protect a large area of land around the Rhine–Meuse–Scheldt delta from the sea. The works consist of dams, sluices, locks, dykes, levees, and storm surge barriers. Along with the Zuiderzee Works, the Delta Works have been declared one of the Seven Wonders of the Modern World by the American Society of Civil Engineers.",
     "build_year": 1986,
     "time_period": "Modern",
@@ -789,7 +789,7 @@
   {
     "name": "Borobudur",
     "location": "Magelang, Indonesia, Asia",
-    "summary": "A 9th-century Mahayana Buddhist temple in Magelang Regency, Central Java, Indonesia. Constructed of gray andesite-like stone, the temple consists of nine stacked platforms, six square and three circular, topped by a central dome, and is decorated with 2,672 relief panels and originally 504 Buddha statues. It has one of the world's most extensive collections of Buddhist reliefs. ",
+    "summary": "A 9th-century Mahayana Buddhist temple in Magelang Regency, Central Java, Indonesia. Constructed of gray andesite-like stone, the temple consists of nine stacked platforms, six square and three circular, topped by a central dome, and is decorated with 2,672 relief panels and originally 504 Buddha statues. It has one of the world's most extensive collections of Buddhist reliefs.",
     "build_year": 850,
     "time_period": "PostClassical",
     "links": {
@@ -836,7 +836,7 @@
   {
     "name": "Notre-Dame de Paris",
     "location": "Paris, France, Europe",
-    "summary": "A medieval Catholic cathedral on the Île de la Cité (an island in the River Seine). It is considered one of the finest examples of French Gothic architecture. Several attributes set it apart from the earlier Romanesque style, particularly its pioneering use of the rib vault and flying buttress, its enormous and colourful rose windows, and the naturalism and abundance of its sculptural decoration",
+    "summary": "A medieval Catholic cathedral on the Île de la Cité, it is considered one of the finest examples of French Gothic architecture. Several attributes set it apart from the earlier Romanesque style, particularly its pioneering use of the rib vault and flying buttress, its enormous and colourful rose windows, and the naturalism and abundance of its sculptural decoration.",
     "build_year": 1350,
     "time_period": "PostClassical",
     "links": {
@@ -1068,7 +1068,7 @@
   {
     "name": "Broadway Theatre",
     "location": "New York, USA, North America",
-    "summary": "A theatre genre that consists of the theatrical performances presented in 41 professional theaters, each with 500 or more seats, in the Theater District and Lincoln Center along Broadway, in Midtown Manhattan, New York City. Broadway and London's West End together represent the highest commercial level of live theater in the English-speaking world. ",
+    "summary": "A theatre genre that consists of the theatrical performances presented in 41 professional theaters, each with 500 or more seats, in the Theater District and Lincoln Center along Broadway, in Midtown Manhattan, New York City. Broadway and London's West End together represent the highest commercial level of live theater in the English-speaking world.",
     "build_year": 1850,
     "time_period": "Modern",
     "links": {
@@ -1091,7 +1091,7 @@
   {
     "name": "Eiffel Tower",
     "location": "Paris, France, Europe",
-    "summary": "A wrought-iron lattice tower that was initially criticised by some of France's leading artists for its design, it has since become a global cultural icon of France and one of the most recognisable structures in the world. The tower is 330m tall, surpassed the Washington Monument to become the tallest human-made structure in the world, a title it held for 41 years until 1930. ",
+    "summary": "A wrought-iron lattice tower that was initially criticised by some of France's leading artists for its design, it has since become a global cultural icon of France and one of the most recognisable structures in the world. The tower is 330m tall, surpassed the Washington Monument to become the tallest human-made structure in the world, a title it held for 41 years until 1930.",
     "build_year": 1889,
     "time_period": "Modern",
     "links": {
@@ -1704,7 +1704,7 @@
   {
     "name": "Göbekli Tepe",
     "location": "Şanlıurfa, Turkey, Asia",
-    "summary": "A Neolithic archaeological site in the Southeastern Anatolia Region of Turkey. The settlement was inhabited from c. 9500 to at least 8000 BCE, during the Pre-Pottery Neolithic. It is famous for its large circular structures that contain massive stone pillars – among the world's oldest known megaliths.",
+    "summary": "A Neolithic archaeological site in the Southeastern Anatolia Region of Turkey. The settlement was inhabited from around 9500 to at least 8000 BCE, during the Pre-Pottery Neolithic. It is famous for its large circular structures that contain massive stone pillars – among the world's oldest known megaliths.",
     "build_year": -9500,
     "time_period": "Prehistoric",
     "links": {
@@ -1854,7 +1854,7 @@
   {
     "name": "Karnak Temple Complex",
     "location": "El-Karnak, Egypt, Africa",
-    "summary": "A vast mix of temples, pylons, chapels, and other buildings near Luxor, Egypt. Construction at the complex began during the reign of Senusret I (1971–1926 BCE). The area around Karnak was the ancient Egyptian Ipet-isut (\"The Most Selected of Places\") and the main place of worship of the 18th Dynastic Theban Triad, with the god Amun as its head. It is part of the monumental city of Thebes",
+    "summary": "A vast mix of temples, pylons, chapels, and other buildings near Luxor, Egypt. Construction at the complex began during the reign of Senusret I (1971–1926 BCE). The area around Karnak was the ancient Egyptian Ipet-isut (\"The Most Selected of Places\") and the main place of worship of the 18th Dynastic Theban Triad, with the god Amun as its head. It is part of the monumental city of Thebes.",
     "build_year": -1375,
     "time_period": "Ancient",
     "links": {
@@ -2043,7 +2043,7 @@
   {
     "name": "Pont du Gard",
     "location": "Vers-Pont-du-Gard, France, Europe",
-    "summary": "An ancient Roman aqueduct bridge built in the first century AD to carry water over 50km to the Roman colony of Nemausus. It is one of the best preserved Roman aqueduct bridges. The bridge has three tiers of arches made from Shelly limestone and stands 48.8m  high. The aqueduct formerly carried an estimated 40,000m³ of water a day",
+    "summary": "An ancient Roman aqueduct bridge built in the first century AD to carry water over 50km to the Roman colony of Nemausus. It is one of the best preserved Roman aqueduct bridges. The bridge has three tiers of arches made from Shelly limestone and stands 48.8m high. The aqueduct formerly carried an estimated 40,000m³ of water a day.",
     "build_year": 60,
     "time_period": "Classical",
     "links": {
@@ -2152,7 +2152,7 @@
   {
     "name": "Pura Ulun Danu Bratan",
     "location": "Bali, Indonesia",
-    "summary": "A major Hindu Shaivite temple in Bali. Built in 1633, the temple is used for offerings and ceremonies dedicated to the Balinese water, lake and river goddess Dewi Danu, due to the importance of Lake Bratan as a main source of irrigation in central Bali. The 11-storey pelinggih meru in the complex is dedicated to Shiva and his consort Parvathi. Buddha's statue is also enshrined in this temple",
+    "summary": "A major Hindu Shaivite temple in Bali. Built in 1633, the temple is used for offerings and ceremonies dedicated to the Balinese water, lake and river goddess Dewi Danu, due to the importance of Lake Bratan as a main source of irrigation in central Bali. The 11-storey pelinggih meru in the complex is dedicated to Shiva and his consort Parvathi. Buddha's statue is also enshrined in this temple.",
     "build_year": 1633,
     "time_period": "EarlyModern",
     "links": {
