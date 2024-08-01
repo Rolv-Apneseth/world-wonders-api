@@ -22,7 +22,7 @@ Documentation is available [here](https://www.world-wonders-api.org/v0/docs).
 You can self-host using Docker:
 
 ```bash
-docker run -d -p 8138:8138 \
+docker run -d -p 8138:8138 \ 
   --name world-wonders-api rolvapneseth/world-wonders-api
 ```
 
@@ -39,7 +39,8 @@ All data responses are in the [JSON](http://json.org/) format.
 ```json
 {
   "name": "Great Pyramid of Giza",
-  "location": "Giza, Egypt",
+  "summary": "...",
+  "location": "Giza, Egypt, Africa",
   "build_year": -2560,
   "time_period": "Ancient",
   "links": {
@@ -54,14 +55,14 @@ All data responses are in the [JSON](http://json.org/) format.
     ]
   },
   "categories": [
-    "SevenWonders",
+    "SevenWonders"
   ]
 }
 ```
 
 ### Example of an error response
 
-The response contain a non `200` HTTP status code, such as `400`, with a body like this:
+The response contains a non `200` HTTP status code, such as `400`, with a body like this:
 
 ```json
 {
@@ -71,7 +72,7 @@ The response contain a non `200` HTTP status code, such as `400`, with a body li
 
 ## Metrics
 
-Some very basic [Prometheus](https://prometheus.io/) metrics are exported at the `/metrics` endpoint.
+Some basic [Prometheus](https://prometheus.io/) metrics are exported at the `/metrics` endpoint.
 
 ## Thanks
 
