@@ -7,6 +7,7 @@ use aide::{
 };
 use axum::{
     extract::{MatchedPath, Request},
+    http::Method,
     Extension, Router,
 };
 use axum_prometheus::PrometheusMetricLayer;
@@ -15,7 +16,11 @@ use tokio::signal;
 use tower_governor::{
     governor::GovernorConfigBuilder, key_extractor::SmartIpKeyExtractor, GovernorLayer,
 };
-use tower_http::{timeout::TimeoutLayer, trace::TraceLayer};
+use tower_http::{
+    cors::{Any, CorsLayer},
+    timeout::TimeoutLayer,
+    trace::TraceLayer,
+};
 
 pub mod data;
 pub mod error;
@@ -46,6 +51,11 @@ pub fn get_app() -> Router {
             .expect("Failed setting up `tower_governor` configuration"),
     );
 
+    // CORS
+    let cors = CorsLayer::default()
+        .allow_methods([Method::GET])
+        .allow_origin(Any);
+
     // Metrics
     let (prometheus_layer, metric_handle) = PrometheusMetricLayer::pair();
 
@@ -61,6 +71,8 @@ pub fn get_app() -> Router {
         .layer(GovernorLayer {
             config: governor_conf,
         })
+        // CORS
+        .layer(cors)
         // Metrics
         .layer(prometheus_layer)
         // Logging
