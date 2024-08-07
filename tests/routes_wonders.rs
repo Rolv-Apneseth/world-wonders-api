@@ -1,7 +1,7 @@
 use pretty_assertions::assert_eq;
 use strum::IntoEnumIterator;
 use world_wonders_api::{
-    data::{Category, Wonder, WONDERS},
+    data::{Category, TimePeriod, Wonder, WONDERS},
     WONDERS_ROUTE,
 };
 
@@ -31,6 +31,11 @@ async fn test_routes_wonders() {
     let response = server.get(&format!("{WONDERS_ROUTE}/categories")).await;
     response.assert_status_ok();
     response.assert_json::<Vec<Category>>(&Category::iter().collect::<Vec<Category>>());
+
+    // Time periods
+    let response = server.get(&format!("{WONDERS_ROUTE}/time-periods")).await;
+    response.assert_status_ok();
+    response.assert_json::<Vec<TimePeriod>>(&TimePeriod::iter().collect::<Vec<TimePeriod>>());
 
     // Specific wonder - by name
     let response = server.get(&format!("{WONDERS_ROUTE}/name/alhambra")).await;

@@ -5,7 +5,7 @@ use serde::{Deserialize, Serialize};
 use strum_macros::EnumIter;
 
 /// Human history time period of a world wonder
-#[derive(Serialize, Deserialize, Debug, PartialEq, Eq, JsonSchema)]
+#[derive(Serialize, Deserialize, Debug, PartialEq, Eq, EnumIter, JsonSchema)]
 pub enum TimePeriod {
     Prehistoric,
     Ancient,
