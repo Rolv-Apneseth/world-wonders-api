@@ -60,6 +60,10 @@ pub fn routes() -> ApiRouter {
             get_with(get_wonder_categories, get_wonder_categories_docs),
         )
         .api_route(
+            "/time-periods",
+            get_with(get_wonder_time_periods, get_wonder_time_periods_docs),
+        )
+        .api_route(
             "/random",
             get_with(get_random_wonder, get_random_wonder_docs),
         )
@@ -211,13 +215,25 @@ fn get_wonder_categories_docs(op: TransformOperation) -> TransformOperation {
     op.summary("Wonder categories")
         .description("Get all available wonder categories")
         .response_with::<200, Json<Vec<Category>>, _>(|res| {
-            res.example(vec![Category::SevenWonders, Category::Civ5])
+            res.example(Category::iter().collect::<Vec<Category>>())
         })
         .response_with::<400, ErrorResponse, _>(|res| {
             res.description("Bad request")
                 .example(ErrorResponse::new(Error::InvalidRequest(
                     "Failed to deserialize query string".to_string(),
                 )))
+        })
+}
+
+// GET WONDER TIME PERIODS
+async fn get_wonder_time_periods() -> impl IntoApiResponse {
+    Json(TimePeriod::iter().collect::<Vec<TimePeriod>>()).into_response()
+}
+fn get_wonder_time_periods_docs(op: TransformOperation) -> TransformOperation {
+    op.summary("Wonder time periods")
+        .description("Get all available human history time periods for wonders' construction times")
+        .response_with::<200, Json<Vec<TimePeriod>>, _>(|res| {
+            res.example(TimePeriod::iter().collect::<Vec<TimePeriod>>())
         })
 }
 
@@ -501,6 +517,17 @@ mod tests {
 
         let categories = extract_response!(server, Vec<Category>);
         assert_eq!(categories, Category::iter().collect::<Vec<Category>>());
+    }
+
+    #[tokio::test]
+    async fn test_get_wonder_time_periods() {
+        let server = get_route_server!(get_wonder_time_periods);
+
+        let time_periods = extract_response!(server, Vec<TimePeriod>);
+        assert_eq!(
+            time_periods,
+            TimePeriod::iter().collect::<Vec<TimePeriod>>()
+        );
     }
 
     #[tokio::test]
