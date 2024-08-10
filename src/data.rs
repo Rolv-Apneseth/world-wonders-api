@@ -193,6 +193,7 @@ mod tests {
                 [britannica, google_maps, trip_advisor].into_iter().for_each(|l| {
                     if let Some(l) = l {
                         assert!(!l.contains('#'), "Selecting specific element in link: {l}");
+                        assert!(!l.contains('?'), "Passing query parameters in link: {l}");
                         assert!(!seen_links.contains(l), "Duplicate link: {l}");
                         seen_links.insert(l);
                     };
@@ -202,6 +203,7 @@ mod tests {
                 assert!(images.len() > 2, "Less than 2 image links provided");
                 images.iter().for_each(|img| {
                     assert!(!seen_links.contains(img), "Duplicate link: {img}");
+                    assert!(!img.contains('?'), "Passing query parameters in image link: {img}");
                     seen_links.insert(img);
                 });
 

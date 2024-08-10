@@ -32,7 +32,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Stonehenge",
       "britannica": "https://www.britannica.com/place/Stonehenge",
-      "google_maps": "https://www.google.com/maps/place/Stonehenge/@51.1789754,-1.8291006,16.67z/data=!4m6!3m5!1s0x4873e63b850af611:0x979170e2bcd3d2dd!8m2!3d51.178882!4d-1.826215!16zL20vMDZ3Zmc?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Stonehenge/@51.1789754,-1.8291006,16.67z/data=!4m6!3m5!1s0x4873e63b850af611:0x979170e2bcd3d2dd!8m2!3d51.178882!4d-1.826215!16zL20vMDZ3Zmc",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186414-d188527-Reviews-Stonehenge-Salisbury_Wiltshire_England.html",
       "images": [
         "https://cdn.britannica.com/01/153601-050-CC20C4EB/Stonehenge-Salisbury-Plain-England-Wiltshire.jpg",
@@ -55,12 +55,12 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Newgrange",
       "britannica": "https://www.britannica.com/place/Newgrange",
-      "google_maps": "https://www.google.com/maps/place/Newgrange/@53.694715,-6.478072,17z/data=!3m1!4b1!4m6!3m5!1s0x48673862a2daed2f:0xcc850ffdbed08c17!8m2!3d53.6947119!4d-6.4754917!16zL20vMDFicXp5?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Newgrange/@53.694715,-6.478072,17z/data=!3m1!4b1!4m6!3m5!1s0x48673862a2daed2f:0xcc850ffdbed08c17!8m2!3d53.6947119!4d-6.4754917!16zL20vMDFicXp5",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g804266-d10326114-Reviews-Newgrange-Donore_County_Meath.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/0/0f/Irelands_history.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/0/00/Newgrange%2C_Meath.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7c/5b/2d/the-burial-mound.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7c/5b/2d/the-burial-mound.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/8/88/Wakeman_Newgrange_tumulus_chamber_cross_section.png"
       ]
     },
@@ -75,12 +75,12 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
       "britannica": "https://www.britannica.com/place/lighthouse-of-Alexandria",
-      "google_maps": "https://www.google.com/maps/place/Lighthouse+of+Alexandria/@34.4561224,-65.4230684,4z/data=!4m10!1m2!2m1!1sLighthouse+of+Alexandria!3m6!1s0x14f5c59b6eccdc31:0x39a6e16955846edf!8m2!3d31.214191!4d29.8913121!15sChhMaWdodGhvdXNlIG9mIEFsZXhhbmRyaWGSARNoaXN0b3JpY2FsX2xhbmRtYXJr4AEA!16s%2Fg%2F11t8d9z365?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Lighthouse+of+Alexandria/@34.4561224,-65.4230684,4z/data=!4m10!1m2!2m1!1sLighthouse+of+Alexandria!3m6!1s0x14f5c59b6eccdc31:0x39a6e16955846edf!8m2!3d31.214191!4d29.8913121!15sChhMaWdodGhvdXNlIG9mIEFsZXhhbmRyaWGSARNoaXN0b3JpY2FsX2xhbmRtYXJr4AEA!16s%2Fg%2F11t8d9z365",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g295398-d6475508-Reviews-Lighthouse_of_Alexandria-Alexandria_Alexandria_Governorate.html",
       "images": [
         "https://cdn.britannica.com/07/172307-050-4D3BA855/Pharos-Alexandria.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/2/22/Lighthouse_-_Thiersch.png",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/84/03/f8/caption.jpg?w=1200&h=-1&s=1"
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/84/03/f8/caption.jpg"
       ]
     },
     "categories": [
@@ -97,7 +97,7 @@
     "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon",
-      "britannica": "https://www.britannica.com/place/Remains+of+the+Hanging+Gardens+of+Babylon/@32.5440146,44.4178854,17z/data=!3m1!4b1!4m6!3m5!1s0x1558fdd71dd08931:0x6fe5866e28155e9a!8m2!3d32.5440101!4d44.4204657!16zL20vMGhtOGc?entry=ttu",
+      "britannica": "https://www.britannica.com/place/Remains+of+the+Hanging+Gardens+of+Babylon/@32.5440146,44.4178854,17z/data=!3m1!4b1!4m6!3m5!1s0x1558fdd71dd08931:0x6fe5866e28155e9a!8m2!3d32.5440101!4d44.4204657!16zL20vMGhtOGc",
       "google_maps": null,
       "trip_advisor": null,
       "images": [
@@ -121,12 +121,12 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Hagia_Sophia",
       "britannica": "https://www.britannica.com/place/Hagia-Sophia",
-      "google_maps": "https://www.google.com/maps/place/Hagia+Sophia+Grand+Mosque/@41.0085869,28.9752987,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9be92011c27:0x236e6f6f37444fae!8m2!3d41.008583!4d28.980175!16zL20vMGJyNXE?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Hagia+Sophia+Grand+Mosque/@41.0085869,28.9752987,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9be92011c27:0x236e6f6f37444fae!8m2!3d41.008583!4d28.980175!16zL20vMGJyNXE",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g293974-d294497-Reviews-Hagia_Sophia_Mosque-Istanbul.html",
       "images": [
         "https://cdn.britannica.com/03/189803-050-871B95C4/Hagia-Sophia-Istanbul.jpg",
         "https://cdn.britannica.com/58/93158-050-7719EB2B/view-Blue-Mosque-Istanbul-Hagia-Sophia.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/7f/77/72/caption.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/7f/77/72/caption.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hagia_Sophia%2C_Constantinople%2C_Turkey%2C_ca._1897.jpg"
       ]
     },
@@ -144,7 +144,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
       "britannica": "https://www.britannica.com/place/Colossus-of-Rhodes",
-      "google_maps": "https://www.google.com/maps/place/Colossus+of+Rhodes/@36.4510475,28.2232986,17z/data=!3m1!4b1!4m6!3m5!1s0x1495619a72df1397:0xe0e598a70e6bd9c6!8m2!3d36.4510432!4d28.2258789!16s%2Fg%2F11fl5qn36d?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Colossus+of+Rhodes/@36.4510475,28.2232986,17z/data=!3m1!4b1!4m6!3m5!1s0x1495619a72df1397:0xe0e598a70e6bd9c6!8m2!3d36.4510432!4d28.2258789!16s%2Fg%2F11fl5qn36d",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g635613-d199078-Reviews-Colossus_of_Rhodes-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html",
       "images": [
         "https://cdn.britannica.com/81/39481-050-48B24E02/conception-Artist-Chares-of-Lindos-Colossus-Rhodes-1875.jpg",
@@ -167,12 +167,12 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia",
       "britannica": "https://www.britannica.com/place/Statue-of-Zeus",
-      "google_maps": "https://www.google.com/maps/place/Statue+of+Zeus+at+Olympia/@37.6446189,21.6233446,17z/data=!3m1!4b1!4m6!3m5!1s0x136093d9fcbe23df:0xc04fa5eb15ec28a7!8m2!3d37.6446147!4d21.6259249!16s%2Fg%2F11s37fgvhf?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Statue+of+Zeus+at+Olympia/@37.6446189,21.6233446,17z/data=!3m1!4b1!4m6!3m5!1s0x136093d9fcbe23df:0xc04fa5eb15ec28a7!8m2!3d37.6446147!4d21.6259249!16s%2Fg%2F11s37fgvhf",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189487-d24187996-Reviews-Statue_Of_Zeus_At_Olympia-Olympia_Elis_Region_West_Greece.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg",
         "https://cdn.britannica.com/68/168968-050-B7EB85D5/Statue-Zeus-Olympia.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/14/0d/2d/statue-of-zeus-at-olympia.jpg?w=1100&h=-1&s=1"
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/14/0d/2d/statue-of-zeus-at-olympia.jpg"
       ]
     },
     "categories": [
@@ -190,7 +190,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Temple_of_Artemis",
       "britannica": "https://www.britannica.com/place/Temple-of-Artemis-temple-Ephesus-Turkey",
-      "google_maps": "https://www.google.com/maps/place/The+Temple+of+Artemis/@37.95203,27.3722712,15.67z/data=!4m6!3m5!1s0x14b94d56fca57281:0xfaa6e359607f4524!8m2!3d37.9495785!4d27.3639125!16zL20vMGo0dl8?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/The+Temple+of+Artemis/@37.95203,27.3722712,15.67z/data=!4m6!3m5!1s0x14b94d56fca57281:0xfaa6e359607f4524!8m2!3d37.9495785!4d27.3639125!16zL20vMGo0dl8",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g293976-d318896-Reviews-The_Temple_of_Artemis-Selcuk_Izmir_Province_Turkish_Aegean_Coast.html",
       "images": [
         "https://cdn.britannica.com/51/168951-050-FF56AB5F/Temple-of-Artemis-Ephesus.jpg",
@@ -213,7 +213,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
       "britannica": "https://www.britannica.com/place/Golden-Gate-Bridge",
-      "google_maps": "https://www.google.com/maps/place/Golden+Gate+Bridge/@37.8199109,-122.4785598,17z/data=!3m1!4b1!4m6!3m5!1s0x808586deffffffc3:0xcded139783705509!8m2!3d37.8199109!4d-122.4785598!16zL20vMDM1cDM?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Golden+Gate+Bridge/@37.8199109,-122.4785598,17z/data=!3m1!4b1!4m6!3m5!1s0x808586deffffffc3:0xcded139783705509!8m2!3d37.8199109!4d-122.4785598!16zL20vMDM1cDM",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60713-d104675-Reviews-Golden_Gate_Bridge-San_Francisco_California.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
@@ -236,12 +236,12 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/CN_Tower",
       "britannica": "https://www.britannica.com/place/CN-Tower",
-      "google_maps": "https://www.google.com/maps/place/CN+Tower/@43.6425701,-79.3896371,17z/data=!3m2!4b1!5s0x882b34d819a55ff7:0xad7cf7bcaf4e239b!4m6!3m5!1s0x882b34d68bf33a9b:0x15edd8c4de1c7581!8m2!3d43.6425662!4d-79.3870568!16zL20vMDF0d3M?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/CN+Tower/@43.6425701,-79.3896371,17z/data=!3m2!4b1!5s0x882b34d819a55ff7:0xad7cf7bcaf4e239b!4m6!3m5!1s0x882b34d68bf33a9b:0x15edd8c4de1c7581!8m2!3d43.6425662!4d-79.3870568!16zL20vMDF0d3M",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g155019-d155483-Reviews-CN_Tower-Toronto_Ontario.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/2/2d/Toronto_-_ON_-_CN_Tower_bei_Nacht2.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7a/7f/df/photo1jpg.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7a/7f/df/photo1jpg.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/0/0b/CN_Tower_under_construction.jpg"
       ]
     },
@@ -302,12 +302,12 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Panama_Canal",
       "britannica": "https://www.britannica.com/place/Panama-Canal",
-      "google_maps": "https://www.google.com/maps/place/Panama+Canal/@9.1440091,-80.040663,11z/data=!3m1!4b1!4m6!3m5!1s0x8fab5f4b31cd492d:0xd9dd11e7a14a0960!8m2!3d9.1223491!4d-79.7311627!16zL20vMDY2cmw?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Panama+Canal/@9.1440091,-80.040663,11z/data=!3m1!4b1!4m6!3m5!1s0x8fab5f4b31cd492d:0xd9dd11e7a14a0960!8m2!3d9.1223491!4d-79.7311627!16zL20vMDY2cmw",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294480-d299921-Reviews-Panama_Canal-Panama_City_Panama_Province.html",
       "images": [
         "https://cdn.britannica.com/81/13081-050-9C3E9E28/Passenger-cruise-ship-Panama-Canal.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/3/32/New_Panama_Canal.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9c/1d/fc/transito-por-la-8-maravilla.jpg?w=800&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9c/1d/fc/transito-por-la-8-maravilla.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/f/f3/Missouri_panama_canal.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/5/5a/SS_Ancon_entering_west_chamber_cph.3b17471u.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panama_Canal_Map_EN.png/288px-Panama_Canal_Map_EN.png"
@@ -327,7 +327,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Empire_State_Building",
       "britannica": "https://www.britannica.com/place/Empire-State-Building",
-      "google_maps": "https://www.google.com/maps/place/Empire+State+Building/@40.7484405,-73.9856644,16z/data=!3m1!4b1!4m6!3m5!1s0x89c259a9b3117469:0xd134e199a405a163!8m2!3d40.7484405!4d-73.9856644!16zL20vMDJuZF8?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Empire+State+Building/@40.7484405,-73.9856644,16z/data=!3m1!4b1!4m6!3m5!1s0x89c259a9b3117469:0xd134e199a405a163!8m2!3d40.7484405!4d-73.9856644!16zL20vMDJuZF8",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60763-d104365-Reviews-Empire_State_Building-New_York_City_New_York.html",
       "images": [
         "https://cdn.britannica.com/73/114973-050-2DC46083/Midtown-Manhattan-Empire-State-Building-New-York.jpg",
@@ -350,11 +350,11 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Itaipu_Dam",
       "britannica": "https://www.britannica.com/place/Itaipu-Dam",
-      "google_maps": "https://www.google.com/maps/place/PRESA+DE+ITAIPU,+100524,+Paraguay/@-25.4073348,-54.5935624,15.67z/data=!4m6!3m5!1s0x94f69cb919f7f28b:0x48c1e74cf3a5146d!8m2!3d-25.4072386!4d-54.5947552!16zL20vMGo4bDU?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/PRESA+DE+ITAIPU,+100524,+Paraguay/@-25.4073348,-54.5935624,15.67z/data=!4m6!3m5!1s0x94f69cb919f7f28b:0x48c1e74cf3a5146d!8m2!3d-25.4072386!4d-54.5947552!16zL20vMGo4bDU",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g303444-d318113-Reviews-Itaipu_Dam-Foz_do_Iguacu_State_of_Parana.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d2/Itaipu_geral.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/18/6b/79/photo0jpg.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/18/6b/79/photo0jpg.jpg",
         "https://cdn.britannica.com/58/1758-050-F33B1845/Itaipu-Dam-Upper-Parana-River-Paraguay-Ciudad.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/3/3a/Itaipu_3285.jpg"
       ]
@@ -372,7 +372,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus",
       "britannica": "https://www.britannica.com/topic/Mausoleum-of-Halicarnassus",
-      "google_maps": "https://www.google.com/maps/place/Mausoleum+at+Halicarnassus/@37.0378917,27.4215361,17z/data=!3m1!4b1!4m6!3m5!1s0x14be6c4712970997:0x5ea4619a942df9d1!8m2!3d37.0378874!4d27.4241164!16zL20vMGo0d2g?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Mausoleum+at+Halicarnassus/@37.0378917,27.4215361,17z/data=!3m1!4b1!4m6!3m5!1s0x14be6c4712970997:0x5ea4619a942df9d1!8m2!3d37.0378874!4d27.4241164!16zL20vMGo0d2g",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298658-d2177923-Reviews-Mausoleum_of_Halicarnassus-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aeg.html",
       "images": [
         "https://cdn.britannica.com/60/168960-050-766C48B3/Artist-re-creation-Mausoleum-of-Halicarnassus.jpg",
@@ -396,12 +396,12 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
       "britannica": "https://www.britannica.com/place/Library-of-Alexandria",
-      "google_maps": "https://www.google.com/maps/place/Alexandria+Bibliotheca/@31.2087701,29.9050013,17z/data=!4m6!3m5!1s0x14f5c38a0562fe85:0xa34cc632ec23e7!8m2!3d31.2089032!4d29.9091587!16zL20vMDF4NjNz?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Alexandria+Bibliotheca/@31.2087701,29.9050013,17z/data=!4m6!3m5!1s0x14f5c38a0562fe85:0xa34cc632ec23e7!8m2!3d31.2089032!4d29.9091587!16zL20vMDF4NjNz",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g295398-d459934-Reviews-Bibliotheca_Alexandrina-Alexandria_Alexandria_Governorate.html",
       "images": [
         "https://cdn.britannica.com/51/124251-050-0CD79A27/Illustration-Library-of-Alexandria-Egypt.jpg",
-        "https://api.time.com/wp-content/uploads/2020/11/alexandria.jpg?quality=85&w=2400",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/53/ba/21/photo2jpg.jpg?w=1100&h=-1&s=1",
+        "https://api.time.com/wp-content/uploads/2020/11/alexandria.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/53/ba/21/photo2jpg.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/7/70/CW_BibliotechaAlexandrina_Inside.jpg"
       ]
     },
@@ -419,7 +419,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
       "britannica": "https://www.britannica.com/place/Great-Wall-of-China",
-      "google_maps": "https://www.google.com/maps/place/Great+Wall+of+China/@40.4319118,116.5677946,17z/data=!3m1!4b1!4m6!3m5!1s0x35f121d7687f2ccf:0xd040259b950522df!8m2!3d40.4319077!4d116.5703749!16zL20vMGQyZHEw?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Great+Wall+of+China/@40.4319118,116.5677946,17z/data=!3m1!4b1!4m6!3m5!1s0x35f121d7687f2ccf:0xd040259b950522df!8m2!3d40.4319077!4d116.5703749!16zL20vMGQyZHEw",
       "trip_advisor": null,
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
@@ -443,11 +443,11 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Colosseum",
       "britannica": "https://www.britannica.com/place/Colosseum",
-      "google_maps": "https://www.google.com/maps/place/Colosseum/@41.8902102,12.4922309,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b6532013ad:0x28f1c82e908503c4!8m2!3d41.8902102!4d12.4922309!16zL20vMGQ1cXg?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Colosseum/@41.8902102,12.4922309,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b6532013ad:0x28f1c82e908503c4!8m2!3d41.8902102!4d12.4922309!16zL20vMGQ1cXg",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187791-d192285-Reviews-Colosseum-Rome_Lazio.html",
       "images": [
         "https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f0/6b/18/gita-fuori-porta-avevo.jpg?w=1100&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f0/6b/18/gita-fuori-porta-avevo.jpg",
         "https://cdn.britannica.com/03/98303-050-C8036C9D/Interior-Colosseum-Rome.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/3/3d/Frith%2C_Francis_%281822-1898%29_-_Roma_-_Interno_del_Colosseo.jpg"
       ]
@@ -467,7 +467,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Chichen_Itza",
       "britannica": "https://www.britannica.com/place/Chichen-Itza",
-      "google_maps": "https://www.google.com/maps/place/97751+Chichén-Itzá,+Yucatan,+Mexico/@20.6787866,-88.5710572,17z/data=!3m1!4b1!4m6!3m5!1s0x8f5138b9a098f833:0xf70a67530750d45!8m2!3d20.6791438!4d-88.5683091!16s%2Fg%2F11c5m40nz9?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/97751+Chichén-Itzá,+Yucatan,+Mexico/@20.6787866,-88.5710572,17z/data=!3m1!4b1!4m6!3m5!1s0x8f5138b9a098f833:0xf70a67530750d45!8m2!3d20.6791438!4d-88.5683091!16s%2Fg%2F11c5m40nz9",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g150808-d153407-Reviews-Chichen_Itza-Chichen_Itza_Yucatan_Peninsula.html",
       "images": [
         "https://cdn.britannica.com/60/92960-050-327CF926/pyramid-Mayan-Chichen-Itza-Mex.jpg",
@@ -491,13 +491,13 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
       "britannica": "https://www.britannica.com/place/Leaning-Tower-of-Pisa",
-      "google_maps": "https://www.google.com/maps/place/Tower+of+Pisa/@43.7229558,10.3940167,17z/data=!3m1!4b1!4m6!3m5!1s0x12d591a6c44e88cd:0x32eca9b1d554fc03!8m2!3d43.722952!4d10.396597!16zL20vMGNuNDY?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Tower+of+Pisa/@43.7229558,10.3940167,17z/data=!3m1!4b1!4m6!3m5!1s0x12d591a6c44e88cd:0x32eca9b1d554fc03!8m2!3d43.722952!4d10.396597!16zL20vMGNuNDY",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187899-d195452-Reviews-Leaning_Tower_of_Pisa-Pisa_Province_of_Pisa_Tuscany.html",
       "images": [
         "https://cdn.britannica.com/88/80588-050-8D944BFE/Leaning-Tower-of-Pisa-Italy.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/9/9d/Italy_-_Pisa_-_Cathedral_Square.jpg",
         "https://cdn.britannica.com/02/152202-050-4D73E046/Leaning-Tower-of-Pisa-cathedral-Italy.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/53/28/1e/torre-e-cattedrale.jpg?w=1200&h=-1&s=1"
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/53/28/1e/torre-e-cattedrale.jpg"
       ]
     },
     "categories": [
@@ -513,7 +513,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Porcelain_Tower_of_Nanjing",
       "britannica": null,
-      "google_maps": "https://www.google.com/maps/place/Porcelain+Tower+of+Nanjing/@32.009386,118.783343,17z/data=!4m6!3m5!1s0x35b58c13830e69c5:0xa25684f8371aef19!8m2!3d32.009386!4d118.783343!16zL20vMDRkYnZz?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Porcelain+Tower+of+Nanjing/@32.009386,118.783343,17z/data=!4m6!3m5!1s0x35b58c13830e69c5:0xa25684f8371aef19!8m2!3d32.009386!4d118.783343!16zL20vMDRkYnZz",
       "trip_advisor": null,
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/9/9a/UB_Maastricht_-_Nieuhof_1665_-_Toren.jpg",
@@ -534,7 +534,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Machu_Picchu",
       "britannica": "https://www.britannica.com/place/Machu-Picchu",
-      "google_maps": "https://www.google.com/maps/place/Historic+Sanctuary+of+Machu+Picchu/@-13.1631936,-72.5478424,17z/data=!3m1!4b1!4m6!3m5!1s0x916d9a5f89555555:0x3a10370ea4a01a27!8m2!3d-13.1631988!4d-72.5452621!16zL20vMGtyZnk?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Historic+Sanctuary+of+Machu+Picchu/@-13.1631936,-72.5478424,17z/data=!3m1!4b1!4m6!3m5!1s0x916d9a5f89555555:0x3a10370ea4a01a27!8m2!3d-13.1631988!4d-72.5452621!16zL20vMGtyZnk",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294318-d668949-Reviews-Santuario_Historico_de_Machu_Picchu-Machu_Picchu_Sacred_Valley_Cusco_Region.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
@@ -558,7 +558,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
       "britannica": "https://www.britannica.com/place/Christ-the-Redeemer",
-      "google_maps": "https://www.google.com/maps/place/Christ+the+Redeemer/@-22.951916,-43.2104872,17z/data=!3m1!4b1!4m6!3m5!1s0x997fd5984aa13f:0x9dc984d7019502de!8m2!3d-22.951916!4d-43.2104872!16zL20vMDNneXR3?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Christ+the+Redeemer/@-22.951916,-43.2104872,17z/data=!3m1!4b1!4m6!3m5!1s0x997fd5984aa13f:0x9dc984d7019502de!8m2!3d-22.951916!4d-43.2104872!16zL20vMDNneXR3",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g303506-d554128-Reviews-Corcovado_Christ_the_Redeemer-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
@@ -582,7 +582,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Petra",
       "britannica": "https://www.britannica.com/place/Petra-ancient-city-Jordan",
-      "google_maps": "https://www.google.com/maps/place/Petra/@30.320645,35.4728339,15z/data=!4m15!1m8!3m7!1s0x15016930021ab6b1:0xe43a697bc3a3e0b9!2sWadi+Musa,+Jordan!3b1!8m2!3d30.3216354!4d35.4801251!16s%2Fm%2F03nx74h!3m5!1s0x15016ef1703b6071:0x199bf908679a2291!8m2!3d30.3284544!4d35.4443622!16zL20vMGM3enk?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Petra/@30.320645,35.4728339,15z/data=!4m15!1m8!3m7!1s0x15016930021ab6b1:0xe43a697bc3a3e0b9!2sWadi+Musa,+Jordan!3b1!8m2!3d30.3216354!4d35.4801251!16s%2Fm%2F03nx74h!3m5!1s0x15016ef1703b6071:0x199bf908679a2291!8m2!3d30.3284544!4d35.4443622!16zL20vMGM3enk",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g318895-d319461-Reviews-Petra-Petra_Wadi_Musa_Ma_an_Governorate.html",
       "images": [
         "https://cdn.britannica.com/24/153524-050-BA9D084B/Al-Dayr-Petra-Jordan.jpg",
@@ -607,7 +607,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Taj_Mahal",
       "britannica": "https://www.britannica.com/place/Taj-Mahal",
-      "google_maps": "https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0421422,17z/data=!3m1!4b1!4m6!3m5!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422!16zL20vMGw4Y2I?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0421422,17z/data=!3m1!4b1!4m6!3m5!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422!16zL20vMGw4Y2I",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297683-d317329-Reviews-Taj_Mahal-Agra_Agra_District_Uttar_Pradesh.html",
       "images": [
         "https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg",
@@ -631,7 +631,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Hoover_Dam",
       "britannica": "https://www.britannica.com/place/Hoover-Dam",
-      "google_maps": "https://www.google.com/maps/place/Hoover+Dam/@36.0122842,-114.7446764,15.33z/data=!4m6!3m5!1s0x80c92b497f82a14b:0x89d59d0bd29de37!8m2!3d36.0160655!4d-114.7377325!16zL20vMDNxNGs?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Hoover+Dam/@36.0122842,-114.7446764,15.33z/data=!4m6!3m5!1s0x80c92b497f82a14b:0x89d59d0bd29de37!8m2!3d36.0160655!4d-114.7377325!16zL20vMDNxNGs",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60881-d150546-Reviews-Hoover_Dam-Boulder_City_Nevada.html",
       "images": [
         "https://cdn.britannica.com/58/156458-050-68649A2F/Hoover-Dam-border-Colorado-River-Arizona-Nevada.jpg",
@@ -652,7 +652,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Potala_Palace",
       "britannica": "https://www.britannica.com/place/Potala-Palace",
-      "google_maps": "https://www.google.com/maps/place/Potala+Palace/@29.6554988,91.1159989,17z/data=!3m1!4b1!4m6!3m5!1s0x3761317244846eab:0x4ae80d857ec10c19!8m2!3d29.6554942!4d91.1185792!16zL20vMDJkYnd3?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Potala+Palace/@29.6554988,91.1159989,17z/data=!3m1!4b1!4m6!3m5!1s0x3761317244846eab:0x4ae80d857ec10c19!8m2!3d29.6554942!4d91.1185792!16zL20vMDJkYnd3",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294223-d319162-Reviews-Potala_Palace-Lhasa_Tibet.html",
       "images": [
         "https://cdn.britannica.com/79/178679-050-9170BD2A/Potala-Palace-Lhasa-China-Tibet-Autonomous-Region.jpg",
@@ -675,13 +675,13 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Temple_of_Apollo_(Delphi)",
       "britannica": "https://www.britannica.com/place/Delphic-oracle",
-      "google_maps": "https://www.google.com/maps/place/Temple+of+Apollo/@38.4822382,22.4986371,17z/data=!3m1!4b1!4m6!3m5!1s0x135f795df19312c5:0x8f8b1b0a7341450!8m2!3d38.482234!4d22.5012174!16s%2Fg%2F120phd2x?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Temple+of+Apollo/@38.4822382,22.4986371,17z/data=!3m1!4b1!4m6!3m5!1s0x135f795df19312c5:0x8f8b1b0a7341450!8m2!3d38.482234!4d22.5012174!16s%2Fg%2F120phd2x",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189408-d199058-Reviews-Temple_of_Apollo-Delphi_Phocis_Region_Central_Greece.html",
       "images": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/21/5e/a7/the-sanctuary-of-athena.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/21/5e/a7/the-sanctuary-of-athena.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/6/6a/Delphi_Temple_of_Apollo.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/6/68/Temple_of_Apollo_at_Delphi_Panoramic.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/08/ab/ab/20160920-144147-largejpg.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/08/ab/ab/20160920-144147-largejpg.jpg",
         "https://cdn.britannica.com/46/242246-050-98F0DF76/The-Oracle-painting-Camillo-Miola-Delphic-oracle-Pythia.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sanctuary_of_Delphi_-_Reconstruction_-_Temple_of_Apollo.jpg"
       ]
@@ -700,14 +700,14 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Parthenon",
       "britannica": "https://www.britannica.com/place/Parthenon",
-      "google_maps": "https://www.google.com/maps/place/Parthenon/@37.9715327,23.7241363,16z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd19ca39ee61:0x1b3fa079b878a218!8m2!3d37.9715285!4d23.7267166!16zL20vMDV4N2I?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Parthenon/@37.9715327,23.7241363,16z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd19ca39ee61:0x1b3fa079b878a218!8m2!3d37.9715285!4d23.7267166!16zL20vMDV4N2I",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189400-d198711-Reviews-Parthenon-Athens_Attica.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
         "https://cdn.britannica.com/53/150953-050-2E0836EB/Parthenon-Acropolis-Athens.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/c/c7/Parthenon_XL.jpg",
-        "https://cdn.britannica.com/53/13653-004-397B28E3/Acropolis-Athens-half-Parthenon-left-Erechtheum-centre.jpg?s=1500x700&q=85"
+        "https://cdn.britannica.com/53/13653-004-397B28E3/Acropolis-Athens-half-Parthenon-left-Erechtheum-centre.jpg"
       ]
     },
     "categories": [
@@ -723,7 +723,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Terracotta_Army",
       "britannica": "https://www.britannica.com/place/terra-cotta-army",
-      "google_maps": "https://www.google.com/maps/place/Emperor+Qinshihuang's+Mausoleum+Site+Museum/@34.3838861,109.2768806,16.67z/data=!4m6!3m5!1s0x3664a72d821403a3:0xc3e33e74e9e33fc7!8m2!3d34.3841153!4d109.2784918!16zL20vMDEzMXBx?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Emperor+Qinshihuang's+Mausoleum+Site+Museum/@34.3838861,109.2768806,16.67z/data=!4m6!3m5!1s0x3664a72d821403a3:0xc3e33e74e9e33fc7!8m2!3d34.3841153!4d109.2784918!16zL20vMDEzMXBx",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298557-d27099604-Terracotta_Army_Ticket-Xi_an_Shaanxi.html",
       "images": [
         "https://cdn.britannica.com/28/153528-050-250EA620/Xian-Terra-cotta-soldiers-tomb-Qin-China-Shaanxi.jpg",
@@ -747,7 +747,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Alhambra",
       "britannica": "https://www.britannica.com/topic/Alhambra-fortress-Granada-Spain",
-      "google_maps": "https://www.google.com/maps/place/Alhambra/@37.1760783,-3.5881413,17z/data=!3m1!4b1!4m6!3m5!1s0xd71fcb7977fb93b:0x808dd1ef1221a27f!8m2!3d37.1760783!4d-3.5881413!16zL20vMDdoX2o?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Alhambra/@37.1760783,-3.5881413,17z/data=!3m1!4b1!4m6!3m5!1s0xd71fcb7977fb93b:0x808dd1ef1221a27f!8m2!3d37.1760783!4d-3.5881413!16zL20vMDdoX2o",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187441-d191078-Reviews-The_Alhambra-Granada_Province_of_Granada_Andalucia.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
@@ -771,12 +771,12 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Angkor_Wat",
       "britannica": "https://www.britannica.com/topic/Angkor-Wat",
-      "google_maps": "https://www.google.com/maps/place/Angkor+Wat/@13.4124745,103.8644054,17z/data=!3m1!4b1!4m6!3m5!1s0x3110168aea9a272d:0x3eaba81157b0418d!8m2!3d13.4124693!4d103.8669857!16zL20vMDE5eGZs?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Angkor+Wat/@13.4124745,103.8644054,17z/data=!3m1!4b1!4m6!3m5!1s0x3110168aea9a272d:0x3eaba81157b0418d!8m2!3d13.4124693!4d103.8669857!16zL20vMDE5eGZs",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297390-d317907-Reviews-Angkor_Wat-Siem_Reap_Siem_Reap_Province.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg",
         "https://cdn.britannica.com/56/122156-050-F5B469C8/overview-complex-Angkor-Wat-Cambodia.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/6f/a9/24/angkor-wat.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/6f/a9/24/angkor-wat.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/8/82/Angkor_Vat_%286931599619%29.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/1/1b/De_drie_torens_van_den_tempel_van_Angkor-Wat.jpg"
       ]
@@ -795,7 +795,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Borobudur",
       "britannica": "https://www.britannica.com/topic/Borobudur",
-      "google_maps": "https://www.google.com/maps/place/Borobudur+Temple/@-7.6078738,110.2037513,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a8cf009a7d697:0xdd34334744dc3cb!8m2!3d-7.6078738!4d110.2037513!16zL20vMDFoemNq?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Borobudur+Temple/@-7.6078738,110.2037513,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a8cf009a7d697:0xdd34334744dc3cb!8m2!3d-7.6078738!4d110.2037513!16zL20vMDFoemNq",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g790291-d320054-Reviews-Borobudur_Temple-Borobudur_Magelang_Central_Java_Java.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/2/25/Pradaksina.jpg",
@@ -818,12 +818,12 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
       "britannica": "https://www.britannica.com/facts/Djenne",
-      "google_maps": "https://www.google.com/maps/place/Great+Mosque+of+Djenne/@13.9051742,-4.5579958,17z/data=!3m1!4b1!4m6!3m5!1s0xe384870ed97208b:0x929503daad9aba1e!8m2!3d13.905169!4d-4.5554155!16zL20vMDM0OGRo?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Great+Mosque+of+Djenne/@13.9051742,-4.5579958,17z/data=!3m1!4b1!4m6!3m5!1s0xe384870ed97208b:0x929503daad9aba1e!8m2!3d13.905169!4d-4.5554155!16zL20vMDM0OGRo",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g480205-d325056-Reviews-Great_Mosque_Of_Djenne-Djenne_Mopti_Region.html",
       "images": [
         "https://cdn.britannica.com/17/153517-050-2342FED7/market-mosque-Mali-Djenne.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ef/24/25/djenne-mosque.jpg?w=900&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/72/d1/88/moschee-djenne.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ef/24/25/djenne-mosque.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/72/d1/88/moschee-djenne.jpg",
         "https://cdn.britannica.com/18/153518-050-9ACB5E27/Mosque-Djenne-Mali.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/9/90/Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/d/d9/Djenne_Fortier_413_-_Ruines_de_l%27ancienne_Mosqu%C3%A9e.jpg"
@@ -842,7 +842,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
       "britannica": "https://www.britannica.com/topic/Notre-Dame-de-Paris",
-      "google_maps": "https://www.google.com/maps/place/Cath%C3%A9drale+Notre-Dame+de+Paris/@48.8529682,2.3499021,17z/data=!3m1!4b1!4m6!3m5!1s0x47e671e19ff53a01:0x36401da7abfa068d!8m2!3d48.8529682!4d2.3499021!16zL20vMGd0eGg?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Cath%C3%A9drale+Notre-Dame+de+Paris/@48.8529682,2.3499021,17z/data=!3m1!4b1!4m6!3m5!1s0x47e671e19ff53a01:0x36401da7abfa068d!8m2!3d48.8529682!4d2.3499021!16zL20vMGd0eGg",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187147-d188679-Reviews-Cathedrale_Notre_Dame_de_Paris-Paris_Ile_de_France.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg",
@@ -865,7 +865,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Forbidden_City",
       "britannica": "https://www.britannica.com/topic/Forbidden-City",
-      "google_maps": "https://www.google.com/maps/place/The+Palace+Museum/@39.9163447,116.3971546,17z/data=!3m1!4b1!4m6!3m5!1s0x35f052dd9bcd81ab:0xde43eaed9b106064!8m2!3d39.9163447!4d116.3971546!16s%2Fm%2F02y_3j6?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/The+Palace+Museum/@39.9163447,116.3971546,17z/data=!3m1!4b1!4m6!3m5!1s0x35f052dd9bcd81ab:0xde43eaed9b106064!8m2!3d39.9163447!4d116.3971546!16s%2Fm%2F02y_3j6",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294212-d319086-Reviews-Forbidden_City_The_Palace_Museum-Beijing.html",
       "images": [
         "https://cdn.britannica.com/69/69-050-D30FED85/Forbidden-City-emperor-Ming-dynasty-Yonglo-Beijing.jpg",
@@ -889,7 +889,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Globe_Theatre",
       "britannica": "https://www.britannica.com/topic/Globe-Theatre",
-      "google_maps": "https://www.google.com/maps/place/Shakespeare's+Globe/@51.5080793,-0.0997743,17z/data=!3m1!4b1!4m6!3m5!1s0x487604a905ae1621:0xe700778eb8b2878e!8m2!3d51.508076!4d-0.097194!16s%2Fm%2F0403l_t?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Shakespeare's+Globe/@51.5080793,-0.0997743,17z/data=!3m1!4b1!4m6!3m5!1s0x487604a905ae1621:0xe700778eb8b2878e!8m2!3d51.508076!4d-0.097194!16s%2Fm%2F0403l_t",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186338-d187726-Reviews-Shakespeare_s_Globe_Theatre-London_England.html",
       "images": [
         "https://cdn.britannica.com/28/138628-050-0C853838/Globe-Theatre-London.jpg",
@@ -911,13 +911,13 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Himeji_Castle",
       "britannica": "https://www.britannica.com/topic/White-Heron-Castle",
-      "google_maps": "https://www.google.com/maps/place/Himeji+Castle/@34.839449,134.6939047,17z/data=!3m1!4b1!4m6!3m5!1s0x3554e003a23324b3:0x7a4f8c2f6eba81b1!8m2!3d34.839449!4d134.6939047!16zL20vMDE4bmN4?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Himeji+Castle/@34.839449,134.6939047,17z/data=!3m1!4b1!4m6!3m5!1s0x3554e003a23324b3:0x7a4f8c2f6eba81b1!8m2!3d34.839449!4d134.6939047!16zL20vMDE4bmN4",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298191-d320231-Reviews-Himeji_Castle-Himeji_Hyogo_Prefecture_Kinki.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/3/33/Ch%C3%A2teau_de_Himeji01.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/6/65/Himeji_Castle%2C_November_2016_-02.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/c/c1/Himeji_castle_in_may_2015.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/90/ac/f3/caption.jpg?w=1100&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/90/ac/f3/caption.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/1/11/Look_up_Ido_Kuruwa_in_Himeji_Castle.jpg"
       ]
     },
@@ -934,7 +934,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Red_Fort",
       "britannica": "https://www.britannica.com/topic/Red-Fort",
-      "google_maps": "https://www.google.com/maps/place/Red+Fort/@28.6561639,77.23844,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!8m2!3d28.6561592!4d77.2410203!16zL20vMDVteXN2?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Red+Fort/@28.6561639,77.23844,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!8m2!3d28.6561592!4d77.2410203!16zL20vMDVteXN2",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g304551-d319701-Reviews-Red_Fort-New_Delhi_National_Capital_Territory_of_Delhi.html",
       "images": [
         "https://cdn.britannica.com/20/189820-050-D650A54D/Red-Fort-Old-Delhi-India.jpg",
@@ -957,7 +957,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Sistine_Chapel",
       "britannica": "https://www.britannica.com/topic/Sistine-Chapel",
-      "google_maps": "https://www.google.com/maps/place/Sistine+Chapel/@41.9029508,12.4519032,17z/data=!3m1!4b1!4m6!3m5!1s0x132f6065c523afdb:0xab16c8877fb53e22!8m2!3d41.9029468!4d12.4544835!16zL20vMGtibHM?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Sistine+Chapel/@41.9029508,12.4519032,17z/data=!3m1!4b1!4m6!3m5!1s0x132f6065c523afdb:0xab16c8877fb53e22!8m2!3d41.9029468!4d12.4544835!16zL20vMGtibHM",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187793-d190130-Reviews-Sistine_Chapel-Vatican_City_Lazio.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/8/82/Sistina-interno.jpg",
@@ -980,7 +980,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Uffizi",
       "britannica": "https://www.britannica.com/topic/Uffizi-Gallery",
-      "google_maps": "https://www.google.com/maps/place/Uffizi+Galleries/@43.7677894,11.2527305,17z/data=!3m1!4b1!4m6!3m5!1s0x132a54008dc59081:0xcddeb7c89bf0c4cd!8m2!3d43.7677856!4d11.2553108!16zL20vMGNmanA?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Uffizi+Galleries/@43.7677894,11.2527305,17z/data=!3m1!4b1!4m6!3m5!1s0x132a54008dc59081:0xcddeb7c89bf0c4cd!8m2!3d43.7677856!4d11.2553108!16zL20vMGNmanA",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187895-d191153-Reviews-Gallerie_Degli_Uffizi-Florence_Tuscany.html",
       "images": [
         "https://cdn.britannica.com/69/194569-050-DBAD8934/Uffizi-Gallery-Florence.jpg",
@@ -1004,7 +1004,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Big_Ben",
       "britannica": "https://www.britannica.com/topic/Big-Ben-clock-London",
-      "google_maps": "https://www.google.com/maps/place/Big+Ben/@51.5007292,-0.1246254,17z/data=!3m1!4b1!4m6!3m5!1s0x487604c38c8cd1d9:0xb78f2474b9a45aa9!8m2!3d51.5007292!4d-0.1246254!16zL20vMDI2eWRj?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Big+Ben/@51.5007292,-0.1246254,17z/data=!3m1!4b1!4m6!3m5!1s0x487604c38c8cd1d9:0xb78f2474b9a45aa9!8m2!3d51.5007292!4d-0.1246254!16zL20vMDI2eWRj",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186338-d211709-Reviews-Big_Ben-London_England.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/4/43/Elizabeth_Tower%2C_June_2022.jpg",
@@ -1027,7 +1027,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
       "britannica": "https://www.britannica.com/topic/Brandenburg-Gate",
-      "google_maps": "https://www.google.com/maps/place/Brandenburg+Gate/@52.5162746,13.3777041,17z/data=!3m1!4b1!4m6!3m5!1s0x47a851c655f20989:0x26bbfb4e84674c63!8m2!3d52.5162746!4d13.3777041!16zL20vMDE0a2Y4?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Brandenburg+Gate/@52.5162746,13.3777041,17z/data=!3m1!4b1!4m6!3m5!1s0x47a851c655f20989:0x26bbfb4e84674c63!8m2!3d52.5162746!4d13.3777041!16zL20vMDE0a2Y4",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187323-d190518-Reviews-Brandenburg_Gate-Berlin.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/8/80/Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg",
@@ -1050,7 +1050,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Louvre",
       "britannica": "https://www.britannica.com/topic/Louvre-Museum",
-      "google_maps": "https://www.google.com/maps/place/Louvre+Museum/@48.8606145,2.3327677,16z/data=!3m1!4b1!4m6!3m5!1s0x47e671d877937b0f:0xb975fcfa192f84d4!8m2!3d48.8606111!4d2.337644!16zL20vMDRnZHI?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Louvre+Museum/@48.8606145,2.3327677,16z/data=!3m1!4b1!4m6!3m5!1s0x47e671d877937b0f:0xb975fcfa192f84d4!8m2!3d48.8606111!4d2.337644!16zL20vMDRnZHI",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187147-d188757-Reviews-Louvre_Museum-Paris_Ile_de_France.html",
       "images": [
         "https://cdn.britannica.com/02/121002-050-92DB902F/Louvre-Museum-pyramid-Paris-Pei-IM.jpg",
@@ -1074,11 +1074,11 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Broadway_theatre",
       "britannica": "https://www.britannica.com/topic/Broadway-street-and-district-New-York-City",
-      "google_maps": "https://www.google.com/maps/place/Broadway+Theatre/@40.7632524,-73.985719,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2585665784711:0x5bbfed74cc606bf6!8m2!3d40.7632484!4d-73.9831387!16zL20vMGJ6N2Jn?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Broadway+Theatre/@40.7632524,-73.985719,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2585665784711:0x5bbfed74cc606bf6!8m2!3d40.7632484!4d-73.9831387!16zL20vMGJ6N2Jn",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60763-d143361-Reviews-Broadway-New_York_City_New_York.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/5/56/Broadway_Theaters_45th_Street_Night.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/87/eb/86/photo3jpg.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/87/eb/86/photo3jpg.jpg",
         "https://cdn.britannica.com/16/192716-050-7559ADC0/Hamilton-Lin-Manuel-Miranda-Rodgers-Theater-on-2016.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/c/c4/Broadway_theatres_1920.jpg"
       ]
@@ -1097,7 +1097,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Eiffel_Tower",
       "britannica": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France",
-      "google_maps": "https://www.google.com/maps/place/Eiffel+Tower/@48.8583701,2.2944813,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0!8m2!3d48.8583701!4d2.2944813!16zL20vMDJqODE?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Eiffel+Tower/@48.8583701,2.2944813,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0!8m2!3d48.8583701!4d2.2944813!16zL20vMDJqODE",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187147-d188151-Reviews-Eiffel_Tower-Paris_Ile_de_France.html",
       "images": [
         "https://cdn.britannica.com/52/245552-050-3D7334F9/Eiffel-Tower-Paris.jpg",
@@ -1122,7 +1122,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Kremlin",
       "britannica": "https://www.britannica.com/topic/The-Kremlin",
-      "google_maps": "https://www.google.com/maps/place/The+Moscow+Kremlin/@55.7509544,37.6175755,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a50b315e573:0xa886bf5a3d9b2e68!8m2!3d55.7509544!4d37.6175755!16zL20vMDIxbHJ5?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/The+Moscow+Kremlin/@55.7509544,37.6175755,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a50b315e573:0xa886bf5a3d9b2e68!8m2!3d55.7509544!4d37.6175755!16zL20vMDIxbHJ5",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298515-d600733-Reviews-The_Kremlin-Nizhny_Novgorod_Nizhny_Novgorod_Oblast_Volga_District.html",
       "images": [
         "https://cdn.britannica.com/51/115451-050-3043FB8D/brick-walls-churches-government-Kremlin-buildings-palaces.jpg",
@@ -1147,7 +1147,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
       "britannica": "https://www.britannica.com/topic/Neuschwanstein-Castle",
-      "google_maps": "https://www.google.com/maps/place/Neuschwanstein+Castle/@47.5575776,10.7472201,17z/data=!3m1!4b1!4m6!3m5!1s0x479cf7cac44ea35d:0xc8a6866bd39dbba3!8m2!3d47.557574!4d10.7498004!16zL20vMDFqejF6?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Neuschwanstein+Castle/@47.5575776,10.7472201,17z/data=!3m1!4b1!4m6!3m5!1s0x479cf7cac44ea35d:0xc8a6866bd39dbba3!8m2!3d47.557574!4d10.7498004!16zL20vMDFqejF6",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g198564-d190837-Reviews-Schloss_Neuschwanstein-Schwangau_Upper_Bavaria_Bavaria.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg",
@@ -1169,11 +1169,11 @@
     "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Prora",
-      "google_maps": "https://www.google.com/maps/place/18609+Binz-Prora,+Germany/@54.4391506,13.5651496,15z/data=!3m1!4b1!4m6!3m5!1s0x47ab40955768de9d:0xa251aeb32315340!8m2!3d54.4390642!4d13.5747259!16s%2Fg%2F11bc5_py7x?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/18609+Binz-Prora,+Germany/@54.4391506,13.5651496,15z/data=!3m1!4b1!4m6!3m5!1s0x47ab40955768de9d:0xa251aeb32315340!8m2!3d54.4390642!4d13.5747259!16s%2Fg%2F11bc5_py7x",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/a/a7/20-07-06-Prora-RalfR-DJI_0120.jpg",
-        "https://i.insider.com/59f9e56c58a0c130008b4ce1?width=1000&format=jpeg&auto=webp",
-        "https://i.insider.com/5963a19ff50184b3078b5282?width=700&format=jpeg&auto=webp",
+        "https://i.insider.com/59f9e56c58a0c130008b4ce1",
+        "https://i.insider.com/5963a19ff50184b3078b5282",
         "https://upload.wikimedia.org/wikipedia/commons/3/3f/ProraLandseite.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/0/06/Flur_Zerstoerungen.JPG"
       ]
@@ -1191,7 +1191,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
       "britannica": "https://www.britannica.com/topic/Statue-of-Liberty",
-      "google_maps": "https://www.google.com/maps/place/Statue+of+Liberty/@40.6892494,-74.0445004,17z/data=!3m1!4b1!4m6!3m5!1s0x89c25090129c363d:0x40c6a5770d25022b!8m2!3d40.6892494!4d-74.0445004!16zL20vMDcycDg?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Statue+of+Liberty/@40.6892494,-74.0445004,17z/data=!3m1!4b1!4m6!3m5!1s0x89c25090129c363d:0x40c6a5770d25022b!8m2!3d40.6892494!4d-74.0445004!16zL20vMDcycDg",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60763-d103887-Reviews-Statue_of_Liberty-New_York_City_New_York.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/6/6b/Liberty_Island_photo_Don_Ramey_Logan.jpg",
@@ -1215,13 +1215,13 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/The_Pentagon",
       "britannica": "https://www.britannica.com/topic/Pentagon",
-      "google_maps": "https://www.google.com/maps/place/The+Pentagon/@38.8718568,-77.0562669,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b6df29ed2c27:0xaf83d0f8c013532f!8m2!3d38.8718568!4d-77.0562669!16zL20vMDl3M2I?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/The+Pentagon/@38.8718568,-77.0562669,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b6df29ed2c27:0xaf83d0f8c013532f!8m2!3d38.8718568!4d-77.0562669!16zL20vMDl3M2I",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g28970-d102530-Reviews-The_Pentagon-Washington_DC_District_of_Columbia.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_Pentagon_US_Department_of_Defense_building.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/a/a2/Aerial_Closeup_of_the_Pentagon%2C_May_11%2C_2021.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/d/db/Pentagon_Memorial-5089.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/65/3a/69/caption.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/65/3a/69/caption.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pentagon_construction.jpg"
       ]
     },
@@ -1238,7 +1238,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
       "britannica": "https://www.britannica.com/topic/Sydney-Opera-House",
-      "google_maps": "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567844,151.2152967,16z/data=!3m1!4b1!4m6!3m5!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967!16zL20vMDZfbm0?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567844,151.2152967,16z/data=!3m1!4b1!4m6!3m5!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967!16zL20vMDZfbm0",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g255060-d257278-Reviews-Sydney_Opera_House-Sydney_New_South_Wales.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg",
@@ -1262,7 +1262,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Apadana",
       "britannica": "https://www.britannica.com/place/Apadana-of-Darius",
-      "google_maps": "https://www.google.com/maps/place/Incompleted+tomb+of+Darius+III/@29.9293353,52.8897445,17z/data=!3m1!4b1!4m6!3m5!1s0x3fade5a75f9308f3:0x7dc397c7be56a989!8m2!3d29.9293307!4d52.8923248!16s%2Fg%2F11kh9ty5tn?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Incompleted+tomb+of+Darius+III/@29.9293353,52.8897445,17z/data=!3m1!4b1!4m6!3m5!1s0x3fade5a75f9308f3:0x7dc397c7be56a989!8m2!3d29.9293307!4d52.8923248!16s%2Fg%2F11kh9ty5tn",
       "images": [
         "https://cdn.britannica.com/94/94894-050-C40775EF/Apadana-Darius-I-Persepolis-Iran.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/9/9f/Persian_city.jpg",
@@ -1285,7 +1285,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Bolshoi_Theatre",
       "britannica": "https://www.britannica.com/topic/Bolshoi-Theatre",
-      "google_maps": "https://www.google.com/maps/place/Bolshoi+Theatre/@55.7601335,37.6186486,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a5b4c576dbf:0x93a829189a1d29f2!8m2!3d55.7601335!4d37.6186486!16zL20vMDJtOXEx?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Bolshoi+Theatre/@55.7601335,37.6186486,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a5b4c576dbf:0x93a829189a1d29f2!8m2!3d55.7601335!4d37.6186486!16zL20vMDJtOXEx",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g198564-d190837-Reviews-Schloss_Neuschwanstein-Schwangau_Upper_Bavaria_Bavaria.htmlp",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/8/8b/Moscow-Bolshoi-Theare-1.jpg",
@@ -1308,7 +1308,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Maracan%C3%A3_Stadium",
       "britannica": "https://www.britannica.com/place/Maracana-Stadium",
-      "google_maps": "https://www.google.com/maps/place/Maracan%C3%A3/@-22.912156,-43.2327515,17z/data=!3m1!4b1!4m6!3m5!1s0x997e5dba888b0d:0xf5f33188ee6274e5!8m2!3d-22.912161!4d-43.2301712!16zL20vMDFxdjR5?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Maracan%C3%A3/@-22.912156,-43.2327515,17z/data=!3m1!4b1!4m6!3m5!1s0x997e5dba888b0d:0xf5f33188ee6274e5!8m2!3d-22.912161!4d-43.2301712!16zL20vMDFxdjR5",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/3/36/Maracan%C3%A3_Stadium_in_Rio_de_Janeiro.jpg",
         "https://cdn.britannica.com/22/138622-050-4230BED2/Maracana-Stadium-Rio-de-Janeiro-Braz.jpg",
@@ -1330,7 +1330,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Etemenanki",
       "britannica": "https://www.britannica.com/place/Etemenanki",
-      "google_maps": "https://www.google.com/maps/place/Ziggurat+of+Babel+(Tower+of+Babel)/@32.5362931,44.418539,17z/data=!3m1!4b1!4m6!3m5!1s0x1558fd6e11f9733d:0x8be80aedb0eb6a4d!8m2!3d32.5362886!4d44.4211193!16zL20vMGY2czk?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Ziggurat+of+Babel+(Tower+of+Babel)/@32.5362931,44.418539,17z/data=!3m1!4b1!4m6!3m5!1s0x1558fd6e11f9733d:0x8be80aedb0eb6a4d!8m2!3d32.5362886!4d44.4211193!16zL20vMGY2czk",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/5/5c/Etemenanki_Berlin.jpg",
         "https://lh3.googleusercontent.com/p/AF1QipMCEjSYxriO6bkYE-VFpLWQJkNsxiR9YuJNLrVt=s680-w680-h510",
@@ -1350,7 +1350,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
       "britannica": "https://www.britannica.com/topic/ziggurat-at-Ur",
-      "google_maps": "https://www.google.com/maps/place/Great+Ziggurat+of+Ur/@30.9627594,46.1005975,17z/data=!3m1!4b1!4m6!3m5!1s0x3fde0f04bcb0e269:0x3cc2e62923d6aa66!8m2!3d30.9627548!4d46.1031778!16zL20vMDV4bDg0?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Great+Ziggurat+of+Ur/@30.9627594,46.1005975,17z/data=!3m1!4b1!4m6!3m5!1s0x3fde0f04bcb0e269:0x3cc2e62923d6aa66!8m2!3d30.9627548!4d46.1031778!16zL20vMDV4bDg0",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g659534-d25310969-Reviews-Great_Ziggurat_of_Ur-Nasiriyah_Dhi_Qar_Province.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/1/18/Drawing_of_the_Ziggurat_of_Ur%2C_Iraq%2C_by_Marjorie_V._Duffell_for_C._L._Woolley%2C_1937.jpg",
@@ -1371,7 +1371,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Great_Bath",
       "britannica": "https://www.britannica.com/place/Great-Bath-Mohenjo-daro",
-      "google_maps": "https://www.google.com/maps/place/The+Great+Bath/@27.3252509,68.1300546,17z/data=!3m1!4b1!4m6!3m5!1s0x39350b66c06edee9:0xe6f8a77186ef4b12!8m2!3d27.3252462!4d68.1326349!16s%2Fm%2F0c3yw41?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/The+Great+Bath/@27.3252509,68.1300546,17z/data=!3m1!4b1!4m6!3m5!1s0x39350b66c06edee9:0xe6f8a77186ef4b12!8m2!3d27.3252462!4d68.1326349!16s%2Fm%2F0c3yw41",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mohenjo-daro.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Bath_of_Moenjodaro_by_smn121-5.JPG",
@@ -1392,7 +1392,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
       "britannica": "https://www.britannica.com/place/Great-Zimbabwe",
-      "google_maps": "https://www.google.com/maps/place/Great+Zimbabwe+National+Monument/@-20.2713259,30.9305492,17z/data=!3m1!4b1!4m6!3m5!1s0x1ecd0184c6f4ef7f:0xe92c1ec6afc766a0!8m2!3d-20.271331!4d30.9331295!16s%2Fg%2F12lppts0g?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Great+Zimbabwe+National+Monument/@-20.2713259,30.9305492,17z/data=!3m1!4b1!4m6!3m5!1s0x1ecd0184c6f4ef7f:0xe92c1ec6afc766a0!8m2!3d-20.271331!4d30.9331295!16s%2Fg%2F12lppts0g",
       "trip_advisor": "https://www.tripadvisor.com/AttractionProductReview-g298091-d24125295-Great_Zimbabwe-Bulawayo_Bulawayo_Province.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg",
@@ -1415,7 +1415,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Hermitage_Museum",
       "britannica": "https://www.britannica.com/topic/Hermitage-museum-Saint-Petersburg-Russia",
-      "google_maps": "https://www.google.com/maps/place/State+Hermitage+Museum/@59.9398317,30.3145597,17z/data=!3m1!4b1!4m6!3m5!1s0x4696310b32cbe2e9:0x74e032aa0505dfc!8m2!3d59.9398317!4d30.3145597!16zL20vMDE3cXlr?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/State+Hermitage+Museum/@59.9398317,30.3145597,17z/data=!3m1!4b1!4m6!3m5!1s0x4696310b32cbe2e9:0x74e032aa0505dfc!8m2!3d59.9398317!4d30.3145597!16zL20vMDE3cXlr",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298507-d300071-Reviews-The_State_Hermitage_Museum-St_Petersburg_Northwestern_District.html",
       "images": [
         "https://cdn.britannica.com/39/117239-050-9315F482/Hermitage-St-Petersburg.jpg",
@@ -1439,7 +1439,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Templo_Mayor",
       "britannica": "https://www.britannica.com/topic/Templo-Mayor",
-      "google_maps": "https://www.google.com/maps/place/Templo+Mayor,+La+Esmeralda,+07540+Ciudad+de+M%C3%A9xico,+CDMX,+Mexico/@19.4853258,-99.0904294,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1fa32fb8dd9f9:0x9f1d288f208d247a!8m2!3d19.4853208!4d-99.0878491!16s%2Fg%2F1tscpbxx?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Templo+Mayor,+La+Esmeralda,+07540+Ciudad+de+M%C3%A9xico,+CDMX,+Mexico/@19.4853258,-99.0904294,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1fa32fb8dd9f9:0x9f1d288f208d247a!8m2!3d19.4853208!4d-99.0878491!16s%2Fg%2F1tscpbxx",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g150800-d152191-Reviews-Museo_del_Templo_Mayor-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
       "images": [
         "https://cdn.britannica.com/98/147898-050-25F13D15/Ruins-Templo-Mayor-Mexico-City-Zocalo.jpg",
@@ -1461,13 +1461,13 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Kilwa_Kisiwani",
       "britannica": "https://www.britannica.com/place/Kilwa",
-      "google_maps": "https://www.google.com/maps/place/Kilwa+Kisiwani,+Tanzania/@-8.9658521,39.4775767,15z/data=!3m1!4b1!4m6!3m5!1s0x18f4efc4d22fa8d9:0x89628caa9070ac56!8m2!3d-8.965874!4d39.497082!16zL20vMDR4d3h6?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Kilwa+Kisiwani,+Tanzania/@-8.9658521,39.4775767,15z/data=!3m1!4b1!4m6!3m5!1s0x18f4efc4d22fa8d9:0x89628caa9070ac56!8m2!3d-8.965874!4d39.497082!16zL20vMDR4d3h6",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g14050045-d480393-Reviews-Kilwa_Kisiwani_World_Heritage_Site-Kilwa_Kisiwani_Island_Lindi_Region.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kilwa-Kisiwani-ruins-tanzania.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/d/d3/Great_Mosque_Kilwa_Kisiwani.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/1/1c/Interior_Kilwa_Kisiwani.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cc/32/3b/mosquee.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cc/32/3b/mosquee.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kilwa_Gerezani_Door.jpg"
       ]
     },
@@ -1483,7 +1483,7 @@
     "time_period": "PostClassical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/K%C5%8Dtoku-in",
-      "google_maps": "https://www.google.com/maps/place/Kotoku-in/@35.3168188,139.5331639,17z/data=!3m1!4b1!4m6!3m5!1s0x601845f2df49bc05:0x1ec393b02d6bef4c!8m2!3d35.3168145!4d139.5357442!16s%2Fg%2F11c2pcz953?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Kotoku-in/@35.3168188,139.5331639,17z/data=!3m1!4b1!4m6!3m5!1s0x601845f2df49bc05:0x1ec393b02d6bef4c!8m2!3d35.3168145!4d139.5357442!16s%2Fg%2F11c2pcz953",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g1066452-d11947042-Reviews-Kotoku_in-Nakano_Tokyo_Tokyo_Prefecture_Kanto.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kamakura_Budda_Daibutsu_front_1885.jpg",
@@ -1506,7 +1506,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Mahabodhi_Temple",
       "britannica": "https://www.britannica.com/place/Mahabodhi-Temple-in-Pagan",
-      "google_maps": "https://www.google.com/maps/place/Mahabodhi+Temple/@24.6959271,84.988839,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32c5b4bd80877:0xf8dd2e286fa80c97!8m2!3d24.6959222!4d84.9914193!16zL20vMDFneXl2?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Mahabodhi+Temple/@24.6959271,84.988839,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32c5b4bd80877:0xf8dd2e286fa80c97!8m2!3d24.6959222!4d84.9914193!16zL20vMDFneXl2",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g424922-d319997-Reviews-Mahabodhi_Temple-Bodh_Gaya_Gaya_District_Bihar.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mahabodhitemple.jpg",
@@ -1529,7 +1529,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
       "britannica": "https://www.britannica.com/topic/Meenaskshi-Amman-Temple",
-      "google_maps": "https://www.google.com/maps/place/Meenakshi+Temple/@12.8675545,80.1742293,11.67z/data=!4m6!3m5!1s0x3a52661ac1ef3333:0xe63425c7525c5050!8m2!3d13.0692587!4d80.2672797!16s%2Fg%2F1tlczlr6?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Meenakshi+Temple/@12.8675545,80.1742293,11.67z/data=!4m6!3m5!1s0x3a52661ac1ef3333:0xe63425c7525c5050!8m2!3d13.0692587!4d80.2672797!16s%2Fg%2F1tlczlr6",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297677-d321131-Reviews-Madurai_Meenakshi_Amman_Temple-Madurai_Madurai_District_Tamil_Nadu.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/a/af/MEENAKSHI_TEMPLE-VIEW_FROM_WEST_SIDE_TOWER.jpg",
@@ -1553,7 +1553,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Mont-Saint-Michel",
       "britannica": "https://www.britannica.com/place/Mont-Saint-Michel",
-      "google_maps": "https://www.google.com/maps/place/50170+Mont+Saint-Michel,+France/@48.6244883,-1.5390193,15z/data=!3m1!4b1!4m6!3m5!1s0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe!8m2!3d48.636063!4d-1.511457!16zL20vMDFwOGg2?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/50170+Mont+Saint-Michel,+France/@48.6244883,-1.5390193,15z/data=!3m1!4b1!4m6!3m5!1s0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe!8m2!3d48.636063!4d-1.511457!16zL20vMDFwOGg2",
       "trip_advisor": "https://www.tripadvisor.com/Tourism-g196646-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy-Vacations.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/7/78/Mont-Saint-Michel_vu_du_ciel.jpg",
@@ -1574,7 +1574,7 @@
     "time_period": "Modern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Hungarian_Parliament_Building",
-      "google_maps": "https://www.google.com/maps/place/Hungarian+Parliament+Building/@47.5071246,19.0430887,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc1046d4a33d:0x342122b8ff8f0f6e!8m2!3d47.507121!4d19.045669!16zL20vMDhsdnN0?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Hungarian+Parliament+Building/@47.5071246,19.0430887,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc1046d4a33d:0x342122b8ff8f0f6e!8m2!3d47.507121!4d19.045669!16zL20vMDhsdnN0",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g274887-d276817-Reviews-Hungarian_Parliament_Building-Budapest_Central_Hungary.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/3/37/Parliament_of_Hungary_November_2017.jpg",
@@ -1597,7 +1597,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/University_of_Oxford",
       "britannica": "https://www.britannica.com/topic/University-of-Oxford",
-      "google_maps": "https://www.google.com/maps/place/University+of+Oxford/@51.7570461,-1.2593942,17z/data=!3m1!4b1!4m6!3m5!1s0x4876c6a9ef8c485b:0xd2ff1883a001afed!8m2!3d51.7570429!4d-1.2545179!16zL20vMDd0Z24?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/University+of+Oxford/@51.7570461,-1.2593942,17z/data=!3m1!4b1!4m6!3m5!1s0x4876c6a9ef8c485b:0xd2ff1883a001afed!8m2!3d51.7570429!4d-1.2545179!16zL20vMDd0Z24",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186361-d188766-Reviews-University_of_Oxford-Oxford_Oxfordshire_England.html",
       "images": [
         "https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
@@ -1621,7 +1621,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
       "britannica": "https://www.britannica.com/topic/Saint-Basil-the-Blessed",
-      "google_maps": "https://www.google.com/maps/place/St.+Basil's+Cathedral/@55.7525259,37.6205065,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a5962e69605:0xa4cf168ae7cb3ae5!8m2!3d55.7525229!4d37.6230868!16zL20vMDE0bGZ0?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/St.+Basil's+Cathedral/@55.7525259,37.6205065,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a5962e69605:0xa4cf168ae7cb3ae5!8m2!3d55.7525229!4d37.6230868!16zL20vMDE0bGZ0",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298484-d300367-Reviews-Saint_Basil_s_Cathedral-Moscow_Central_Russia.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg",
@@ -1644,7 +1644,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
       "britannica": "https://www.britannica.com/place/Tower-of-Belem",
-      "google_maps": "https://www.google.com/maps/place/Bel%C3%A9m+Tower/@38.6915879,-9.2185576,17z/data=!3m2!4b1!5s0xd1ecb6968ca6973:0x7ffc53d5b48b9149!4m6!3m5!1s0xd1ecb42c3c29c4b:0x3002dcadcf52513f!8m2!3d38.6915837!4d-9.2159773!16zL20vMDVnYng2?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Bel%C3%A9m+Tower/@38.6915879,-9.2185576,17z/data=!3m2!4b1!5s0xd1ecb6968ca6973:0x7ffc53d5b48b9149!4m6!3m5!1s0xd1ecb42c3c29c4b:0x3002dcadcf52513f!8m2!3d38.6915837!4d-9.2159773!16zL20vMDVnYng2",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189158-d524074-Reviews-Torre_de_Belem-Lisbon_Lisbon_District_Central_Portugal.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg",
@@ -1667,10 +1667,10 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Sankor%C3%A9_Madrasah",
       "britannica": "https://www.britannica.com/place/Sankore-mosque",
-      "google_maps": "https://www.google.com/maps/place/Sankore+Mosquee/@16.7760627,-3.0081548,17z/data=!3m1!4b1!4m6!3m5!1s0xe17cfcde4287223:0x4a51fb7caac4e291!8m2!3d16.7760576!4d-3.0055745!16zL20vMDRxeHY1?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Sankore+Mosquee/@16.7760627,-3.0081548,17z/data=!3m1!4b1!4m6!3m5!1s0xe17cfcde4287223:0x4a51fb7caac4e291!8m2!3d16.7760576!4d-3.0055745!16zL20vMDRxeHY1",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g304007-d6949644-Reviews-Mosque_of_Sankore-Timbuktu_Tombouctou_Region.html",
       "images": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ef/2a/b7/sankore-mosque.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ef/2a/b7/sankore-mosque.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/1/1d/2007_Sankore_Mosque_Timbuktu_02.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/1/17/Fortier_368_Timbuktu_Sankore_Mosque.jpg"
       ]
@@ -1688,7 +1688,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Venetian_Arsenal",
       "britannica": "https://www.britannica.com/place/Arsenal-district-Venice-Italy",
-      "google_maps": "https://www.google.com/maps/place/Arsenale+di+Venezia/@45.4348539,12.3473206,17z/data=!3m1!4b1!4m6!3m5!1s0x477eae25ebd484eb:0x7580058aeacc7e86!8m2!3d45.4348502!4d12.3499009!16zL20vMDN0dHk0?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Arsenale+di+Venezia/@45.4348539,12.3473206,17z/data=!3m1!4b1!4m6!3m5!1s0x477eae25ebd484eb:0x7580058aeacc7e86!8m2!3d45.4348502!4d12.3499009!16zL20vMDN0dHk0",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187870-d24192294-Reviews-Venetian_Arsenal-Venice_Veneto.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d1/Campo_de_l%27Arsenal.jpg",
@@ -1710,14 +1710,14 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
       "britannica": "https://www.britannica.com/place/Gobekli-Tepe",
-      "google_maps": "https://www.google.com/maps/place/G%C3%B6beklitepe/@37.2232631,38.9192514,17z/data=!3m1!4b1!4m6!3m5!1s0x153466b65f6e3a5f:0x1667510255794d71!8m2!3d37.2232589!4d38.9218317!16zL20vMDJrZ256?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/G%C3%B6beklitepe/@37.2232631,38.9192514,17z/data=!3m1!4b1!4m6!3m5!1s0x153466b65f6e3a5f:0x1667510255794d71!8m2!3d37.2232589!4d38.9218317!16zL20vMDJrZ256",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g652373-d14803056-Reviews-Gobeklitepe-Sanliurfa_Sanliurfa_Province.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/b/b3/Urfa_G%C3%B6beklitepe_Building_B_5326.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/b/b5/G%C3%B6beklitepe_%C5%9Eanl%C4%B1urfa.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_archaeological_site_of_G%C3%B6bekli_Tepe_-_main_excavation_area.png",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/c6/75/ef/caption.jpg?w=1200&h=-1&s=1"
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/c6/75/ef/caption.jpg"
       ]
     },
     "categories": []
@@ -1731,7 +1731,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Nazca_lines",
       "britannica": "https://www.britannica.com/place/Nazca-Lines",
-      "google_maps": "https://www.google.com/maps/place/Nazca+Lines/@-14.7941967,-75.1071649,13z/data=!4m6!3m5!1s0x91141e46ccb532ad:0x1802d2b96697b591!8m2!3d-14.739027!4d-75.130005!16zL20vMDFmbnZn?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Nazca+Lines/@-14.7941967,-75.1071649,13z/data=!4m6!3m5!1s0x91141e46ccb532ad:0x1802d2b96697b591!8m2!3d-14.739027!4d-75.130005!16zL20vMDFmbnZn",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG",
         "https://upload.wikimedia.org/wikipedia/commons/4/42/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_54.JPG",
@@ -1751,7 +1751,7 @@
     "time_period": "Prehistoric",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Tarxien_Temples",
-      "google_maps": "https://www.google.com/maps/place/Tarxien+Temples/@35.8691842,14.5070567,17z/data=!3m1!4b1!4m6!3m5!1s0x130e5ae6bcca5aa1:0x6f4c3352d24ae7ca!8m2!3d35.86918!4d14.511933!16s%2Fm%2F02vqrss?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Tarxien+Temples/@35.8691842,14.5070567,17z/data=!3m1!4b1!4m6!3m5!1s0x130e5ae6bcca5aa1:0x6f4c3352d24ae7ca!8m2!3d35.86918!4d14.511933!16s%2Fm%2F02vqrss",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g1469134-d313298-Reviews-Tarxien_Temples-Tarxien_Island_of_Malta.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/7/70/Entrance_to_apses_of_the_Central_Temple%2C_Tarxien_Temples.jpg",
@@ -1772,7 +1772,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Cahokia",
       "britannica": "https://www.britannica.com/place/Cahokia-Mounds",
-      "google_maps": "https://www.google.com/maps/place/Cahokia+Mounds+State+Historic+Site/@38.6550685,-90.0644031,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8ab52d79595af:0x30679191aa51caf6!8m2!3d38.6550643!4d-90.0618228!16s%2Fm%2F06_0t1z?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Cahokia+Mounds+State+Historic+Site/@38.6550685,-90.0644031,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8ab52d79595af:0x30679191aa51caf6!8m2!3d38.6550643!4d-90.0618228!16s%2Fm%2F06_0t1z",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g35832-d274020-Reviews-Cahokia_Mounds_State_Historic_Site-Collinsville_Illinois.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/a/a4/Monks_Mound_-_Summer_2024.jpg",
@@ -1815,7 +1815,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Masada",
       "britannica": "https://www.britannica.com/place/Masada",
-      "google_maps": "https://www.google.com/maps/place/Masada,+Israel/@32.6829574,35.5930382,17z/data=!3m1!4b1!4m6!3m5!1s0x151c6a581695aa29:0xcbb81729338a8611!8m2!3d32.682305!4d35.597657!16s%2Fm%2F03h0twx?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Masada,+Israel/@32.6829574,35.5930382,17z/data=!3m1!4b1!4m6!3m5!1s0x151c6a581695aa29:0xcbb81729338a8611!8m2!3d32.682305!4d35.597657!16s%2Fm%2F03h0twx",
       "trip_advisor": "https://www.tripadvisor.com/Tourism-g13149292-Masada_Dead_Sea_Region-Vacations.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/1/14/Israel-2013-Aerial_21-Masada.jpg",
@@ -1836,7 +1836,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Tikal",
       "britannica": "https://www.britannica.com/place/Tikal",
-      "google_maps": "https://www.google.com/maps/place/Tikal,+Guatemala/@17.2239582,-89.6261859,15z/data=!3m1!4b1!4m6!3m5!1s0x8f5fa6ca55526adb:0x12e1837f24e01655!8m2!3d17.2248941!4d-89.6110378!16s%2Fg%2F12xpws6r0?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Tikal,+Guatemala/@17.2239582,-89.6261859,15z/data=!3m1!4b1!4m6!3m5!1s0x8f5fa6ca55526adb:0x12e1837f24e01655!8m2!3d17.2248941!4d-89.6110378!16s%2Fg%2F12xpws6r0",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g292015-d10736302-Reviews-Tikal-Tikal_National_Park_Peten_Department.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tikal-Plaza-And-North-Acropolis.jpg",
@@ -1860,7 +1860,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Karnak",
       "britannica": "https://www.britannica.com/place/Karnak",
-      "google_maps": "https://www.google.com/maps/place/Karnak/@25.7188394,32.65469,17z/data=!3m1!4b1!4m6!3m5!1s0x1449159228fec0cd:0xc71ae8c008c259d8!8m2!3d25.7188346!4d32.6572703!16zL20vMDE0d3k0?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Karnak/@25.7188394,32.65469,17z/data=!3m1!4b1!4m6!3m5!1s0x1449159228fec0cd:0xc71ae8c008c259d8!8m2!3d25.7188346!4d32.6572703!16zL20vMDE0d3k0",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294205-d459885-Reviews-Temple_of_Karnak-Luxor_Nile_River_Valley.html",
       "images": [
         "https://cdn.britannica.com/01/178001-050-2DAD3B4E/temple-complex-Nile-River-Egypt-Karnak.jpg",
@@ -1882,7 +1882,7 @@
     "time_period": "PostClassical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Tulum",
-      "google_maps": "https://www.google.com/maps/place/Tulum/@20.2149554,-87.4320015,17z/data=!3m1!4b1!4m6!3m5!1s0x8f4fd17d16293265:0xff68d6fca492c963!8m2!3d20.2149504!4d-87.4294212!16zL20vMDF6c3c4?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Tulum/@20.2149554,-87.4320015,17z/data=!3m1!4b1!4m6!3m5!1s0x8f4fd17d16293265:0xff68d6fca492c963!8m2!3d20.2149504!4d-87.4294212!16zL20vMDF6c3c4",
       "trip_advisor": "https://www.tripadvisor.com/AttractionProductReview-g150807-d15767449-Tulum_Ruins_and_Cenote_Guided_Tour_plus_Snacks-Cancun_Yucatan_Peninsula.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tulum_Maya-13.jpg",
@@ -1903,7 +1903,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Tiwanaku",
       "britannica": "https://www.britannica.com/place/Tiwanaku",
-      "google_maps": "https://www.google.com/maps/place/Tiwanaku+Archaeological+Complex/@-16.5556672,-68.6753725,17z/data=!3m1!4b1!4m6!3m5!1s0x915ebd095b253df7:0xb8501935a205e22a!8m2!3d-16.5556724!4d-68.6727922!16s%2Fg%2F11c6sl17cf?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Tiwanaku+Archaeological+Complex/@-16.5556672,-68.6753725,17z/data=!3m1!4b1!4m6!3m5!1s0x915ebd095b253df7:0xb8501935a205e22a!8m2!3d-16.5556724!4d-68.6727922!16s%2Fg%2F11c6sl17cf",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g12920367-d554769-Reviews-Tiwanaku-Tiwanaku_La_Paz_Department.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/0/0c/PUERTA_DEL_SOL_TIWANAKU.jpg",
@@ -1925,14 +1925,14 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Pyramid_of_the_Sun",
       "britannica": "https://www.britannica.com/place/Pyramid-of-the-Sun",
-      "google_maps": "https://www.google.com/maps/place/Pyramid+of+the+Sun/@19.6922779,-98.8460838,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1ea845eb30ff9:0xad84278bbe6d0c38!8m2!3d19.6922729!4d-98.8435035!16zL20vMDkxdm1m?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Pyramid+of+the+Sun/@19.6922779,-98.8460838,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1ea845eb30ff9:0xad84278bbe6d0c38!8m2!3d19.6922729!4d-98.8435035!16zL20vMDkxdm1m",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g499421-d15026179-Reviews-Teotihuacan_Pyramids-San_Juan_Teotihuacan_Central_Mexico_and_Gulf_Coast.html",
       "images": [
         "https://cdn.britannica.com/02/147902-050-BA146002/Pyramid-of-the-Sun-city-Mexico-Teotihuacan.jpg",
         "https://cdn.britannica.com/88/178088-050-1A92412B/Tourists-Pyramid-of-the-Sun-Mexico-Teotihuacan.jpg",
         "https://cdn.britannica.com/73/117773-050-856A2EA6/Pyramid-of-the-Sun-Teotihuacan.jpg",
         "https://cdn.britannica.com/04/196804-050-823CD643/Pyramid-of-the-Sun-Teotihuacan-Mexico.jpg",
-        "https://cdn.britannica.com/67/9067-004-C69929E4/Pyramid-of-the-Sun-Teotihuacan-Mexico.jpg?s=1500x700&q=85"
+        "https://cdn.britannica.com/67/9067-004-C69929E4/Pyramid-of-the-Sun-Teotihuacan-Mexico.jpg"
       ]
     },
     "categories": []
@@ -1946,7 +1946,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Luxor_Temple",
       "britannica": "https://www.britannica.com/place/Temple-of-Luxor",
-      "google_maps": "https://www.google.com/maps/place/Luxor+Temple/@25.6995068,32.6364706,17z/data=!3m1!4b1!4m6!3m5!1s0x144915c41edadf61:0x7693895c346c7d81!8m2!3d25.699502!4d32.6390509!16zL20vMDNwcDd2?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Luxor+Temple/@25.6995068,32.6364706,17z/data=!3m1!4b1!4m6!3m5!1s0x144915c41edadf61:0x7693895c346c7d81!8m2!3d25.699502!4d32.6390509!16zL20vMDNwcDd2",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294205-d318954-Reviews-Luxor_Temple-Luxor_Nile_River_Valley.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/b/b5/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg",
@@ -1967,7 +1967,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
       "britannica": "https://www.britannica.com/place/Valley-of-the-Kings",
-      "google_maps": "https://www.google.com/maps/place/Valley+of+the+Kings/@25.7425897,32.5964331,16z/data=!3m1!4b1!4m6!3m5!1s0x14493d8ab5defed7:0x718fccf6a2e3a9da!8m2!3d25.7401643!4d32.601411!16zL20vMDhtOHc2?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Valley+of+the+Kings/@25.7425897,32.5964331,16z/data=!3m1!4b1!4m6!3m5!1s0x14493d8ab5defed7:0x718fccf6a2e3a9da!8m2!3d25.7401643!4d32.601411!16zL20vMDhtOHc2",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294205-d321166-Reviews-Valley_of_the_Kings-Luxor_Nile_River_Valley.html",
       "images": [
         "https://cdn.britannica.com/82/116482-050-72B23431/Mortuary-temple-Hatshepsut-Valley-of-the-Kings.jpg",
@@ -1988,7 +1988,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Abu_Simbel",
       "britannica": "https://www.britannica.com/place/Abu-Simbel",
-      "google_maps": "https://www.google.com/maps/place/Abu+Simbel+Temples/@22.3536434,31.4863861,11z/data=!4m15!1m8!3m7!1s0x143aaa0c0b2b0255:0xd72413107b5e4b58!2sAbu+Simbel,+Aswan+Governorate,+Egypt!3b1!8m2!3d22.11231!4d31.6739371!16s%2Fg%2F11h56n6dzn!3m5!1s0x143aa988b126055b:0xa7d3cc6618f898d2!8m2!3d22.3372319!4d31.625799!16zL20vMDF4am5r?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Abu+Simbel+Temples/@22.3536434,31.4863861,11z/data=!4m15!1m8!3m7!1s0x143aaa0c0b2b0255:0xd72413107b5e4b58!2sAbu+Simbel,+Aswan+Governorate,+Egypt!3b1!8m2!3d22.11231!4d31.6739371!16s%2Fg%2F11h56n6dzn!3m5!1s0x143aa988b126055b:0xa7d3cc6618f898d2!8m2!3d22.3372319!4d31.625799!16zL20vMDF4am5r",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297540-d317826-Reviews-Abu_Simbel_Temple_Complex-Abu_Simbel_Aswan_Governorate_Nile_River_Valley.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg",
@@ -2009,7 +2009,7 @@
     "time_period": "Classical",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Gate_of_All_Nations",
-      "google_maps": "https://www.google.com/maps/place/Gate+of+All+Nations%E2%80%8C/@29.9361674,52.8864277,17z/data=!3m1!4b1!4m6!3m5!1s0x3fade35be0e25557:0x1b44204c7878d78a!8m2!3d29.9361628!4d52.889008!16s%2Fm%2F0jky4y_?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Gate+of+All+Nations%E2%80%8C/@29.9361674,52.8864277,17z/data=!3m1!4b1!4m6!3m5!1s0x3fade35be0e25557:0x1b44204c7878d78a!8m2!3d29.9361628!4d52.889008!16s%2Fm%2F0jky4y_",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/6/66/20101229_Gates_of_the_nations_Persepolis_Iran.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/e/ea/Persepolis_24.11.2009_11-06-03.jpg",
@@ -2029,7 +2029,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Roman_Forum",
       "britannica": "https://www.britannica.com/topic/Roman-Forum",
-      "google_maps": "https://www.google.com/maps/place/Roman+Forum/@41.8920946,12.4838575,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b383a9cdef:0xfa914007c0ec7de6!8m2!3d41.8920906!4d12.4864378!16zL20vMG4xNnQ?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Roman+Forum/@41.8920946,12.4838575,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b383a9cdef:0xfa914007c0ec7de6!8m2!3d41.8920906!4d12.4864378!16zL20vMG4xNnQ",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/5/5a/2012-02-17_Foro_Romano_da_Palazzo_Senatorio_3.jpg",
@@ -2049,7 +2049,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Pont_du_Gard",
       "britannica": "https://www.britannica.com/topic/Pont-du-Gard",
-      "google_maps": "https://www.google.com/maps/place/Pont+du+Gard/@43.9475698,4.5323797,17z/data=!3m1!4b1!4m6!3m5!1s0x12b5c8c248e704d5:0x26b17319f386eae2!8m2!3d43.947566!4d4.53496!16zL20vMDFjNDJf?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Pont+du+Gard/@43.9475698,4.5323797,17z/data=!3m1!4b1!4m6!3m5!1s0x12b5c8c248e704d5:0x26b17319f386eae2!8m2!3d43.947566!4d4.53496!16zL20vMDFjNDJf",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g651718-d197785-Reviews-Pont_du_Gard-Vers_Pont_du_Gard_Gard_Occitanie.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/4/42/Pont_du_Gard_BLS.jpg",
@@ -2070,7 +2070,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
       "britannica": "https://www.britannica.com/topic/Pantheon-building-Rome-Italy",
-      "google_maps": "https://www.google.com/maps/place/Pantheon/@41.8986147,12.4719966,17z/data=!3m1!4b1!4m6!3m5!1s0x132f604f678640a9:0xcad165fa2036ce2c!8m2!3d41.8986108!4d12.4768729!16zL20vMDF4emR6?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Pantheon/@41.8986147,12.4719966,17z/data=!3m1!4b1!4m6!3m5!1s0x132f604f678640a9:0xcad165fa2036ce2c!8m2!3d41.8986108!4d12.4768729!16zL20vMDF4emR6",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187791-d197714-Reviews-Pantheon-Rome_Lazio.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg",
@@ -2091,7 +2091,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Diocletian's_Palace",
       "britannica": "https://www.britannica.com/topic/Palace-of-Diocletian",
-      "google_maps": "https://www.google.com/maps/place/Diocletian's+Palace/@43.5077883,16.438568,17.33z/data=!4m6!3m5!1s0x13355dfe535cfc4f:0x921ac62569576f32!8m2!3d43.5082646!4d16.4401754!16zL20vMDV5dmxk?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Diocletian's+Palace/@43.5077883,16.438568,17.33z/data=!4m6!3m5!1s0x13355dfe535cfc4f:0x921ac62569576f32!8m2!3d43.5082646!4d16.4401754!16zL20vMDV5dmxk",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g295370-d23736149-Reviews-Diocletian_Palace_Substructures-Split_Split_Dalmatia_County_Dalmatia.html",
       "images": [
         "https://cdn.britannica.com/68/95568-050-A0955C0F/Palace-of-Diocletian-Split-Croatia.jpg",
@@ -2114,7 +2114,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Palenque",
       "britannica": "https://www.britannica.com/place/Palenque-ancient-city-Mexico",
-      "google_maps": "https://www.google.com/maps/place/Zona+Arqueol%C3%B3gica+Palenque/@17.4847748,-92.0484752,17z/data=!3m1!4b1!4m6!3m5!1s0x85f244c777bddbdd:0x6ebbea71995ddcf1!8m2!3d17.4847697!4d-92.0458949!16zL20vMGsxZDA?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Zona+Arqueol%C3%B3gica+Palenque/@17.4847748,-92.0484752,17z/data=!3m1!4b1!4m6!3m5!1s0x85f244c777bddbdd:0x6ebbea71995ddcf1!8m2!3d17.4847697!4d-92.0458949!16zL20vMGsxZDA",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g249851-d4074608-Reviews-Zona_Arqueologica_de_Palenque-Palenque_Southern_Mexico.html",
       "images": [
         "https://cdn.britannica.com/66/75966-050-BEAF3FFE/watchtower-palace-Palenque-Mexico.jpg",
@@ -2136,7 +2136,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Temple_of_Heaven",
       "britannica": "https://www.britannica.com/topic/Temple-of-Heaven",
-      "google_maps": "https://www.google.com/maps/place/Temple+of+Heaven/@39.8820432,116.4027162,16.33z/data=!4m6!3m5!1s0x35f04d6019ff91eb:0x372c15453b110e6a!8m2!3d39.8821803!4d116.4066056!16zL20vMGo2Mzg?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Temple+of+Heaven/@39.8820432,116.4027162,16.33z/data=!4m6!3m5!1s0x35f04d6019ff91eb:0x372c15453b110e6a!8m2!3d39.8821803!4d116.4066056!16zL20vMGo2Mzg",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294212-d311534-Reviews-Temple_of_Heaven-Beijing.html",
       "images": [
         "https://cdn.britannica.com/41/178641-050-0FCF7D98/Hall-of-Prayer-for-Good-Harvests-complex.jpg",
@@ -2157,7 +2157,7 @@
     "time_period": "EarlyModern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Pura_Ulun_Danu_Bratan",
-      "google_maps": "https://www.google.com/maps/place/Ulun+Danu+Beratan+Temple/@-8.2751754,115.1642431,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd1896c9fac0857:0x18246568e4db1b53!8m2!3d-8.2751807!4d115.1668234!16s%2Fm%2F05zyg1h?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Ulun+Danu+Beratan+Temple/@-8.2751754,115.1642431,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd1896c9fac0857:0x18246568e4db1b53!8m2!3d-8.2751807!4d115.1668234!16s%2Fm%2F05zyg1h",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g608496-d447061-Reviews-Ulun_Danu_Bratan_Temple-Tabanan_Bali.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg",
@@ -2178,10 +2178,10 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Umayyad_Mosque",
       "britannica": "https://www.britannica.com/topic/Great-Mosque-of-Damascus",
-      "google_maps": "https://www.google.com/maps/place/Umayyad+Mosque/@33.511332,36.3068932,17z/data=!3m1!4b1!4m6!3m5!1s0x1518e6d61fc6c047:0x460d2bef9641dbeb!8m2!3d33.511332!4d36.3068932!16zL20vMDdkbXYw?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Umayyad+Mosque/@33.511332,36.3068932,17z/data=!3m1!4b1!4m6!3m5!1s0x1518e6d61fc6c047:0x460d2bef9641dbeb!8m2!3d33.511332!4d36.3068932!16zL20vMDdkbXYw",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294011-d561047-Reviews-Damascus_Umayyad_Mosque-Damascus.html",
       "images": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/eb/32/93/an-amazing-place-to-visit.jpg?w=1000&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/eb/32/93/an-amazing-place-to-visit.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/d/d5/Umayyad_Mosque%2C_Damascus.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/4/49/Umayyad_Mosque-Dome_of_the_Treasury211099.jpg",
         "https://cdn.britannica.com/31/91331-050-AB1EB07B/entrance-Great-Mosque-Damascus-Umayyads.jpg",
@@ -2200,7 +2200,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
       "britannica": "https://www.britannica.com/topic/Mosque-Cathedral-of-Cordoba",
-      "google_maps": "https://www.google.com/maps/place/Mosque-Cathedral+of+C%C3%B3rdoba/@37.8789098,-4.7819672,17z/data=!3m1!4b1!4m6!3m5!1s0xd6d2082ce1a16cf:0xefebc353f81bf636!8m2!3d37.8789056!4d-4.7793869!16zL20vMDNjYmtf?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Mosque-Cathedral+of+C%C3%B3rdoba/@37.8789098,-4.7819672,17z/data=!3m1!4b1!4m6!3m5!1s0xd6d2082ce1a16cf:0xefebc353f81bf636!8m2!3d37.8789056!4d-4.7793869!16zL20vMDNjYmtf",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187430-d27152546-Reviews-Mosque_Cathedral_of_Cordoba-Cordoba_Province_of_Cordoba_Andalucia.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg",
@@ -2222,7 +2222,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
       "britannica": "https://www.britannica.com/topic/Saint-Peters-Basilica",
-      "google_maps": "https://www.google.com/maps/place/St.+Peter's+Basilica/@41.9021667,12.4539367,17z/data=!3m1!4b1!4m6!3m5!1s0x132f6061b7149b59:0x724bf077cd875283!8m2!3d41.9021667!4d12.4539367!16zL20vMGpueW0?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/St.+Peter's+Basilica/@41.9021667,12.4539367,17z/data=!3m1!4b1!4m6!3m5!1s0x132f6061b7149b59:0x724bf077cd875283!8m2!3d41.9021667!4d12.4539367!16zL20vMGpueW0",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187793-d631111-Reviews-St_Peter_s_Basilica-Vatican_City_Lazio.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
@@ -2243,7 +2243,7 @@
     "time_period": "EarlyModern",
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Registan",
-      "google_maps": "https://www.google.com/maps/place/Registan+Square/@39.6548711,66.9730359,17z/data=!3m1!4b1!4m6!3m5!1s0x3f4d18b7c2e59337:0x532c8e039ecc92af!8m2!3d39.654867!4d66.9756162!16zL20vMDNxeTZi?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Registan+Square/@39.6548711,66.9730359,17z/data=!3m1!4b1!4m6!3m5!1s0x3f4d18b7c2e59337:0x532c8e039ecc92af!8m2!3d39.654867!4d66.9756162!16zL20vMDNxeTZi",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298068-d317897-Reviews-Registan-Samarkand_Samarqand_Province.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/0/00/Registan_square_Samarkand.jpg",
@@ -2264,7 +2264,7 @@
     "links": {
       "wiki": "https://en.wikipedia.org/wiki/Sigiriya",
       "britannica": "https://www.britannica.com/place/Sigiriya",
-      "google_maps": "https://www.google.com/maps/place/Sigiriya,+Sri+Lanka/@7.9546993,80.7339142,15z/data=!3m1!4b1!4m6!3m5!1s0x3afca0dfa73179d1:0x1e04c1150cff0edf!8m2!3d7.9541085!4d80.754698!16s%2Fm%2F0b6jy8p?entry=ttu",
+      "google_maps": "https://www.google.com/maps/place/Sigiriya,+Sri+Lanka/@7.9546993,80.7339142,15z/data=!3m1!4b1!4m6!3m5!1s0x3afca0dfa73179d1:0x1e04c1150cff0edf!8m2!3d7.9541085!4d80.754698!16s%2Fm%2F0b6jy8p",
       "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g304141-d4782530-Reviews-Sigiriya_The_Ancient_Rock_Fortress-Sigiriya_Central_Province.html",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/4/4c/Beauty_of_Sigiriya_by_Binuka.jpg",
