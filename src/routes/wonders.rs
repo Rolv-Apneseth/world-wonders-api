@@ -7,8 +7,9 @@ use axum_valid::Garde;
 use garde::Validate;
 use rand::prelude::*;
 use schemars::JsonSchema;
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 use strum::IntoEnumIterator;
+use strum_macros::EnumIter;
 
 use crate::{
     data::{Category, TimePeriod, Wonder, WONDERS},
@@ -41,7 +42,7 @@ pub struct CategoriesParams {
     exclude_games: Option<bool>,
 }
 
-#[derive(Debug, Deserialize, JsonSchema)]
+#[derive(Debug, Serialize, Deserialize, JsonSchema, PartialEq, Eq, PartialOrd, Ord, EnumIter)]
 pub enum SortBy {
     BuildYear,
     Alphabetical,
@@ -62,6 +63,10 @@ pub fn routes() -> ApiRouter {
         .api_route(
             "/time-periods",
             get_with(get_wonder_time_periods, get_wonder_time_periods_docs),
+        )
+        .api_route(
+            "/sort-by",
+            get_with(get_wonder_sort_by, get_wonder_sort_by_docs),
         )
         .api_route(
             "/random",
@@ -234,6 +239,18 @@ fn get_wonder_time_periods_docs(op: TransformOperation) -> TransformOperation {
         .description("Get all available human history time periods for wonders' construction times")
         .response_with::<200, Json<Vec<TimePeriod>>, _>(|res| {
             res.example(TimePeriod::iter().collect::<Vec<TimePeriod>>())
+        })
+}
+
+// GET WONDER SORT BY OPTIONS
+async fn get_wonder_sort_by() -> impl IntoApiResponse {
+    Json(SortBy::iter().collect::<Vec<SortBy>>()).into_response()
+}
+fn get_wonder_sort_by_docs(op: TransformOperation) -> TransformOperation {
+    op.summary("Wonder sort by options")
+        .description("Get all valid options for sorting wonders")
+        .response_with::<200, Json<Vec<SortBy>>, _>(|res| {
+            res.example(SortBy::iter().collect::<Vec<SortBy>>())
         })
 }
 
@@ -528,6 +545,14 @@ mod tests {
             time_periods,
             TimePeriod::iter().collect::<Vec<TimePeriod>>()
         );
+    }
+
+    #[tokio::test]
+    async fn test_get_wonder_sort_by() {
+        let server = get_route_server!(get_wonder_sort_by);
+
+        let sort_by = extract_response!(server, Vec<SortBy>);
+        assert_eq!(sort_by, SortBy::iter().collect::<Vec<SortBy>>());
     }
 
     #[tokio::test]
