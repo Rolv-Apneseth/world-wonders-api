@@ -15,7 +15,7 @@ and various other links related to it.
 A public instance is available for anyone to use at [world-wonders-api.org](https://www.world-wonders-api.org), no API keys are required. This is subject to change if it is
 deemed necessary in the future, but hopefully that won't be the case.
 
-Documentation is available [here](https://www.world-wonders-api.org/v0/docs).
+Documentation is available [here](https://www.world-wonders-api.org/v0/docs), and a demo website utilising this API is available [here](https://explorer.world-wonders-api.org).
 
 ## Deployment
 
