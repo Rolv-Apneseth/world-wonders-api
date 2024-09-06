@@ -1,7 +1,7 @@
 use std::net::SocketAddr;
 
 use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
-use world_wonders_api::{get_app, shutdown_signal, DOCS_ROUTE, PORT};
+use world_wonders_api::{config::get_config, get_app, shutdown_signal, DOCS_ROUTE};
 
 #[tokio::main]
 async fn main() {
@@ -15,7 +15,9 @@ async fn main() {
 
     let app = get_app();
 
-    let addr = SocketAddr::from(([0, 0, 0, 0], PORT));
+    let config = get_config().expect("Failed to read configuration");
+
+    let addr = SocketAddr::from((config.network.host, config.network.port));
     let listener = tokio::net::TcpListener::bind(addr)
         .await
         .expect("Failed binding listener");

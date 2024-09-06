@@ -22,13 +22,12 @@ use tower_http::{
     trace::TraceLayer,
 };
 
+pub mod config;
 pub mod data;
 pub mod error;
 pub mod extractors;
 pub mod routes;
 
-// If changing, remember to update the Docker files
-pub const PORT: u16 = 8138;
 pub const DOCS_ROUTE: &str = "/v0/docs";
 pub const WONDERS_ROUTE: &str = "/v0/wonders";
 pub const METRICS_ROUTE: &str = "/metrics";

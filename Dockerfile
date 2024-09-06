@@ -10,6 +10,7 @@ FROM debian:12-slim
 ARG APP_NAME
 ARG PORT
 COPY --from=builder /usr/local/cargo/bin/$APP_NAME /usr/local/bin/server
+COPY config config
 
 RUN adduser \
     --disabled-password \
@@ -25,3 +26,4 @@ EXPOSE $PORT
 
 ENV RUST_LOG=debug
 CMD ["/usr/local/bin/server"]
+ENV APP_ENV=prod
