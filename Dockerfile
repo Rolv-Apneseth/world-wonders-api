@@ -1,15 +1,25 @@
 ARG RUST_VERSION=1.79.0
-ARG APP_NAME=world-wonders-api
-ARG PORT=8138
-FROM rust:${RUST_VERSION} AS builder
-WORKDIR /usr/src/${APP_NAME}
-COPY . .
-RUN cargo install --locked --path .
 
-FROM debian:12-slim
-ARG APP_NAME
+# CARGO-CHEF - build dependencies separately from project to reduce time between builds
+FROM lukemathwalker/cargo-chef:latest-rust-1.80.1 as chef
+WORKDIR /app
+RUN apt update && apt install lld clang -y
+
+FROM chef as planner
+COPY . .
+RUN cargo chef prepare  --recipe-path recipe.json
+
+FROM chef as builder
+COPY --from=planner /app/recipe.json recipe.json
+RUN cargo chef cook --release --recipe-path recipe.json
+COPY . .
+RUN cargo build --release --locked
+
+# RUN APPLICATION
+FROM debian:12-slim AS runner
 ARG PORT
-COPY --from=builder /usr/local/cargo/bin/$APP_NAME /usr/local/bin/server
+WORKDIR /app
+COPY --from=builder /app/target/release/world-wonders-api world-wonders-api
 COPY config config
 
 RUN adduser \
@@ -22,8 +32,6 @@ RUN adduser \
     appuser
 USER appuser
 
-EXPOSE $PORT
-
 ENV RUST_LOG=debug
-CMD ["/usr/local/bin/server"]
 ENV APP_ENV=prod
+CMD ["./world-wonders-api"]
