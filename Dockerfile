@@ -1,15 +1,15 @@
 ARG RUST_VERSION=1.79.0
 
 # CARGO-CHEF - build dependencies separately from project to reduce time between builds
-FROM lukemathwalker/cargo-chef:latest-rust-1.80.1 as chef
+FROM lukemathwalker/cargo-chef:latest-rust-1.80.1 AS chef
 WORKDIR /app
 RUN apt update && apt install lld clang -y
 
-FROM chef as planner
+FROM chef AS planner
 COPY . .
 RUN cargo chef prepare  --recipe-path recipe.json
 
-FROM chef as builder
+FROM chef AS builder
 COPY --from=planner /app/recipe.json recipe.json
 RUN cargo chef cook --release --recipe-path recipe.json
 COPY . .
