@@ -8,4 +8,5 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
+      # Make sure to match the internal port (rhs) to the port specified in `./config/base.toml`
       - "8138:8138"
