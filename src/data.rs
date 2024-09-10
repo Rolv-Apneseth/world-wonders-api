@@ -134,7 +134,7 @@ mod tests {
         assert!(WONDERS.len() > 0);
 
         // Validate data using `garde`
-        WONDERS.iter().for_each(|w| w.validate(&()).unwrap());
+        WONDERS.iter().for_each(|w| w.validate().unwrap());
 
         // To check for duplicate names
         let mut seen_names = HashSet::new();
