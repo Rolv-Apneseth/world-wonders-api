@@ -41,5 +41,6 @@ config = { version = "0.14.0", default-features = false, features = ["toml"] }
 [dev-dependencies]
 axum-test = "15.3.0"
 chrono = { version = "0.4.38" }
+clearurls = "0.0.1"
 httpc-test = "0.1.9"
 pretty_assertions = "1.4.0"
