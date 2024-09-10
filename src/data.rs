@@ -92,6 +92,7 @@ mod tests {
     use std::collections::HashSet;
 
     use chrono::prelude::*;
+    use clearurls::UrlCleaner;
 
     use super::*;
 
@@ -144,6 +145,9 @@ mod tests {
         // Current year
         let year = Utc::now().year();
 
+        // URL cleaner
+        let cleaner = UrlCleaner::from_embedded_rules().expect("Could not create URL cleaner");
+
         WONDERS.iter().for_each(
             |Wonder {
                 name,
@@ -168,6 +172,10 @@ mod tests {
                 assert!(location.contains(','), "Location must define a continent:\n{location}");
                 assert!(summary.ends_with('.') || summary.ends_with('!'), "Summary must end with proper punctuation:\n{summary}");
 
+                // Unique name
+                assert!(!seen_names.contains(name.as_str()), "Duplicate name: '{name}'");
+                seen_names.insert(name.as_str());
+
                 // Build year + time period
                 assert!(*build_year as i32 <= year, "Build year exceeds current calendar year: {build_year}");
                 let expected_time_period = TimePeriod::from(*build_year);
@@ -184,31 +192,41 @@ mod tests {
                 assert_eq!(categories_clone.len(), categories.len(), "There are duplicate categories: {categories:?}");
 
                 // LINKS
+                let mut all_links: Vec<&str> = Vec::with_capacity(images.len() + 4);
+
                 // Wiki link
+                all_links.push(wiki.as_str());
                 assert!(!wiki.contains('#'), "Selecting specific element in wiki page: {wiki}");
-                assert!(!seen_links.contains(wiki), "Duplicate link: {wiki}");
-                seen_links.insert(wiki);
 
                 // Other links (`Option` values)
                 [britannica, google_maps, trip_advisor].into_iter().for_each(|l| {
                     if let Some(l) = l {
                         assert!(!l.contains('#'), "Selecting specific element in link: {l}");
                         assert!(!l.contains('?'), "Passing query parameters in link: {l}");
-                        assert!(!seen_links.contains(l), "Duplicate link: {l}");
-                        seen_links.insert(l);
+                        all_links.push(l);
                     };
                 });
 
                 // Image links
                 assert!(images.len() > 2, "Less than 2 image links provided");
                 images.iter().for_each(|img| {
-                    assert!(!seen_links.contains(img), "Duplicate link: {img}");
+                    all_links.push(img);
                     assert!(!img.contains('?'), "Passing query parameters in image link: {img}");
-                    seen_links.insert(img);
+
                 });
 
-                assert!(!seen_names.contains(name.as_str()), "Duplicate name: '{name}'");
-                seen_names.insert(name.as_str());
+                // Checks which should happen for all links
+                for l in all_links {
+                    // Must be unique
+                    assert!(!seen_links.contains(l), "Duplicate link: {l}");
+                    seen_links.insert(l);
+
+                    // Must be clean
+                    let clean = cleaner.clear_url(l).expect("failed cleaning link: {l}");
+                    assert!(
+                        matches!(&clean, std::borrow::Cow::Owned(s) if s == l), "Not a clean URL: {l}\nReplace with {clean}"
+                    );
+                }
             },
         )
     }

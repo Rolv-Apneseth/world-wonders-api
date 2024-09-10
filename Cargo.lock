@@ -403,6 +403,19 @@ dependencies = [
 ]
 
 [[package]]
+name = "clearurls"
+version = "0.0.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "43fc7f36a3c67dbab43420dfb7f6f6ae5b407a720d200c715b17d2fe036258e4"
+dependencies = [
+ "percent-encoding",
+ "regex",
+ "serde",
+ "serde_json",
+ "url",
+]
+
+[[package]]
 name = "compact_str"
 version = "0.7.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2838,6 +2851,7 @@ dependencies = [
  "axum-test",
  "axum-valid",
  "chrono",
+ "clearurls",
  "config",
  "garde",
  "httpc-test",
