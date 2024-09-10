@@ -1,5 +1,6 @@
 alias b := build
 alias c := check
+alias cl := check-links
 alias t := test
 alias d := develop
 alias dc := develop-client
@@ -13,6 +14,10 @@ default:
 # Check
 check:
     cargo check && cargo clippy --all -- -W clippy::all
+
+# Check links are valid
+check-links:
+    lychee data.json --accept "200..=204, 403" -t 5
 
 # Test
 test: check
