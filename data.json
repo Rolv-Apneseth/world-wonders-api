@@ -1660,7 +1660,7 @@
   },
   {
     "name": "Sankoré Madrasah",
-    "location": "Timbuktu, Mali",
+    "location": "Timbuktu, Mali, Africa",
     "summary": "A medieval mosque and centre of learning founded in the 14th century. The mosque developed into a madrasa (meaning a school or college in Arabic), reaching its peak in the 16th century. It went through multiple periods of patronage and renovation under both the Mali Empire and the Songhai Empire until its decline following the Battle of Tondibi in 1591.",
     "build_year": 1500,
     "time_period": "PostClassical",
@@ -1724,7 +1724,7 @@
   },
   {
     "name": "Nazca Lines",
-    "location": "Nazca Desert, Peru",
+    "location": "Nazca Desert, Peru, South America",
     "summary": "A group of geoglyphs made in the soil of the Nazca Desert. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed. Most lines run straight across the landscape, but there are also figurative designs of animals and plants. The combined length of all the lines is more than 1,300km.",
     "build_year": 500,
     "time_period": "Classical",
@@ -2151,7 +2151,7 @@
   },
   {
     "name": "Pura Ulun Danu Bratan",
-    "location": "Bali, Indonesia",
+    "location": "Bali, Indonesia, Asia",
     "summary": "A major Hindu Shaivite temple in Bali. Built in 1633, the temple is used for offerings and ceremonies dedicated to the Balinese water, lake and river goddess Dewi Danu, due to the importance of Lake Bratan as a main source of irrigation in central Bali. The 11-storey pelinggih meru in the complex is dedicated to Shiva and his consort Parvathi. Buddha's statue is also enshrined in this temple.",
     "build_year": 1633,
     "time_period": "EarlyModern",
@@ -2193,7 +2193,7 @@
   },
   {
     "name": "Mosque–Cathedral of Córdoba",
-    "location": "Córdoba, Spain",
+    "location": "Córdoba, Spain, Europe",
     "summary": "Officially known by its ecclesiastical name of Cathedral of Our Lady of the Assumption, is the cathedral of the Diocese of Córdoba. Due to its status as a former mosque, it is also known as the Mezquita and as the Great Mosque of Córdoba. The Great Mosque was constructed in 785 on the orders of Abd al-Rahman I, founder of the Islamic Emirate of Córdoba.",
     "build_year": 785,
     "time_period": "PostClassical",
