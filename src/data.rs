@@ -96,6 +96,15 @@ mod tests {
 
     use super::*;
 
+    const CONTINENTS: [&str; 6] = [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Oceania",
+        "South America",
+    ];
+
     macro_rules! assert_valid_text {
         ($val: ident) => {
             assert_eq!(
@@ -169,7 +178,11 @@ mod tests {
                 assert_valid_text!(location);
                 assert_valid_text!(summary);
 
-                assert!(location.contains(','), "Location must define a continent:\n{location}");
+                assert!(
+                    location.contains(',') &&
+                        CONTINENTS.contains(&location.rsplit_once(',').unwrap().1.trim_start()),
+                    "Location must define a continent:\n{location}"
+                );
                 assert!(summary.ends_with('.') || summary.ends_with('!'), "Summary must end with proper punctuation:\n{summary}");
 
                 // Unique name
