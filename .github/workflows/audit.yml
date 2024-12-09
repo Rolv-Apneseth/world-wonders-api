@@ -19,6 +19,5 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deny
-        uses: EmbarkStudios/cargo-deny-action@v1
-        with:
-            arguments: --all-features
+        run: |
+          cargo install --locked cargo-deny && cargo deny check
