@@ -7,7 +7,7 @@ use aide::{
 };
 use axum::{
     extract::{MatchedPath, Request},
-    http::Method,
+    http::{self, Method},
     Extension, Router,
 };
 use axum_prometheus::PrometheusMetricLayer;
@@ -31,6 +31,7 @@ pub mod routes;
 pub const DOCS_ROUTE: &str = "/v0/docs";
 pub const WONDERS_ROUTE: &str = "/v0/wonders";
 pub const METRICS_ROUTE: &str = "/metrics";
+pub const HEALTH_ROUTE: &str = "/health";
 
 pub fn get_app() -> Router {
     // API docs generation
@@ -62,6 +63,10 @@ pub fn get_app() -> Router {
         .nest_api_service(WONDERS_ROUTE, wonders::routes())
         .nest_api_service(DOCS_ROUTE, docs::routes())
         .api_route(METRICS_ROUTE, get(|| async move { metric_handle.render() }))
+        .api_route(
+            HEALTH_ROUTE,
+            get(|| async { (http::StatusCode::OK, "Healthy!") }),
+        )
         .fallback(handler_404)
         .finish_api_with(&mut api, api_docs)
         // Docs generation
