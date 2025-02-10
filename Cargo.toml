@@ -5,42 +5,41 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.86"
-axum = { version = "0.7.5", features = ["macros"] }
-httpc-test = "0.1.9"
-once_cell = "1.19.0"
-serde = { version = "1.0.203", features = ["derive", "rc"] }
-serde_json = { version = "1.0.117", features = ["preserve_order"] }
-tokio = { version = "1.38.0", features = ["macros", "rt-multi-thread"] }
-tracing = "0.1.40"
-tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }
-strum = "0.26"
-strum_macros = "0.26"
-rand = "0.8.5"
-tower-http = { version = "0.5", features = ["timeout", "trace", "cors"] }
-tower_governor = "0.4.2"
-thiserror = "1.0.61"
-aide = { version = "0.13.4", features = [
+axum = { version = "0.7.*", features = ["macros"] }
+httpc-test = "0.1.*"
+once_cell = "1.20.*"
+serde = { version = "1.0.*", features = ["derive", "rc"] }
+serde_json = { version = "1.0.*", features = ["preserve_order"] }
+tokio = { version = "1.43.*", features = ["macros", "rt-multi-thread"] }
+tracing = "0.1.*"
+tracing-subscriber = { version = "0.3.*", features = ["env-filter"] }
+strum = "0.27.*"
+strum_macros = "0.27.*"
+rand = "0.9.*"
+tower-http = { version = "0.6.*", features = ["timeout", "trace", "cors"] }
+tower_governor = "0.5.*"
+thiserror = "2.0.*"
+aide = { version = "0.13.*", features = [
   "axum",
   "axum-extra",
   "redoc",
   "scalar",
   "macros",
 ] }
-schemars = "0.8.21"
-axum-jsonschema = { version = "0.8.0", features = ["aide"] }
-axum-test = "15.3.0"
-axum-valid = { version = "0.20.0", features = [
+schemars = "0.8.*"
+axum-jsonschema = { version = "0.8.*", features = ["aide"] }
+axum-valid = { version = "0.21.*", features = [
   "aide",
   "basic",
   "garde",
 ], default-features = false }
-garde = { version = "0.20.0", features = ["derive", "url"] }
-axum-prometheus = "0.7.0"
-config = { version = "0.14.0", default-features = false, features = ["toml"] }
+garde = { version = "0.20.*", features = ["derive", "url"] }
+axum-prometheus = "0.7.*"
+config = { version = "0.15.*", default-features = false, features = ["toml"] }
 
 [dev-dependencies]
-axum-test = "15.3.0"
-chrono = { version = "0.4.38" }
-clearurls = "0.0.1"
-httpc-test = "0.1.9"
-pretty_assertions = "1.4.0"
+axum-test = "16.4.*"
+chrono = { version = "0.4.*" }
+clearurls = "0.0.*"
+httpc-test = "0.1.*"
+pretty_assertions = "1.4.*"
