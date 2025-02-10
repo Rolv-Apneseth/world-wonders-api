@@ -235,7 +235,7 @@ mod tests {
                     seen_links.insert(l);
 
                     // Must be clean
-                    let clean = cleaner.clear_url(l).expect("failed cleaning link: {l}");
+                    let clean = cleaner.clear_single_url_str(l).expect("failed cleaning link: {l}");
                     assert!(
                         matches!(&clean, std::borrow::Cow::Owned(s) if s == l), "Not a clean URL: {l}\nReplace with {clean}"
                     );

@@ -284,7 +284,7 @@ async fn get_random_wonder(
 ) -> impl IntoApiResponse {
     assert!(WONDERS.len() > 0);
 
-    let mut rng = rand::thread_rng();
+    let mut rng = rand::rng();
 
     let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
     if let Err(e) = filter_wonders(&mut wonders, filtering_params) {
