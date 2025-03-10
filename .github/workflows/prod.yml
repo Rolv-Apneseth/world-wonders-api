@@ -4,8 +4,8 @@ on:
     workflow_dispatch:
 
     push:
-        branches:
-            - main
+      branches:
+        - main
 
 jobs:
     build:
@@ -70,6 +70,4 @@ jobs:
                   password: ${{ secrets.SERVER_PASSWORD }}
                   script: |
                       cd /docker/world-wonders-api
-                      docker compose down
-                      docker compose pull
-                      docker compose up -d
+                      docker compose pull && docker compose up -d --remove-orphans && docker image prune -f
