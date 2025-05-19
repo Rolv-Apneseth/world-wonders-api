@@ -13,10 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install cargo-audit
+        uses: taiki-e/install-action@cargo-audit
+
       - name: Audit
-        uses: actions-rs/audit-check@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: cargo audit
 
       - name: Install cargo-deny
         uses: taiki-e/install-action@cargo-deny
