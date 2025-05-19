@@ -1,7 +1,5 @@
-ARG RUST_VERSION=1.79.0
-
 # CARGO-CHEF - build dependencies separately from project to reduce time between builds
-FROM lukemathwalker/cargo-chef:latest-rust-1.80.1 AS chef
+FROM lukemathwalker/cargo-chef:latest-rust-1 AS chef
 WORKDIR /app
 RUN apt update && apt install lld clang -y
 
