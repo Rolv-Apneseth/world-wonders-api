@@ -18,6 +18,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Install cargo-deny
+        uses: taiki-e/install-action@cargo-deny
+
       - name: Deny
-        run: |
-          cargo install --locked cargo-deny && cargo deny check
+        run: cargo deny check
