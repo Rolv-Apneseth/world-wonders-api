@@ -282,7 +282,7 @@ the name will be parsed as lowercase letters with spaces replaced with '-'.",
 async fn get_random_wonder(
     Garde(Query(filtering_params)): Garde<Query<WonderParamsFiltering>>,
 ) -> impl IntoApiResponse {
-    assert!(WONDERS.len() > 0);
+    assert!(!WONDERS.is_empty());
 
     let mut rng = rand::rng();
 
@@ -310,7 +310,7 @@ fn get_random_wonder_docs(op: TransformOperation) -> TransformOperation {
 async fn get_oldest_wonder(
     Garde(Query(filtering_params)): Garde<Query<WonderParamsFiltering>>,
 ) -> impl IntoApiResponse {
-    assert!(WONDERS.len() > 0);
+    assert!(!WONDERS.is_empty());
 
     let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
     if let Err(e) = filter_wonders(&mut wonders, filtering_params) {
@@ -339,7 +339,7 @@ fn get_oldest_wonder_docs(op: TransformOperation) -> TransformOperation {
 async fn get_youngest_wonder(
     Garde(Query(filtering_params)): Garde<Query<WonderParamsFiltering>>,
 ) -> impl IntoApiResponse {
-    assert!(WONDERS.len() > 0);
+    assert!(!WONDERS.is_empty());
 
     let mut wonders: Vec<&Wonder> = WONDERS.iter().collect();
     if let Err(e) = filter_wonders(&mut wonders, filtering_params) {
