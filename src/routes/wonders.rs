@@ -143,7 +143,7 @@ fn sort_wonders(wonders: &mut [&'static Wonder], params: WonderParamsSorting) {
     if let Some(sort_by) = params.sort_by.as_ref() {
         match sort_by {
             SortBy::Alphabetical => wonders.sort_by(|a, b| a.name.cmp(&b.name)),
-            SortBy::BuildYear => wonders.sort_by(|a, b| a.build_year.cmp(&b.build_year)),
+            SortBy::BuildYear => wonders.sort_by_key(|w| w.build_year),
         }
 
         // `sort_reverse` only matters when `sort_by` is provided, and `sort_reverse = true`
