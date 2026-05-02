@@ -1,8 +1,9 @@
 use garde::Validate;
-use once_cell::sync::Lazy;
 use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 use strum_macros::EnumIter;
+
+use std::sync::LazyLock;
 
 /// Human history time period of a world wonder
 #[derive(Serialize, Deserialize, Debug, PartialEq, Eq, EnumIter, JsonSchema)]
@@ -81,7 +82,7 @@ pub struct Wonder {
 }
 
 /// All wonders, read from `data.json`
-pub static WONDERS: Lazy<Vec<Wonder>> = Lazy::new(|| {
+pub static WONDERS: LazyLock<Vec<Wonder>> = LazyLock::new(|| {
     serde_json::from_str(include_str!("../data.json"))
         .map_err(|e| panic!("Encountered error while parsing JSON into wonders vec: {e:?}"))
         .unwrap()
