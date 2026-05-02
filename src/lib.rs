@@ -89,7 +89,7 @@ pub fn get_app() -> Router {
                     let matched_path = req
                         .extensions()
                         .get::<MatchedPath>()
-                        .map(|matched_path| matched_path.as_str());
+                        .map(axum::extract::MatchedPath::as_str);
 
                     tracing::debug_span!("request", %method, %uri, matched_path)
                 })
@@ -98,7 +98,10 @@ pub fn get_app() -> Router {
                 .on_failure(()),
         )
         // Timeout
-        .layer(TimeoutLayer::new(Duration::from_secs(10)))
+        .layer(TimeoutLayer::with_status_code(
+            http::StatusCode::REQUEST_TIMEOUT,
+            Duration::from_secs(10),
+        ))
 }
 fn api_docs(api: TransformOpenApi) -> TransformOpenApi {
     api.title("World Wonders API")
